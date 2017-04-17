@@ -1,0 +1,5 @@
+						Sta=10		Sta=50
+DSSS 1 Mbit/s (default)				0,88791		0,781926
+DSSS 1 Mbit/s (new Contention Window values )	0,890266	0,812544
+DSSS 5.5 Mbit/s (default)			3,96616		3,47392
+DSSS 5.5 Mbit/s (new Contention Window values )	3,9638		3,64349
