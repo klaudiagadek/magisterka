@@ -1,0 +1,11 @@
+Waf: Entering directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+[ 852/1768] Compiling scratch/ht-wifi-network11M_50.cc
+[1749/1768] Linking build/scratch/ht-wifi-network11M_50
+Waf: Leaving directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (20.048s)
+11 Mbit/s send
+Cw value = 741
+phyMode DsssRate11Mbps   Thr 6.18664Mbit/s   delay sum +22548604906779.0ns   delay +429202925.0ns   lost:52536   send:93450
+Cw value = 742
+phyMode DsssRate11Mbps   Thr 6.20466Mbit/s   delay sum +22786408820261.0ns   delay +432469942.0ns   lost:52689   send:93450

@@ -1,0 +1,12 @@
+Waf: Entering directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+[ 845/1744] Compiling scratch/ht-wifi-network2.cc
+[1730/1744] Linking build/scratch/ht-wifi-network2
+Waf: Leaving directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (20.077s)
+1 Mbit/s send
+Cw value = 600
+Delay sum: +2627030093846.0ns
+Delay: +356642695.0ns
+Lost  packtest: 7366
+0.86742 Mbit/s

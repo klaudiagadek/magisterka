@@ -1,0 +1,23 @@
+Waf: Entering directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+[ 852/1772] Compiling scratch/802_11n_0.cc
+[1749/1772] Linking build/scratch/wifi-timing-attributes
+[1751/1772] Linking build/scratch/ht-wifi-network11M_10
+[1752/1772] Linking build/scratch/ht-wifi-network11M_50
+[1753/1772] Linking build/scratch/802_11n1
+[1755/1772] Linking build/scratch/802_11n
+[1759/1772] Linking build/scratch/802_11n_0
+[1760/1772] Linking build/scratch/ht-wifi-network5_5M_10
+[1761/1772] Linking build/scratch/802_11ndef65
+Waf: Leaving directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (12.964s)
+Cw value = 1
+MCS 0   Chann_width 20MHz   short GI 0   Thr 1.89205Mbit/s   delay sum +3497437176014.0ns   delay +217678295.0ns   lost:16067   send:55200
+Cw value = 1
+MCS 0   Chann_width 20MHz   short GI 1   Thr 2.08482Mbit/s   delay sum +3836146303443.0ns   delay +216682461.0ns   lost:17704   send:55200
+Cw value = 1
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.72734Mbit/s   delay sum +3372923210591.0ns   delay +107812792.0ns   lost:31285   send:55200
+Cw value = 1
+MCS 0   Chann_width 40MHz   short GI 1   Thr 3.70261Mbit/s   delay sum +867114444044.0ns   delay +27578221.0ns   lost:31442   send:55200
+Cw value = 1
+MCS 1   Chann_width 20MHz   short GI 0   Thr 2.47084Mbit/s   delay sum +2818488078220.0ns   delay +134328857.0ns   lost:20982   send:55200

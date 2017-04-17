@@ -1,0 +1,23 @@
+Waf: Entering directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+[ 858/1788] Compiling scratch/802_11n_3.cc
+[ 862/1788] Compiling scratch/802_11n_5.cc
+[ 866/1788] Compiling scratch/802_11n_6.cc
+[1757/1788] Linking build/scratch/802_11n_3
+[1758/1788] Linking build/scratch/802_11n_5
+[1777/1788] Linking build/scratch/802_11n_6
+Waf: Leaving directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (27.426s)
+Cw value = 18
+MCS 0   Chann_width 40MHz   short GI 1   Thr 9.96379Mbit/s   delay sum +25559013777682.0ns   delay +302076724.0ns   lost:84611   send:127380
+Cw value = 19
+MCS 0   Chann_width 40MHz   short GI 1   Thr 9.77396Mbit/s   delay sum +24360264186806.0ns   delay +293500695.0ns   lost:82999   send:127380
+Cw value = 20
+MCS 0   Chann_width 40MHz   short GI 1   Thr 9.57106Mbit/s   delay sum +26994244577937.0ns   delay +332130574.0ns   lost:81276   send:127380
+Cw value = 21
+MCS 0   Chann_width 40MHz   short GI 1   Thr 9.89679Mbit/s   delay sum +25049063902608.0ns   delay +298054114.0ns   lost:84042   send:127380
+Cw value = 22
+MCS 0   Chann_width 40MHz   short GI 1   Thr 9.7112Mbit/s   delay sum +23333703107143.0ns   delay +282949374.0ns   lost:82466   send:127380
+assert failed. cond="Simulator::Now () - m_lastRxStart <= m_sifs", file=../src/wifi/model/dcf-manager.cc, line=763
+terminate called without an active exception
+Command ['/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build/scratch/802_11n_3'] terminated with signal SIGIOT. Run it under a debugger to get more information (./waf --run <program> --command-template="gdb --args %s <args>").

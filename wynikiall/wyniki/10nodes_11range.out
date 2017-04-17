@@ -1,0 +1,4094 @@
+Waf: Entering directory `/home/klaudia/ns-3/ns-3-allinone/ns-3-dev/build'
+[ 848/1755] Compiling scratch/ht-wifi-network2.cc
+[1739/1755] Linking build/scratch/ht-wifi-network2
+Waf: Leaving directory `/home/klaudia/ns-3/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.367s)
+Cw value = 1
+10 nnode
+11 Mbit/s send
+3.67953 Mbit/s
+Cw value = 2
+10 nnode
+11 Mbit/s send
+3.65456 Mbit/s
+Cw value = 3
+10 nnode
+11 Mbit/s send
+3.87689 Mbit/s
+Cw value = 4
+10 nnode
+11 Mbit/s send
+4.22982 Mbit/s
+Cw value = 5
+10 nnode
+11 Mbit/s send
+4.49643 Mbit/s
+Cw value = 6
+10 nnode
+11 Mbit/s send
+4.77776 Mbit/s
+Cw value = 7
+10 nnode
+11 Mbit/s send
+4.78624 Mbit/s
+Cw value = 8
+10 nnode
+11 Mbit/s send
+4.30719 Mbit/s
+Cw value = 9
+10 nnode
+11 Mbit/s send
+4.42413 Mbit/s
+Cw value = 10
+10 nnode
+11 Mbit/s send
+4.95734 Mbit/s
+Cw value = 11
+10 nnode
+11 Mbit/s send
+4.92625 Mbit/s
+Cw value = 12
+10 nnode
+11 Mbit/s send
+5.2727 Mbit/s
+Cw value = 13
+10 nnode
+11 Mbit/s send
+5.34018 Mbit/s
+Cw value = 14
+10 nnode
+11 Mbit/s send
+5.31922 Mbit/s
+Cw value = 15
+10 nnode
+11 Mbit/s send
+5.34065 Mbit/s
+Cw value = 16
+10 nnode
+11 Mbit/s send
+5.03412 Mbit/s
+Cw value = 17
+10 nnode
+11 Mbit/s send
+5.38305 Mbit/s
+Cw value = 18
+10 nnode
+11 Mbit/s send
+5.55085 Mbit/s
+Cw value = 19
+10 nnode
+11 Mbit/s send
+5.59607 Mbit/s
+Cw value = 20
+10 nnode
+11 Mbit/s send
+5.17119 Mbit/s
+Cw value = 21
+10 nnode
+11 Mbit/s send
+5.72655 Mbit/s
+Cw value = 22
+10 nnode
+11 Mbit/s send
+5.74045 Mbit/s
+Cw value = 23
+10 nnode
+11 Mbit/s send
+5.80333 Mbit/s
+Cw value = 24
+10 nnode
+11 Mbit/s send
+6.10197 Mbit/s
+Cw value = 25
+10 nnode
+11 Mbit/s send
+5.59513 Mbit/s
+Cw value = 26
+10 nnode
+11 Mbit/s send
+5.8502 Mbit/s
+Cw value = 27
+10 nnode
+11 Mbit/s send
+5.9656 Mbit/s
+Cw value = 28
+10 nnode
+11 Mbit/s send
+5.95501 Mbit/s
+Cw value = 29
+10 nnode
+11 Mbit/s send
+5.6473 Mbit/s
+Cw value = 30
+10 nnode
+11 Mbit/s send
+5.77142 Mbit/s
+Cw value = 31
+10 nnode
+11 Mbit/s send
+6.03131 Mbit/s
+Cw value = 32
+10 nnode
+11 Mbit/s send
+6.0511 Mbit/s
+Cw value = 33
+10 nnode
+11 Mbit/s send
+6.09384 Mbit/s
+Cw value = 34
+10 nnode
+11 Mbit/s send
+6.069 Mbit/s
+Cw value = 35
+10 nnode
+11 Mbit/s send
+6.23881 Mbit/s
+Cw value = 36
+10 nnode
+11 Mbit/s send
+6.12446 Mbit/s
+Cw value = 37
+10 nnode
+11 Mbit/s send
+6.06829 Mbit/s
+Cw value = 38
+10 nnode
+11 Mbit/s send
+6.27519 Mbit/s
+Cw value = 39
+10 nnode
+11 Mbit/s send
+6.16945 Mbit/s
+Cw value = 40
+10 nnode
+11 Mbit/s send
+6.11563 Mbit/s
+Cw value = 41
+10 nnode
+11 Mbit/s send
+6.2772 Mbit/s
+Cw value = 42
+10 nnode
+11 Mbit/s send
+6.11528 Mbit/s
+Cw value = 43
+10 nnode
+11 Mbit/s send
+6.26707 Mbit/s
+Cw value = 44
+10 nnode
+11 Mbit/s send
+6.25965 Mbit/s
+Cw value = 45
+10 nnode
+11 Mbit/s send
+6.07406 Mbit/s
+Cw value = 46
+10 nnode
+11 Mbit/s send
+6.13777 Mbit/s
+Cw value = 47
+10 nnode
+11 Mbit/s send
+6.32819 Mbit/s
+Cw value = 48
+10 nnode
+11 Mbit/s send
+6.25341 Mbit/s
+Cw value = 49
+10 nnode
+11 Mbit/s send
+6.18016 Mbit/s
+Cw value = 50
+10 nnode
+11 Mbit/s send
+6.37246 Mbit/s
+Cw value = 51
+10 nnode
+11 Mbit/s send
+6.21043 Mbit/s
+Cw value = 52
+10 nnode
+11 Mbit/s send
+6.32065 Mbit/s
+Cw value = 53
+10 nnode
+11 Mbit/s send
+6.20678 Mbit/s
+Cw value = 54
+10 nnode
+11 Mbit/s send
+6.15308 Mbit/s
+Cw value = 55
+10 nnode
+11 Mbit/s send
+6.39213 Mbit/s
+Cw value = 56
+10 nnode
+11 Mbit/s send
+6.31535 Mbit/s
+Cw value = 57
+10 nnode
+11 Mbit/s send
+6.28155 Mbit/s
+Cw value = 58
+10 nnode
+11 Mbit/s send
+6.33725 Mbit/s
+Cw value = 59
+10 nnode
+11 Mbit/s send
+6.27143 Mbit/s
+Cw value = 60
+10 nnode
+11 Mbit/s send
+6.40002 Mbit/s
+Cw value = 61
+10 nnode
+11 Mbit/s send
+6.34373 Mbit/s
+Cw value = 62
+10 nnode
+11 Mbit/s send
+6.32536 Mbit/s
+Cw value = 63
+10 nnode
+11 Mbit/s send
+6.42216 Mbit/s
+Cw value = 64
+10 nnode
+11 Mbit/s send
+6.35033 Mbit/s
+Cw value = 65
+10 nnode
+11 Mbit/s send
+6.35044 Mbit/s
+Cw value = 66
+10 nnode
+11 Mbit/s send
+6.44866 Mbit/s
+Cw value = 67
+10 nnode
+11 Mbit/s send
+6.43028 Mbit/s
+Cw value = 68
+10 nnode
+11 Mbit/s send
+6.35139 Mbit/s
+Cw value = 69
+10 nnode
+11 Mbit/s send
+6.29616 Mbit/s
+Cw value = 70
+10 nnode
+11 Mbit/s send
+6.43182 Mbit/s
+Cw value = 71
+10 nnode
+11 Mbit/s send
+6.38141 Mbit/s
+Cw value = 72
+10 nnode
+11 Mbit/s send
+6.47079 Mbit/s
+Cw value = 73
+10 nnode
+11 Mbit/s send
+6.26919 Mbit/s
+Cw value = 74
+10 nnode
+11 Mbit/s send
+6.37706 Mbit/s
+Cw value = 75
+10 nnode
+11 Mbit/s send
+6.41038 Mbit/s
+Cw value = 76
+10 nnode
+11 Mbit/s send
+6.35033 Mbit/s
+Cw value = 77
+10 nnode
+11 Mbit/s send
+6.30911 Mbit/s
+Cw value = 78
+10 nnode
+11 Mbit/s send
+6.32607 Mbit/s
+Cw value = 79
+10 nnode
+11 Mbit/s send
+6.51354 Mbit/s
+Cw value = 80
+10 nnode
+11 Mbit/s send
+6.3588 Mbit/s
+Cw value = 81
+10 nnode
+11 Mbit/s send
+6.38813 Mbit/s
+Cw value = 82
+10 nnode
+11 Mbit/s send
+6.45407 Mbit/s
+Cw value = 83
+10 nnode
+11 Mbit/s send
+6.29945 Mbit/s
+Cw value = 84
+10 nnode
+11 Mbit/s send
+6.48127 Mbit/s
+Cw value = 85
+10 nnode
+11 Mbit/s send
+6.38612 Mbit/s
+Cw value = 86
+10 nnode
+11 Mbit/s send
+6.40155 Mbit/s
+Cw value = 87
+10 nnode
+11 Mbit/s send
+6.43229 Mbit/s
+Cw value = 88
+10 nnode
+11 Mbit/s send
+6.34444 Mbit/s
+Cw value = 89
+10 nnode
+11 Mbit/s send
+6.4105 Mbit/s
+Cw value = 90
+10 nnode
+11 Mbit/s send
+6.43547 Mbit/s
+Cw value = 91
+10 nnode
+11 Mbit/s send
+6.40897 Mbit/s
+Cw value = 92
+10 nnode
+11 Mbit/s send
+6.33254 Mbit/s
+Cw value = 93
+10 nnode
+11 Mbit/s send
+6.38813 Mbit/s
+Cw value = 94
+10 nnode
+11 Mbit/s send
+6.46679 Mbit/s
+Cw value = 95
+10 nnode
+11 Mbit/s send
+6.39849 Mbit/s
+Cw value = 96
+10 nnode
+11 Mbit/s send
+6.42864 Mbit/s
+Cw value = 97
+10 nnode
+11 Mbit/s send
+6.31959 Mbit/s
+Cw value = 98
+10 nnode
+11 Mbit/s send
+6.32442 Mbit/s
+Cw value = 99
+10 nnode
+11 Mbit/s send
+6.38224 Mbit/s
+Cw value = 100
+10 nnode
+11 Mbit/s send
+6.40355 Mbit/s
+Cw value = 101
+10 nnode
+11 Mbit/s send
+6.37929 Mbit/s
+Cw value = 102
+10 nnode
+11 Mbit/s send
+6.38919 Mbit/s
+Cw value = 103
+10 nnode
+11 Mbit/s send
+6.40108 Mbit/s
+Cw value = 104
+10 nnode
+11 Mbit/s send
+6.36434 Mbit/s
+Cw value = 105
+10 nnode
+11 Mbit/s send
+6.3767 Mbit/s
+Cw value = 106
+10 nnode
+11 Mbit/s send
+6.31311 Mbit/s
+Cw value = 107
+10 nnode
+11 Mbit/s send
+6.37729 Mbit/s
+Cw value = 108
+10 nnode
+11 Mbit/s send
+6.30723 Mbit/s
+Cw value = 109
+10 nnode
+11 Mbit/s send
+6.30358 Mbit/s
+Cw value = 110
+10 nnode
+11 Mbit/s send
+6.4377 Mbit/s
+Cw value = 111
+10 nnode
+11 Mbit/s send
+6.33667 Mbit/s
+Cw value = 112
+10 nnode
+11 Mbit/s send
+6.43299 Mbit/s
+Cw value = 113
+10 nnode
+11 Mbit/s send
+6.45325 Mbit/s
+Cw value = 114
+10 nnode
+11 Mbit/s send
+6.39731 Mbit/s
+Cw value = 115
+10 nnode
+11 Mbit/s send
+6.41403 Mbit/s
+Cw value = 116
+10 nnode
+11 Mbit/s send
+6.36823 Mbit/s
+Cw value = 117
+10 nnode
+11 Mbit/s send
+6.37835 Mbit/s
+Cw value = 118
+10 nnode
+11 Mbit/s send
+6.44771 Mbit/s
+Cw value = 119
+10 nnode
+11 Mbit/s send
+6.35492 Mbit/s
+Cw value = 120
+10 nnode
+11 Mbit/s send
+6.38848 Mbit/s
+Cw value = 121
+10 nnode
+11 Mbit/s send
+6.35303 Mbit/s
+Cw value = 122
+10 nnode
+11 Mbit/s send
+6.39684 Mbit/s
+Cw value = 123
+10 nnode
+11 Mbit/s send
+6.41898 Mbit/s
+Cw value = 124
+10 nnode
+11 Mbit/s send
+6.38648 Mbit/s
+Cw value = 125
+10 nnode
+11 Mbit/s send
+6.38695 Mbit/s
+Cw value = 126
+10 nnode
+11 Mbit/s send
+6.38718 Mbit/s
+Cw value = 127
+10 nnode
+11 Mbit/s send
+6.32807 Mbit/s
+Cw value = 128
+10 nnode
+11 Mbit/s send
+6.34985 Mbit/s
+Cw value = 129
+10 nnode
+11 Mbit/s send
+6.41957 Mbit/s
+Cw value = 130
+10 nnode
+11 Mbit/s send
+6.36116 Mbit/s
+Cw value = 131
+10 nnode
+11 Mbit/s send
+6.35515 Mbit/s
+Cw value = 132
+10 nnode
+11 Mbit/s send
+6.35209 Mbit/s
+Cw value = 133
+10 nnode
+11 Mbit/s send
+6.39025 Mbit/s
+Cw value = 134
+10 nnode
+11 Mbit/s send
+6.40226 Mbit/s
+Cw value = 135
+10 nnode
+11 Mbit/s send
+6.33831 Mbit/s
+Cw value = 136
+10 nnode
+11 Mbit/s send
+6.40756 Mbit/s
+Cw value = 137
+10 nnode
+11 Mbit/s send
+6.35551 Mbit/s
+Cw value = 138
+10 nnode
+11 Mbit/s send
+6.34326 Mbit/s
+Cw value = 139
+10 nnode
+11 Mbit/s send
+6.33231 Mbit/s
+Cw value = 140
+10 nnode
+11 Mbit/s send
+6.38247 Mbit/s
+Cw value = 141
+10 nnode
+11 Mbit/s send
+6.32359 Mbit/s
+Cw value = 142
+10 nnode
+11 Mbit/s send
+6.36151 Mbit/s
+Cw value = 143
+10 nnode
+11 Mbit/s send
+6.37105 Mbit/s
+Cw value = 144
+10 nnode
+11 Mbit/s send
+6.31464 Mbit/s
+Cw value = 145
+10 nnode
+11 Mbit/s send
+6.32206 Mbit/s
+Cw value = 146
+10 nnode
+11 Mbit/s send
+6.35445 Mbit/s
+Cw value = 147
+10 nnode
+11 Mbit/s send
+6.34385 Mbit/s
+Cw value = 148
+10 nnode
+11 Mbit/s send
+6.33502 Mbit/s
+Cw value = 149
+10 nnode
+11 Mbit/s send
+6.34067 Mbit/s
+Cw value = 150
+10 nnode
+11 Mbit/s send
+6.34244 Mbit/s
+Cw value = 151
+10 nnode
+11 Mbit/s send
+6.35315 Mbit/s
+Cw value = 152
+10 nnode
+11 Mbit/s send
+6.30558 Mbit/s
+Cw value = 153
+10 nnode
+11 Mbit/s send
+6.31358 Mbit/s
+Cw value = 154
+10 nnode
+11 Mbit/s send
+6.3183 Mbit/s
+Cw value = 155
+10 nnode
+11 Mbit/s send
+6.29804 Mbit/s
+Cw value = 156
+10 nnode
+11 Mbit/s send
+6.35221 Mbit/s
+Cw value = 157
+10 nnode
+11 Mbit/s send
+6.29062 Mbit/s
+Cw value = 158
+10 nnode
+11 Mbit/s send
+6.2759 Mbit/s
+Cw value = 159
+10 nnode
+11 Mbit/s send
+6.2865 Mbit/s
+Cw value = 160
+10 nnode
+11 Mbit/s send
+6.28744 Mbit/s
+Cw value = 161
+10 nnode
+11 Mbit/s send
+6.32206 Mbit/s
+Cw value = 162
+10 nnode
+11 Mbit/s send
+6.3336 Mbit/s
+Cw value = 163
+10 nnode
+11 Mbit/s send
+6.31535 Mbit/s
+Cw value = 164
+10 nnode
+11 Mbit/s send
+6.29686 Mbit/s
+Cw value = 165
+10 nnode
+11 Mbit/s send
+6.30181 Mbit/s
+Cw value = 166
+10 nnode
+11 Mbit/s send
+6.33537 Mbit/s
+Cw value = 167
+10 nnode
+11 Mbit/s send
+6.29981 Mbit/s
+Cw value = 168
+10 nnode
+11 Mbit/s send
+6.26789 Mbit/s
+Cw value = 169
+10 nnode
+11 Mbit/s send
+6.29133 Mbit/s
+Cw value = 170
+10 nnode
+11 Mbit/s send
+6.30299 Mbit/s
+Cw value = 171
+10 nnode
+11 Mbit/s send
+6.30452 Mbit/s
+Cw value = 172
+10 nnode
+11 Mbit/s send
+6.30193 Mbit/s
+Cw value = 173
+10 nnode
+11 Mbit/s send
+6.29521 Mbit/s
+Cw value = 174
+10 nnode
+11 Mbit/s send
+6.28556 Mbit/s
+Cw value = 175
+10 nnode
+11 Mbit/s send
+6.29733 Mbit/s
+Cw value = 176
+10 nnode
+11 Mbit/s send
+6.27567 Mbit/s
+Cw value = 177
+10 nnode
+11 Mbit/s send
+6.31712 Mbit/s
+Cw value = 178
+10 nnode
+11 Mbit/s send
+6.27202 Mbit/s
+Cw value = 179
+10 nnode
+11 Mbit/s send
+6.26471 Mbit/s
+Cw value = 180
+10 nnode
+11 Mbit/s send
+6.27543 Mbit/s
+Cw value = 181
+10 nnode
+11 Mbit/s send
+6.21655 Mbit/s
+Cw value = 182
+10 nnode
+11 Mbit/s send
+6.24352 Mbit/s
+Cw value = 183
+10 nnode
+11 Mbit/s send
+6.22915 Mbit/s
+Cw value = 184
+10 nnode
+11 Mbit/s send
+6.26424 Mbit/s
+Cw value = 185
+10 nnode
+11 Mbit/s send
+6.27767 Mbit/s
+Cw value = 186
+10 nnode
+11 Mbit/s send
+6.2633 Mbit/s
+Cw value = 187
+10 nnode
+11 Mbit/s send
+6.24999 Mbit/s
+Cw value = 188
+10 nnode
+11 Mbit/s send
+6.2726 Mbit/s
+Cw value = 189
+10 nnode
+11 Mbit/s send
+6.26047 Mbit/s
+Cw value = 190
+10 nnode
+11 Mbit/s send
+6.22373 Mbit/s
+Cw value = 191
+10 nnode
+11 Mbit/s send
+6.2116 Mbit/s
+Cw value = 192
+10 nnode
+11 Mbit/s send
+6.24776 Mbit/s
+Cw value = 193
+10 nnode
+11 Mbit/s send
+6.22986 Mbit/s
+Cw value = 194
+10 nnode
+11 Mbit/s send
+6.25671 Mbit/s
+Cw value = 195
+10 nnode
+11 Mbit/s send
+6.27979 Mbit/s
+Cw value = 196
+10 nnode
+11 Mbit/s send
+6.23009 Mbit/s
+Cw value = 197
+10 nnode
+11 Mbit/s send
+6.21938 Mbit/s
+Cw value = 198
+10 nnode
+11 Mbit/s send
+6.27602 Mbit/s
+Cw value = 199
+10 nnode
+11 Mbit/s send
+6.21867 Mbit/s
+Cw value = 200
+10 nnode
+11 Mbit/s send
+6.2182 Mbit/s
+Cw value = 201
+10 nnode
+11 Mbit/s send
+6.18758 Mbit/s
+Cw value = 202
+10 nnode
+11 Mbit/s send
+6.22055 Mbit/s
+Cw value = 203
+10 nnode
+11 Mbit/s send
+6.18982 Mbit/s
+Cw value = 204
+10 nnode
+11 Mbit/s send
+6.21196 Mbit/s
+Cw value = 205
+10 nnode
+11 Mbit/s send
+6.23351 Mbit/s
+Cw value = 206
+10 nnode
+11 Mbit/s send
+6.19736 Mbit/s
+Cw value = 207
+10 nnode
+11 Mbit/s send
+6.20748 Mbit/s
+Cw value = 208
+10 nnode
+11 Mbit/s send
+6.20124 Mbit/s
+Cw value = 209
+10 nnode
+11 Mbit/s send
+6.20289 Mbit/s
+Cw value = 210
+10 nnode
+11 Mbit/s send
+6.15873 Mbit/s
+Cw value = 211
+10 nnode
+11 Mbit/s send
+6.21737 Mbit/s
+Cw value = 212
+10 nnode
+11 Mbit/s send
+6.17734 Mbit/s
+Cw value = 213
+10 nnode
+11 Mbit/s send
+6.21526 Mbit/s
+Cw value = 214
+10 nnode
+11 Mbit/s send
+6.20737 Mbit/s
+Cw value = 215
+10 nnode
+11 Mbit/s send
+6.18452 Mbit/s
+Cw value = 216
+10 nnode
+11 Mbit/s send
+6.20807 Mbit/s
+Cw value = 217
+10 nnode
+11 Mbit/s send
+6.1791 Mbit/s
+Cw value = 218
+10 nnode
+11 Mbit/s send
+6.1811 Mbit/s
+Cw value = 219
+10 nnode
+11 Mbit/s send
+6.17239 Mbit/s
+Cw value = 220
+10 nnode
+11 Mbit/s send
+6.14436 Mbit/s
+Cw value = 221
+10 nnode
+11 Mbit/s send
+6.14542 Mbit/s
+Cw value = 222
+10 nnode
+11 Mbit/s send
+6.15532 Mbit/s
+Cw value = 223
+10 nnode
+11 Mbit/s send
+6.15331 Mbit/s
+Cw value = 224
+10 nnode
+11 Mbit/s send
+6.19429 Mbit/s
+Cw value = 225
+10 nnode
+11 Mbit/s send
+6.18487 Mbit/s
+Cw value = 226
+10 nnode
+11 Mbit/s send
+6.12211 Mbit/s
+Cw value = 227
+10 nnode
+11 Mbit/s send
+6.16874 Mbit/s
+Cw value = 228
+10 nnode
+11 Mbit/s send
+6.16226 Mbit/s
+Cw value = 229
+10 nnode
+11 Mbit/s send
+6.17416 Mbit/s
+Cw value = 230
+10 nnode
+11 Mbit/s send
+6.17498 Mbit/s
+Cw value = 231
+10 nnode
+11 Mbit/s send
+6.15002 Mbit/s
+Cw value = 232
+10 nnode
+11 Mbit/s send
+6.13 Mbit/s
+Cw value = 233
+10 nnode
+11 Mbit/s send
+6.11257 Mbit/s
+Cw value = 234
+10 nnode
+11 Mbit/s send
+6.15555 Mbit/s
+Cw value = 235
+10 nnode
+11 Mbit/s send
+6.09973 Mbit/s
+Cw value = 236
+10 nnode
+11 Mbit/s send
+6.12588 Mbit/s
+Cw value = 237
+10 nnode
+11 Mbit/s send
+6.13706 Mbit/s
+Cw value = 238
+10 nnode
+11 Mbit/s send
+6.14884 Mbit/s
+Cw value = 239
+10 nnode
+11 Mbit/s send
+6.13059 Mbit/s
+Cw value = 240
+10 nnode
+11 Mbit/s send
+6.11304 Mbit/s
+Cw value = 241
+10 nnode
+11 Mbit/s send
+6.10562 Mbit/s
+Cw value = 242
+10 nnode
+11 Mbit/s send
+6.1121 Mbit/s
+Cw value = 243
+10 nnode
+11 Mbit/s send
+6.13141 Mbit/s
+Cw value = 244
+10 nnode
+11 Mbit/s send
+6.13235 Mbit/s
+Cw value = 245
+10 nnode
+11 Mbit/s send
+6.1194 Mbit/s
+Cw value = 246
+10 nnode
+11 Mbit/s send
+6.11233 Mbit/s
+Cw value = 247
+10 nnode
+11 Mbit/s send
+6.07394 Mbit/s
+Cw value = 248
+10 nnode
+11 Mbit/s send
+6.0869 Mbit/s
+Cw value = 249
+10 nnode
+11 Mbit/s send
+6.08513 Mbit/s
+Cw value = 250
+10 nnode
+11 Mbit/s send
+6.08819 Mbit/s
+Cw value = 251
+10 nnode
+11 Mbit/s send
+6.08313 Mbit/s
+Cw value = 252
+10 nnode
+11 Mbit/s send
+6.10291 Mbit/s
+Cw value = 253
+10 nnode
+11 Mbit/s send
+6.04403 Mbit/s
+Cw value = 254
+10 nnode
+11 Mbit/s send
+6.04756 Mbit/s
+Cw value = 255
+10 nnode
+11 Mbit/s send
+6.07559 Mbit/s
+Cw value = 256
+10 nnode
+11 Mbit/s send
+6.06664 Mbit/s
+Cw value = 257
+10 nnode
+11 Mbit/s send
+6.0743 Mbit/s
+Cw value = 258
+10 nnode
+11 Mbit/s send
+6.05534 Mbit/s
+Cw value = 259
+10 nnode
+11 Mbit/s send
+6.06841 Mbit/s
+Cw value = 260
+10 nnode
+11 Mbit/s send
+6.03673 Mbit/s
+Cw value = 261
+10 nnode
+11 Mbit/s send
+6.07689 Mbit/s
+Cw value = 262
+10 nnode
+11 Mbit/s send
+6.067 Mbit/s
+Cw value = 263
+10 nnode
+11 Mbit/s send
+6.06122 Mbit/s
+Cw value = 264
+10 nnode
+11 Mbit/s send
+6.07041 Mbit/s
+Cw value = 265
+10 nnode
+11 Mbit/s send
+6.05958 Mbit/s
+Cw value = 266
+10 nnode
+11 Mbit/s send
+6.05969 Mbit/s
+Cw value = 267
+10 nnode
+11 Mbit/s send
+6.0266 Mbit/s
+Cw value = 268
+10 nnode
+11 Mbit/s send
+6.0478 Mbit/s
+Cw value = 269
+10 nnode
+11 Mbit/s send
+6.0299 Mbit/s
+Cw value = 270
+10 nnode
+11 Mbit/s send
+6.02048 Mbit/s
+Cw value = 271
+10 nnode
+11 Mbit/s send
+6.02637 Mbit/s
+Cw value = 272
+10 nnode
+11 Mbit/s send
+6.00764 Mbit/s
+Cw value = 273
+10 nnode
+11 Mbit/s send
+6.0319 Mbit/s
+Cw value = 274
+10 nnode
+11 Mbit/s send
+6.00894 Mbit/s
+Cw value = 275
+10 nnode
+11 Mbit/s send
+6.00234 Mbit/s
+Cw value = 276
+10 nnode
+11 Mbit/s send
+6.00564 Mbit/s
+Cw value = 277
+10 nnode
+11 Mbit/s send
+6.00187 Mbit/s
+Cw value = 278
+10 nnode
+11 Mbit/s send
+5.99763 Mbit/s
+Cw value = 279
+10 nnode
+11 Mbit/s send
+6.01565 Mbit/s
+Cw value = 280
+10 nnode
+11 Mbit/s send
+5.99716 Mbit/s
+Cw value = 281
+10 nnode
+11 Mbit/s send
+6.00859 Mbit/s
+Cw value = 282
+10 nnode
+11 Mbit/s send
+5.98974 Mbit/s
+Cw value = 283
+10 nnode
+11 Mbit/s send
+5.96219 Mbit/s
+Cw value = 284
+10 nnode
+11 Mbit/s send
+5.98551 Mbit/s
+Cw value = 285
+10 nnode
+11 Mbit/s send
+5.99846 Mbit/s
+Cw value = 286
+10 nnode
+11 Mbit/s send
+5.99893 Mbit/s
+Cw value = 287
+10 nnode
+11 Mbit/s send
+5.99469 Mbit/s
+Cw value = 288
+10 nnode
+11 Mbit/s send
+5.97879 Mbit/s
+Cw value = 289
+10 nnode
+11 Mbit/s send
+6.00494 Mbit/s
+Cw value = 290
+10 nnode
+11 Mbit/s send
+5.98174 Mbit/s
+Cw value = 291
+10 nnode
+11 Mbit/s send
+5.99622 Mbit/s
+Cw value = 292
+10 nnode
+11 Mbit/s send
+5.99057 Mbit/s
+Cw value = 293
+10 nnode
+11 Mbit/s send
+5.97208 Mbit/s
+Cw value = 294
+10 nnode
+11 Mbit/s send
+5.97597 Mbit/s
+Cw value = 295
+10 nnode
+11 Mbit/s send
+5.94806 Mbit/s
+Cw value = 296
+10 nnode
+11 Mbit/s send
+5.96042 Mbit/s
+Cw value = 297
+10 nnode
+11 Mbit/s send
+5.94241 Mbit/s
+Cw value = 298
+10 nnode
+11 Mbit/s send
+5.95913 Mbit/s
+Cw value = 299
+10 nnode
+11 Mbit/s send
+5.94464 Mbit/s
+Cw value = 300
+10 nnode
+11 Mbit/s send
+5.94558 Mbit/s
+Cw value = 301
+10 nnode
+11 Mbit/s send
+5.95124 Mbit/s
+Cw value = 302
+10 nnode
+11 Mbit/s send
+5.92615 Mbit/s
+Cw value = 303
+10 nnode
+11 Mbit/s send
+5.9218 Mbit/s
+Cw value = 304
+10 nnode
+11 Mbit/s send
+5.95053 Mbit/s
+Cw value = 305
+10 nnode
+11 Mbit/s send
+5.93923 Mbit/s
+Cw value = 306
+10 nnode
+11 Mbit/s send
+5.90884 Mbit/s
+Cw value = 307
+10 nnode
+11 Mbit/s send
+5.89236 Mbit/s
+Cw value = 308
+10 nnode
+11 Mbit/s send
+5.91626 Mbit/s
+Cw value = 309
+10 nnode
+11 Mbit/s send
+5.94182 Mbit/s
+Cw value = 310
+10 nnode
+11 Mbit/s send
+5.91897 Mbit/s
+Cw value = 311
+10 nnode
+11 Mbit/s send
+5.93346 Mbit/s
+Cw value = 312
+10 nnode
+11 Mbit/s send
+5.93769 Mbit/s
+Cw value = 313
+10 nnode
+11 Mbit/s send
+5.92533 Mbit/s
+Cw value = 314
+10 nnode
+11 Mbit/s send
+5.91402 Mbit/s
+Cw value = 315
+10 nnode
+11 Mbit/s send
+5.90343 Mbit/s
+Cw value = 316
+10 nnode
+11 Mbit/s send
+5.89518 Mbit/s
+Cw value = 317
+10 nnode
+11 Mbit/s send
+5.90095 Mbit/s
+Cw value = 318
+10 nnode
+11 Mbit/s send
+5.89565 Mbit/s
+Cw value = 319
+10 nnode
+11 Mbit/s send
+5.89177 Mbit/s
+Cw value = 320
+10 nnode
+11 Mbit/s send
+5.89247 Mbit/s
+Cw value = 321
+10 nnode
+11 Mbit/s send
+5.88706 Mbit/s
+Cw value = 322
+10 nnode
+11 Mbit/s send
+5.89153 Mbit/s
+Cw value = 323
+10 nnode
+11 Mbit/s send
+5.89342 Mbit/s
+Cw value = 324
+10 nnode
+11 Mbit/s send
+5.89671 Mbit/s
+Cw value = 325
+10 nnode
+11 Mbit/s send
+5.85479 Mbit/s
+Cw value = 326
+10 nnode
+11 Mbit/s send
+5.8575 Mbit/s
+Cw value = 327
+10 nnode
+11 Mbit/s send
+5.87234 Mbit/s
+Cw value = 328
+10 nnode
+11 Mbit/s send
+5.86692 Mbit/s
+Cw value = 329
+10 nnode
+11 Mbit/s send
+5.86303 Mbit/s
+Cw value = 330
+10 nnode
+11 Mbit/s send
+5.87599 Mbit/s
+Cw value = 331
+10 nnode
+11 Mbit/s send
+5.86563 Mbit/s
+Cw value = 332
+10 nnode
+11 Mbit/s send
+5.86245 Mbit/s
+Cw value = 333
+10 nnode
+11 Mbit/s send
+5.87069 Mbit/s
+Cw value = 334
+10 nnode
+11 Mbit/s send
+5.84137 Mbit/s
+Cw value = 335
+10 nnode
+11 Mbit/s send
+5.84879 Mbit/s
+Cw value = 336
+10 nnode
+11 Mbit/s send
+5.84996 Mbit/s
+Cw value = 337
+10 nnode
+11 Mbit/s send
+5.83536 Mbit/s
+Cw value = 338
+10 nnode
+11 Mbit/s send
+5.84525 Mbit/s
+Cw value = 339
+10 nnode
+11 Mbit/s send
+5.85762 Mbit/s
+Cw value = 340
+10 nnode
+11 Mbit/s send
+5.85326 Mbit/s
+Cw value = 341
+10 nnode
+11 Mbit/s send
+5.85102 Mbit/s
+Cw value = 342
+10 nnode
+11 Mbit/s send
+5.83195 Mbit/s
+Cw value = 343
+10 nnode
+11 Mbit/s send
+5.84184 Mbit/s
+Cw value = 344
+10 nnode
+11 Mbit/s send
+5.83242 Mbit/s
+Cw value = 345
+10 nnode
+11 Mbit/s send
+5.82782 Mbit/s
+Cw value = 346
+10 nnode
+11 Mbit/s send
+5.82123 Mbit/s
+Cw value = 347
+10 nnode
+11 Mbit/s send
+5.83042 Mbit/s
+Cw value = 348
+10 nnode
+11 Mbit/s send
+5.80981 Mbit/s
+Cw value = 349
+10 nnode
+11 Mbit/s send
+5.82888 Mbit/s
+Cw value = 350
+10 nnode
+11 Mbit/s send
+5.79744 Mbit/s
+Cw value = 351
+10 nnode
+11 Mbit/s send
+5.82417 Mbit/s
+Cw value = 352
+10 nnode
+11 Mbit/s send
+5.81405 Mbit/s
+Cw value = 353
+10 nnode
+11 Mbit/s send
+5.80133 Mbit/s
+Cw value = 354
+10 nnode
+11 Mbit/s send
+5.79438 Mbit/s
+Cw value = 355
+10 nnode
+11 Mbit/s send
+5.8124 Mbit/s
+Cw value = 356
+10 nnode
+11 Mbit/s send
+5.80887 Mbit/s
+Cw value = 357
+10 nnode
+11 Mbit/s send
+5.80251 Mbit/s
+Cw value = 358
+10 nnode
+11 Mbit/s send
+5.80792 Mbit/s
+Cw value = 359
+10 nnode
+11 Mbit/s send
+5.78355 Mbit/s
+Cw value = 360
+10 nnode
+11 Mbit/s send
+5.77142 Mbit/s
+Cw value = 361
+10 nnode
+11 Mbit/s send
+5.78331 Mbit/s
+Cw value = 362
+10 nnode
+11 Mbit/s send
+5.77589 Mbit/s
+Cw value = 363
+10 nnode
+11 Mbit/s send
+5.77495 Mbit/s
+Cw value = 364
+10 nnode
+11 Mbit/s send
+5.77966 Mbit/s
+Cw value = 365
+10 nnode
+11 Mbit/s send
+5.78484 Mbit/s
+Cw value = 366
+10 nnode
+11 Mbit/s send
+5.77542 Mbit/s
+Cw value = 367
+10 nnode
+11 Mbit/s send
+5.76788 Mbit/s
+Cw value = 368
+10 nnode
+11 Mbit/s send
+5.77471 Mbit/s
+Cw value = 369
+10 nnode
+11 Mbit/s send
+5.76588 Mbit/s
+Cw value = 370
+10 nnode
+11 Mbit/s send
+5.76447 Mbit/s
+Cw value = 371
+10 nnode
+11 Mbit/s send
+5.75799 Mbit/s
+Cw value = 372
+10 nnode
+11 Mbit/s send
+5.76035 Mbit/s
+Cw value = 373
+10 nnode
+11 Mbit/s send
+5.73738 Mbit/s
+Cw value = 374
+10 nnode
+11 Mbit/s send
+5.75658 Mbit/s
+Cw value = 375
+10 nnode
+11 Mbit/s send
+5.76894 Mbit/s
+Cw value = 376
+10 nnode
+11 Mbit/s send
+5.75481 Mbit/s
+Cw value = 377
+10 nnode
+11 Mbit/s send
+5.74857 Mbit/s
+Cw value = 378
+10 nnode
+11 Mbit/s send
+5.71136 Mbit/s
+Cw value = 379
+10 nnode
+11 Mbit/s send
+5.74845 Mbit/s
+Cw value = 380
+10 nnode
+11 Mbit/s send
+5.73668 Mbit/s
+Cw value = 381
+10 nnode
+11 Mbit/s send
+5.7322 Mbit/s
+Cw value = 382
+10 nnode
+11 Mbit/s send
+5.70653 Mbit/s
+Cw value = 383
+10 nnode
+11 Mbit/s send
+5.7315 Mbit/s
+Cw value = 384
+10 nnode
+11 Mbit/s send
+5.74033 Mbit/s
+Cw value = 385
+10 nnode
+11 Mbit/s send
+5.7209 Mbit/s
+Cw value = 386
+10 nnode
+11 Mbit/s send
+5.73244 Mbit/s
+Cw value = 387
+10 nnode
+11 Mbit/s send
+5.72396 Mbit/s
+Cw value = 388
+10 nnode
+11 Mbit/s send
+5.70594 Mbit/s
+Cw value = 389
+10 nnode
+11 Mbit/s send
+5.71937 Mbit/s
+Cw value = 390
+10 nnode
+11 Mbit/s send
+5.71748 Mbit/s
+Cw value = 391
+10 nnode
+11 Mbit/s send
+5.7269 Mbit/s
+Cw value = 392
+10 nnode
+11 Mbit/s send
+5.68969 Mbit/s
+Cw value = 393
+10 nnode
+11 Mbit/s send
+5.703 Mbit/s
+Cw value = 394
+10 nnode
+11 Mbit/s send
+5.70653 Mbit/s
+Cw value = 395
+10 nnode
+11 Mbit/s send
+5.70064 Mbit/s
+Cw value = 396
+10 nnode
+11 Mbit/s send
+5.70323 Mbit/s
+Cw value = 397
+10 nnode
+11 Mbit/s send
+5.69876 Mbit/s
+Cw value = 398
+10 nnode
+11 Mbit/s send
+5.68745 Mbit/s
+Cw value = 399
+10 nnode
+11 Mbit/s send
+5.68133 Mbit/s
+Cw value = 400
+10 nnode
+11 Mbit/s send
+5.68675 Mbit/s
+Cw value = 401
+10 nnode
+11 Mbit/s send
+5.66579 Mbit/s
+Cw value = 402
+10 nnode
+11 Mbit/s send
+5.68581 Mbit/s
+Cw value = 403
+10 nnode
+11 Mbit/s send
+5.66732 Mbit/s
+Cw value = 404
+10 nnode
+11 Mbit/s send
+5.66791 Mbit/s
+Cw value = 405
+10 nnode
+11 Mbit/s send
+5.67462 Mbit/s
+Cw value = 406
+10 nnode
+11 Mbit/s send
+5.65613 Mbit/s
+Cw value = 407
+10 nnode
+11 Mbit/s send
+5.67215 Mbit/s
+Cw value = 408
+10 nnode
+11 Mbit/s send
+5.66696 Mbit/s
+Cw value = 409
+10 nnode
+11 Mbit/s send
+5.64412 Mbit/s
+Cw value = 410
+10 nnode
+11 Mbit/s send
+5.68816 Mbit/s
+Cw value = 411
+10 nnode
+11 Mbit/s send
+5.6453 Mbit/s
+Cw value = 412
+10 nnode
+11 Mbit/s send
+5.67945 Mbit/s
+Cw value = 413
+10 nnode
+11 Mbit/s send
+5.63646 Mbit/s
+Cw value = 414
+10 nnode
+11 Mbit/s send
+5.66484 Mbit/s
+Cw value = 415
+10 nnode
+11 Mbit/s send
+5.6586 Mbit/s
+Cw value = 416
+10 nnode
+11 Mbit/s send
+5.65378 Mbit/s
+Cw value = 417
+10 nnode
+11 Mbit/s send
+5.63811 Mbit/s
+Cw value = 418
+10 nnode
+11 Mbit/s send
+5.64494 Mbit/s
+Cw value = 419
+10 nnode
+11 Mbit/s send
+5.63576 Mbit/s
+Cw value = 420
+10 nnode
+11 Mbit/s send
+5.62846 Mbit/s
+Cw value = 421
+10 nnode
+11 Mbit/s send
+5.6274 Mbit/s
+Cw value = 422
+10 nnode
+11 Mbit/s send
+5.62492 Mbit/s
+Cw value = 423
+10 nnode
+11 Mbit/s send
+5.63694 Mbit/s
+Cw value = 424
+10 nnode
+11 Mbit/s send
+5.61892 Mbit/s
+Cw value = 425
+10 nnode
+11 Mbit/s send
+5.61221 Mbit/s
+Cw value = 426
+10 nnode
+11 Mbit/s send
+5.61986 Mbit/s
+Cw value = 427
+10 nnode
+11 Mbit/s send
+5.63105 Mbit/s
+Cw value = 428
+10 nnode
+11 Mbit/s send
+5.61103 Mbit/s
+Cw value = 429
+10 nnode
+11 Mbit/s send
+5.61962 Mbit/s
+Cw value = 430
+10 nnode
+11 Mbit/s send
+5.60726 Mbit/s
+Cw value = 431
+10 nnode
+11 Mbit/s send
+5.60361 Mbit/s
+Cw value = 432
+10 nnode
+11 Mbit/s send
+5.58241 Mbit/s
+Cw value = 433
+10 nnode
+11 Mbit/s send
+5.58748 Mbit/s
+Cw value = 434
+10 nnode
+11 Mbit/s send
+5.60078 Mbit/s
+Cw value = 435
+10 nnode
+11 Mbit/s send
+5.60173 Mbit/s
+Cw value = 436
+10 nnode
+11 Mbit/s send
+5.58618 Mbit/s
+Cw value = 437
+10 nnode
+11 Mbit/s send
+5.58759 Mbit/s
+Cw value = 438
+10 nnode
+11 Mbit/s send
+5.585 Mbit/s
+Cw value = 439
+10 nnode
+11 Mbit/s send
+5.579 Mbit/s
+Cw value = 440
+10 nnode
+11 Mbit/s send
+5.59054 Mbit/s
+Cw value = 441
+10 nnode
+11 Mbit/s send
+5.58536 Mbit/s
+Cw value = 442
+10 nnode
+11 Mbit/s send
+5.59183 Mbit/s
+Cw value = 443
+10 nnode
+11 Mbit/s send
+5.57252 Mbit/s
+Cw value = 444
+10 nnode
+11 Mbit/s send
+5.56593 Mbit/s
+Cw value = 445
+10 nnode
+11 Mbit/s send
+5.55144 Mbit/s
+Cw value = 446
+10 nnode
+11 Mbit/s send
+5.56604 Mbit/s
+Cw value = 447
+10 nnode
+11 Mbit/s send
+5.56098 Mbit/s
+Cw value = 448
+10 nnode
+11 Mbit/s send
+5.55969 Mbit/s
+Cw value = 449
+10 nnode
+11 Mbit/s send
+5.54814 Mbit/s
+Cw value = 450
+10 nnode
+11 Mbit/s send
+5.56016 Mbit/s
+Cw value = 451
+10 nnode
+11 Mbit/s send
+5.55603 Mbit/s
+Cw value = 452
+10 nnode
+11 Mbit/s send
+5.5505 Mbit/s
+Cw value = 453
+10 nnode
+11 Mbit/s send
+5.54367 Mbit/s
+Cw value = 454
+10 nnode
+11 Mbit/s send
+5.53507 Mbit/s
+Cw value = 455
+10 nnode
+11 Mbit/s send
+5.54673 Mbit/s
+Cw value = 456
+10 nnode
+11 Mbit/s send
+5.53731 Mbit/s
+Cw value = 457
+10 nnode
+11 Mbit/s send
+5.54461 Mbit/s
+Cw value = 458
+10 nnode
+11 Mbit/s send
+5.54979 Mbit/s
+Cw value = 459
+10 nnode
+11 Mbit/s send
+5.53095 Mbit/s
+Cw value = 460
+10 nnode
+11 Mbit/s send
+5.50881 Mbit/s
+Cw value = 461
+10 nnode
+11 Mbit/s send
+5.52813 Mbit/s
+Cw value = 462
+10 nnode
+11 Mbit/s send
+5.52318 Mbit/s
+Cw value = 463
+10 nnode
+11 Mbit/s send
+5.53672 Mbit/s
+Cw value = 464
+10 nnode
+11 Mbit/s send
+5.52141 Mbit/s
+Cw value = 465
+10 nnode
+11 Mbit/s send
+5.522 Mbit/s
+Cw value = 466
+10 nnode
+11 Mbit/s send
+5.50092 Mbit/s
+Cw value = 467
+10 nnode
+11 Mbit/s send
+5.52153 Mbit/s
+Cw value = 468
+10 nnode
+11 Mbit/s send
+5.50481 Mbit/s
+Cw value = 469
+10 nnode
+11 Mbit/s send
+5.5061 Mbit/s
+Cw value = 470
+10 nnode
+11 Mbit/s send
+5.50033 Mbit/s
+Cw value = 471
+10 nnode
+11 Mbit/s send
+5.50128 Mbit/s
+Cw value = 472
+10 nnode
+11 Mbit/s send
+5.48609 Mbit/s
+Cw value = 473
+10 nnode
+11 Mbit/s send
+5.49763 Mbit/s
+Cw value = 474
+10 nnode
+11 Mbit/s send
+5.49763 Mbit/s
+Cw value = 475
+10 nnode
+11 Mbit/s send
+5.48844 Mbit/s
+Cw value = 476
+10 nnode
+11 Mbit/s send
+5.48503 Mbit/s
+Cw value = 477
+10 nnode
+11 Mbit/s send
+5.48538 Mbit/s
+Cw value = 478
+10 nnode
+11 Mbit/s send
+5.49763 Mbit/s
+Cw value = 479
+10 nnode
+11 Mbit/s send
+5.48079 Mbit/s
+Cw value = 480
+10 nnode
+11 Mbit/s send
+5.49127 Mbit/s
+Cw value = 481
+10 nnode
+11 Mbit/s send
+5.46136 Mbit/s
+Cw value = 482
+10 nnode
+11 Mbit/s send
+5.47973 Mbit/s
+Cw value = 483
+10 nnode
+11 Mbit/s send
+5.45971 Mbit/s
+Cw value = 484
+10 nnode
+11 Mbit/s send
+5.47678 Mbit/s
+Cw value = 485
+10 nnode
+11 Mbit/s send
+5.47902 Mbit/s
+Cw value = 486
+10 nnode
+11 Mbit/s send
+5.46724 Mbit/s
+Cw value = 487
+10 nnode
+11 Mbit/s send
+5.47042 Mbit/s
+Cw value = 488
+10 nnode
+11 Mbit/s send
+5.46689 Mbit/s
+Cw value = 489
+10 nnode
+11 Mbit/s send
+5.45806 Mbit/s
+Cw value = 490
+10 nnode
+11 Mbit/s send
+5.45971 Mbit/s
+Cw value = 491
+10 nnode
+11 Mbit/s send
+5.43875 Mbit/s
+Cw value = 492
+10 nnode
+11 Mbit/s send
+5.43674 Mbit/s
+Cw value = 493
+10 nnode
+11 Mbit/s send
+5.45582 Mbit/s
+Cw value = 494
+10 nnode
+11 Mbit/s send
+5.44051 Mbit/s
+Cw value = 495
+10 nnode
+11 Mbit/s send
+5.44711 Mbit/s
+Cw value = 496
+10 nnode
+11 Mbit/s send
+5.45405 Mbit/s
+Cw value = 497
+10 nnode
+11 Mbit/s send
+5.44204 Mbit/s
+Cw value = 498
+10 nnode
+11 Mbit/s send
+5.43604 Mbit/s
+Cw value = 499
+10 nnode
+11 Mbit/s send
+5.43663 Mbit/s
+Cw value = 500
+10 nnode
+11 Mbit/s send
+5.44169 Mbit/s
+Cw value = 501
+10 nnode
+11 Mbit/s send
+5.40978 Mbit/s
+Cw value = 502
+10 nnode
+11 Mbit/s send
+5.40942 Mbit/s
+Cw value = 503
+10 nnode
+11 Mbit/s send
+5.42779 Mbit/s
+Cw value = 504
+10 nnode
+11 Mbit/s send
+5.42862 Mbit/s
+Cw value = 505
+10 nnode
+11 Mbit/s send
+5.42638 Mbit/s
+Cw value = 506
+10 nnode
+11 Mbit/s send
+5.41672 Mbit/s
+Cw value = 507
+10 nnode
+11 Mbit/s send
+5.41896 Mbit/s
+Cw value = 508
+10 nnode
+11 Mbit/s send
+5.42108 Mbit/s
+Cw value = 509
+10 nnode
+11 Mbit/s send
+5.40872 Mbit/s
+Cw value = 510
+10 nnode
+11 Mbit/s send
+5.40813 Mbit/s
+Cw value = 511
+10 nnode
+11 Mbit/s send
+5.39353 Mbit/s
+Cw value = 512
+10 nnode
+11 Mbit/s send
+5.39906 Mbit/s
+Cw value = 513
+10 nnode
+11 Mbit/s send
+5.402 Mbit/s
+Cw value = 514
+10 nnode
+11 Mbit/s send
+5.40365 Mbit/s
+Cw value = 515
+10 nnode
+11 Mbit/s send
+5.40248 Mbit/s
+Cw value = 516
+10 nnode
+11 Mbit/s send
+5.40789 Mbit/s
+Cw value = 517
+10 nnode
+11 Mbit/s send
+5.37704 Mbit/s
+Cw value = 518
+10 nnode
+11 Mbit/s send
+5.38952 Mbit/s
+Cw value = 519
+10 nnode
+11 Mbit/s send
+5.38752 Mbit/s
+Cw value = 520
+10 nnode
+11 Mbit/s send
+5.37245 Mbit/s
+Cw value = 521
+10 nnode
+11 Mbit/s send
+5.38104 Mbit/s
+Cw value = 522
+10 nnode
+11 Mbit/s send
+5.38434 Mbit/s
+Cw value = 523
+10 nnode
+11 Mbit/s send
+5.36409 Mbit/s
+Cw value = 524
+10 nnode
+11 Mbit/s send
+5.37292 Mbit/s
+Cw value = 525
+10 nnode
+11 Mbit/s send
+5.3741 Mbit/s
+Cw value = 526
+10 nnode
+11 Mbit/s send
+5.36833 Mbit/s
+Cw value = 527
+10 nnode
+11 Mbit/s send
+5.37374 Mbit/s
+Cw value = 528
+10 nnode
+11 Mbit/s send
+5.37033 Mbit/s
+Cw value = 529
+10 nnode
+11 Mbit/s send
+5.35431 Mbit/s
+Cw value = 530
+10 nnode
+11 Mbit/s send
+5.35773 Mbit/s
+Cw value = 531
+10 nnode
+11 Mbit/s send
+5.36161 Mbit/s
+Cw value = 532
+10 nnode
+11 Mbit/s send
+5.36691 Mbit/s
+Cw value = 533
+10 nnode
+11 Mbit/s send
+5.36173 Mbit/s
+Cw value = 534
+10 nnode
+11 Mbit/s send
+5.35231 Mbit/s
+Cw value = 535
+10 nnode
+11 Mbit/s send
+5.35125 Mbit/s
+Cw value = 536
+10 nnode
+11 Mbit/s send
+5.35019 Mbit/s
+Cw value = 537
+10 nnode
+11 Mbit/s send
+5.339 Mbit/s
+Cw value = 538
+10 nnode
+11 Mbit/s send
+5.33041 Mbit/s
+Cw value = 539
+10 nnode
+11 Mbit/s send
+5.33971 Mbit/s
+Cw value = 540
+10 nnode
+11 Mbit/s send
+5.32852 Mbit/s
+Cw value = 541
+10 nnode
+11 Mbit/s send
+5.33606 Mbit/s
+Cw value = 542
+10 nnode
+11 Mbit/s send
+5.34195 Mbit/s
+Cw value = 543
+10 nnode
+11 Mbit/s send
+5.32652 Mbit/s
+Cw value = 544
+10 nnode
+11 Mbit/s send
+5.31804 Mbit/s
+Cw value = 545
+10 nnode
+11 Mbit/s send
+5.32946 Mbit/s
+Cw value = 546
+10 nnode
+11 Mbit/s send
+5.32746 Mbit/s
+Cw value = 547
+10 nnode
+11 Mbit/s send
+5.29684 Mbit/s
+Cw value = 548
+10 nnode
+11 Mbit/s send
+5.30921 Mbit/s
+Cw value = 549
+10 nnode
+11 Mbit/s send
+5.32793 Mbit/s
+Cw value = 550
+10 nnode
+11 Mbit/s send
+5.29673 Mbit/s
+Cw value = 551
+10 nnode
+11 Mbit/s send
+5.29473 Mbit/s
+Cw value = 552
+10 nnode
+11 Mbit/s send
+5.30603 Mbit/s
+Cw value = 553
+10 nnode
+11 Mbit/s send
+5.30415 Mbit/s
+Cw value = 554
+10 nnode
+11 Mbit/s send
+5.30992 Mbit/s
+Cw value = 555
+10 nnode
+11 Mbit/s send
+5.29484 Mbit/s
+Cw value = 556
+10 nnode
+11 Mbit/s send
+5.29626 Mbit/s
+Cw value = 557
+10 nnode
+11 Mbit/s send
+5.29708 Mbit/s
+Cw value = 558
+10 nnode
+11 Mbit/s send
+5.28848 Mbit/s
+Cw value = 559
+10 nnode
+11 Mbit/s send
+5.30073 Mbit/s
+Cw value = 560
+10 nnode
+11 Mbit/s send
+5.29425 Mbit/s
+Cw value = 561
+10 nnode
+11 Mbit/s send
+5.29001 Mbit/s
+Cw value = 562
+10 nnode
+11 Mbit/s send
+5.28295 Mbit/s
+Cw value = 563
+10 nnode
+11 Mbit/s send
+5.27141 Mbit/s
+Cw value = 564
+10 nnode
+11 Mbit/s send
+5.28224 Mbit/s
+Cw value = 565
+10 nnode
+11 Mbit/s send
+5.28601 Mbit/s
+Cw value = 566
+10 nnode
+11 Mbit/s send
+5.26234 Mbit/s
+Cw value = 567
+10 nnode
+11 Mbit/s send
+5.27471 Mbit/s
+Cw value = 568
+10 nnode
+11 Mbit/s send
+5.29166 Mbit/s
+Cw value = 569
+10 nnode
+11 Mbit/s send
+5.27471 Mbit/s
+Cw value = 570
+10 nnode
+11 Mbit/s send
+5.26835 Mbit/s
+Cw value = 571
+10 nnode
+11 Mbit/s send
+5.24998 Mbit/s
+Cw value = 572
+10 nnode
+11 Mbit/s send
+5.26234 Mbit/s
+Cw value = 573
+10 nnode
+11 Mbit/s send
+5.24597 Mbit/s
+Cw value = 574
+10 nnode
+11 Mbit/s send
+5.25787 Mbit/s
+Cw value = 575
+10 nnode
+11 Mbit/s send
+5.25551 Mbit/s
+Cw value = 576
+10 nnode
+11 Mbit/s send
+5.2455 Mbit/s
+Cw value = 577
+10 nnode
+11 Mbit/s send
+5.25598 Mbit/s
+Cw value = 578
+10 nnode
+11 Mbit/s send
+5.25787 Mbit/s
+Cw value = 579
+10 nnode
+11 Mbit/s send
+5.23655 Mbit/s
+Cw value = 580
+10 nnode
+11 Mbit/s send
+5.23891 Mbit/s
+Cw value = 581
+10 nnode
+11 Mbit/s send
+5.22065 Mbit/s
+Cw value = 582
+10 nnode
+11 Mbit/s send
+5.23196 Mbit/s
+Cw value = 583
+10 nnode
+11 Mbit/s send
+5.21853 Mbit/s
+Cw value = 584
+10 nnode
+11 Mbit/s send
+5.23985 Mbit/s
+Cw value = 585
+10 nnode
+11 Mbit/s send
+5.22902 Mbit/s
+Cw value = 586
+10 nnode
+11 Mbit/s send
+5.23255 Mbit/s
+Cw value = 587
+10 nnode
+11 Mbit/s send
+5.20758 Mbit/s
+Cw value = 588
+10 nnode
+11 Mbit/s send
+5.23632 Mbit/s
+Cw value = 589
+10 nnode
+11 Mbit/s send
+5.21865 Mbit/s
+Cw value = 590
+10 nnode
+11 Mbit/s send
+5.22054 Mbit/s
+Cw value = 591
+10 nnode
+11 Mbit/s send
+5.22666 Mbit/s
+Cw value = 592
+10 nnode
+11 Mbit/s send
+5.217 Mbit/s
+Cw value = 593
+10 nnode
+11 Mbit/s send
+5.20829 Mbit/s
+Cw value = 594
+10 nnode
+11 Mbit/s send
+5.19804 Mbit/s
+Cw value = 595
+10 nnode
+11 Mbit/s send
+5.21983 Mbit/s
+Cw value = 596
+10 nnode
+11 Mbit/s send
+5.18933 Mbit/s
+Cw value = 597
+10 nnode
+11 Mbit/s send
+5.19651 Mbit/s
+Cw value = 598
+10 nnode
+11 Mbit/s send
+5.20275 Mbit/s
+Cw value = 599
+10 nnode
+11 Mbit/s send
+5.19239 Mbit/s
+Cw value = 600
+10 nnode
+11 Mbit/s send
+5.20217 Mbit/s
+Cw value = 601
+10 nnode
+11 Mbit/s send
+5.19922 Mbit/s
+Cw value = 602
+10 nnode
+11 Mbit/s send
+5.19793 Mbit/s
+Cw value = 603
+10 nnode
+11 Mbit/s send
+5.17897 Mbit/s
+Cw value = 604
+10 nnode
+11 Mbit/s send
+5.19475 Mbit/s
+Cw value = 605
+10 nnode
+11 Mbit/s send
+5.18591 Mbit/s
+Cw value = 606
+10 nnode
+11 Mbit/s send
+5.17202 Mbit/s
+Cw value = 607
+10 nnode
+11 Mbit/s send
+5.17767 Mbit/s
+Cw value = 608
+10 nnode
+11 Mbit/s send
+5.18168 Mbit/s
+Cw value = 609
+10 nnode
+11 Mbit/s send
+5.16754 Mbit/s
+Cw value = 610
+10 nnode
+11 Mbit/s send
+5.17202 Mbit/s
+Cw value = 611
+10 nnode
+11 Mbit/s send
+5.15954 Mbit/s
+Cw value = 612
+10 nnode
+11 Mbit/s send
+5.14647 Mbit/s
+Cw value = 613
+10 nnode
+11 Mbit/s send
+5.18226 Mbit/s
+Cw value = 614
+10 nnode
+11 Mbit/s send
+5.16378 Mbit/s
+Cw value = 615
+10 nnode
+11 Mbit/s send
+5.15942 Mbit/s
+Cw value = 616
+10 nnode
+11 Mbit/s send
+5.16307 Mbit/s
+Cw value = 617
+10 nnode
+11 Mbit/s send
+5.15377 Mbit/s
+Cw value = 618
+10 nnode
+11 Mbit/s send
+5.14847 Mbit/s
+Cw value = 619
+10 nnode
+11 Mbit/s send
+5.16707 Mbit/s
+Cw value = 620
+10 nnode
+11 Mbit/s send
+5.16413 Mbit/s
+Cw value = 621
+10 nnode
+11 Mbit/s send
+5.15695 Mbit/s
+Cw value = 622
+10 nnode
+11 Mbit/s send
+5.15247 Mbit/s
+Cw value = 623
+10 nnode
+11 Mbit/s send
+5.13975 Mbit/s
+Cw value = 624
+10 nnode
+11 Mbit/s send
+5.13858 Mbit/s
+Cw value = 625
+10 nnode
+11 Mbit/s send
+5.14081 Mbit/s
+Cw value = 626
+10 nnode
+11 Mbit/s send
+5.1407 Mbit/s
+Cw value = 627
+10 nnode
+11 Mbit/s send
+5.13269 Mbit/s
+Cw value = 628
+10 nnode
+11 Mbit/s send
+5.12974 Mbit/s
+Cw value = 629
+10 nnode
+11 Mbit/s send
+5.12868 Mbit/s
+Cw value = 630
+10 nnode
+11 Mbit/s send
+5.1394 Mbit/s
+Cw value = 631
+10 nnode
+11 Mbit/s send
+5.12645 Mbit/s
+Cw value = 632
+10 nnode
+11 Mbit/s send
+5.11514 Mbit/s
+Cw value = 633
+10 nnode
+11 Mbit/s send
+5.12115 Mbit/s
+Cw value = 634
+10 nnode
+11 Mbit/s send
+5.11985 Mbit/s
+Cw value = 635
+10 nnode
+11 Mbit/s send
+5.12174 Mbit/s
+Cw value = 636
+10 nnode
+11 Mbit/s send
+5.11926 Mbit/s
+Cw value = 637
+10 nnode
+11 Mbit/s send
+5.10278 Mbit/s
+Cw value = 638
+10 nnode
+11 Mbit/s send
+5.11491 Mbit/s
+Cw value = 639
+10 nnode
+11 Mbit/s send
+5.11184 Mbit/s
+Cw value = 640
+10 nnode
+11 Mbit/s send
+5.1049 Mbit/s
+Cw value = 641
+10 nnode
+11 Mbit/s send
+5.10902 Mbit/s
+Cw value = 642
+10 nnode
+11 Mbit/s send
+5.09018 Mbit/s
+Cw value = 643
+10 nnode
+11 Mbit/s send
+5.10572 Mbit/s
+Cw value = 644
+10 nnode
+11 Mbit/s send
+5.10643 Mbit/s
+Cw value = 645
+10 nnode
+11 Mbit/s send
+5.10089 Mbit/s
+Cw value = 646
+10 nnode
+11 Mbit/s send
+5.10301 Mbit/s
+Cw value = 647
+10 nnode
+11 Mbit/s send
+5.08099 Mbit/s
+Cw value = 648
+10 nnode
+11 Mbit/s send
+5.08794 Mbit/s
+Cw value = 649
+10 nnode
+11 Mbit/s send
+5.08912 Mbit/s
+Cw value = 650
+10 nnode
+11 Mbit/s send
+5.09347 Mbit/s
+Cw value = 651
+10 nnode
+11 Mbit/s send
+5.08594 Mbit/s
+Cw value = 652
+10 nnode
+11 Mbit/s send
+5.0837 Mbit/s
+Cw value = 653
+10 nnode
+11 Mbit/s send
+5.07393 Mbit/s
+Cw value = 654
+10 nnode
+11 Mbit/s send
+5.08417 Mbit/s
+Cw value = 655
+10 nnode
+11 Mbit/s send
+5.08688 Mbit/s
+Cw value = 656
+10 nnode
+11 Mbit/s send
+5.06215 Mbit/s
+Cw value = 657
+10 nnode
+11 Mbit/s send
+5.07086 Mbit/s
+Cw value = 658
+10 nnode
+11 Mbit/s send
+5.07251 Mbit/s
+Cw value = 659
+10 nnode
+11 Mbit/s send
+5.06686 Mbit/s
+Cw value = 660
+10 nnode
+11 Mbit/s send
+5.06851 Mbit/s
+Cw value = 661
+10 nnode
+11 Mbit/s send
+5.06356 Mbit/s
+Cw value = 662
+10 nnode
+11 Mbit/s send
+5.0532 Mbit/s
+Cw value = 663
+10 nnode
+11 Mbit/s send
+5.07334 Mbit/s
+Cw value = 664
+10 nnode
+11 Mbit/s send
+5.05014 Mbit/s
+Cw value = 665
+10 nnode
+11 Mbit/s send
+5.05226 Mbit/s
+Cw value = 666
+10 nnode
+11 Mbit/s send
+5.04401 Mbit/s
+Cw value = 667
+10 nnode
+11 Mbit/s send
+5.04213 Mbit/s
+Cw value = 668
+10 nnode
+11 Mbit/s send
+5.03954 Mbit/s
+Cw value = 669
+10 nnode
+11 Mbit/s send
+5.04943 Mbit/s
+Cw value = 670
+10 nnode
+11 Mbit/s send
+5.04213 Mbit/s
+Cw value = 671
+10 nnode
+11 Mbit/s send
+5.04672 Mbit/s
+Cw value = 672
+10 nnode
+11 Mbit/s send
+5.04095 Mbit/s
+Cw value = 673
+10 nnode
+11 Mbit/s send
+5.03177 Mbit/s
+Cw value = 674
+10 nnode
+11 Mbit/s send
+5.03506 Mbit/s
+Cw value = 675
+10 nnode
+11 Mbit/s send
+5.03059 Mbit/s
+Cw value = 676
+10 nnode
+11 Mbit/s send
+5.02352 Mbit/s
+Cw value = 677
+10 nnode
+11 Mbit/s send
+5.02352 Mbit/s
+Cw value = 678
+10 nnode
+11 Mbit/s send
+5.0313 Mbit/s
+Cw value = 679
+10 nnode
+11 Mbit/s send
+5.03236 Mbit/s
+Cw value = 680
+10 nnode
+11 Mbit/s send
+5.01363 Mbit/s
+Cw value = 681
+10 nnode
+11 Mbit/s send
+5.01964 Mbit/s
+Cw value = 682
+10 nnode
+11 Mbit/s send
+5.00574 Mbit/s
+Cw value = 683
+10 nnode
+11 Mbit/s send
+5.01952 Mbit/s
+Cw value = 684
+10 nnode
+11 Mbit/s send
+5.0141 Mbit/s
+Cw value = 685
+10 nnode
+11 Mbit/s send
+5.00456 Mbit/s
+Cw value = 686
+10 nnode
+11 Mbit/s send
+5.02458 Mbit/s
+Cw value = 687
+10 nnode
+11 Mbit/s send
+5.00551 Mbit/s
+Cw value = 688
+10 nnode
+11 Mbit/s send
+5.00704 Mbit/s
+Cw value = 689
+10 nnode
+11 Mbit/s send
+5.00892 Mbit/s
+Cw value = 690
+10 nnode
+11 Mbit/s send
+4.9975 Mbit/s
+Cw value = 691
+10 nnode
+11 Mbit/s send
+4.99856 Mbit/s
+Cw value = 692
+10 nnode
+11 Mbit/s send
+4.99503 Mbit/s
+Cw value = 693
+10 nnode
+11 Mbit/s send
+5.00421 Mbit/s
+Cw value = 694
+10 nnode
+11 Mbit/s send
+4.99856 Mbit/s
+Cw value = 695
+10 nnode
+11 Mbit/s send
+4.98926 Mbit/s
+Cw value = 696
+10 nnode
+11 Mbit/s send
+4.98914 Mbit/s
+Cw value = 697
+10 nnode
+11 Mbit/s send
+4.99938 Mbit/s
+Cw value = 698
+10 nnode
+11 Mbit/s send
+4.9869 Mbit/s
+Cw value = 699
+10 nnode
+11 Mbit/s send
+4.97477 Mbit/s
+Cw value = 700
+10 nnode
+11 Mbit/s send
+4.96747 Mbit/s
+Cw value = 701
+10 nnode
+11 Mbit/s send
+4.97348 Mbit/s
+Cw value = 702
+10 nnode
+11 Mbit/s send
+4.96983 Mbit/s
+Cw value = 703
+10 nnode
+11 Mbit/s send
+4.97147 Mbit/s
+Cw value = 704
+10 nnode
+11 Mbit/s send
+4.97194 Mbit/s
+Cw value = 705
+10 nnode
+11 Mbit/s send
+4.96947 Mbit/s
+Cw value = 706
+10 nnode
+11 Mbit/s send
+4.97183 Mbit/s
+Cw value = 707
+10 nnode
+11 Mbit/s send
+4.96688 Mbit/s
+Cw value = 708
+10 nnode
+11 Mbit/s send
+4.96924 Mbit/s
+Cw value = 709
+10 nnode
+11 Mbit/s send
+4.95805 Mbit/s
+Cw value = 710
+10 nnode
+11 Mbit/s send
+4.96076 Mbit/s
+Cw value = 711
+10 nnode
+11 Mbit/s send
+4.95416 Mbit/s
+Cw value = 712
+10 nnode
+11 Mbit/s send
+4.95098 Mbit/s
+Cw value = 713
+10 nnode
+11 Mbit/s send
+4.9478 Mbit/s
+Cw value = 714
+10 nnode
+11 Mbit/s send
+4.94145 Mbit/s
+Cw value = 715
+10 nnode
+11 Mbit/s send
+4.94886 Mbit/s
+Cw value = 716
+10 nnode
+11 Mbit/s send
+4.94121 Mbit/s
+Cw value = 717
+10 nnode
+11 Mbit/s send
+4.93685 Mbit/s
+Cw value = 718
+10 nnode
+11 Mbit/s send
+4.94262 Mbit/s
+Cw value = 719
+10 nnode
+11 Mbit/s send
+4.94757 Mbit/s
+Cw value = 720
+10 nnode
+11 Mbit/s send
+4.94639 Mbit/s
+Cw value = 721
+10 nnode
+11 Mbit/s send
+4.95334 Mbit/s
+Cw value = 722
+10 nnode
+11 Mbit/s send
+4.92296 Mbit/s
+Cw value = 723
+10 nnode
+11 Mbit/s send
+4.93638 Mbit/s
+Cw value = 724
+10 nnode
+11 Mbit/s send
+4.93509 Mbit/s
+Cw value = 725
+10 nnode
+11 Mbit/s send
+4.92154 Mbit/s
+Cw value = 726
+10 nnode
+11 Mbit/s send
+4.92025 Mbit/s
+Cw value = 727
+10 nnode
+11 Mbit/s send
+4.92178 Mbit/s
+Cw value = 728
+10 nnode
+11 Mbit/s send
+4.92908 Mbit/s
+Cw value = 729
+10 nnode
+11 Mbit/s send
+4.91789 Mbit/s
+Cw value = 730
+10 nnode
+11 Mbit/s send
+4.91754 Mbit/s
+Cw value = 731
+10 nnode
+11 Mbit/s send
+4.90376 Mbit/s
+Cw value = 732
+10 nnode
+11 Mbit/s send
+4.92249 Mbit/s
+Cw value = 733
+10 nnode
+11 Mbit/s send
+4.90152 Mbit/s
+Cw value = 734
+10 nnode
+11 Mbit/s send
+4.90977 Mbit/s
+Cw value = 735
+10 nnode
+11 Mbit/s send
+4.91212 Mbit/s
+Cw value = 736
+10 nnode
+11 Mbit/s send
+4.89752 Mbit/s
+Cw value = 737
+10 nnode
+11 Mbit/s send
+4.89893 Mbit/s
+Cw value = 738
+10 nnode
+11 Mbit/s send
+4.90953 Mbit/s
+Cw value = 739
+10 nnode
+11 Mbit/s send
+4.89717 Mbit/s
+Cw value = 740
+10 nnode
+11 Mbit/s send
+4.90894 Mbit/s
+Cw value = 741
+10 nnode
+11 Mbit/s send
+4.904 Mbit/s
+Cw value = 742
+10 nnode
+11 Mbit/s send
+4.88586 Mbit/s
+Cw value = 743
+10 nnode
+11 Mbit/s send
+4.89399 Mbit/s
+Cw value = 744
+10 nnode
+11 Mbit/s send
+4.89269 Mbit/s
+Cw value = 745
+10 nnode
+11 Mbit/s send
+4.88221 Mbit/s
+Cw value = 746
+10 nnode
+11 Mbit/s send
+4.8828 Mbit/s
+Cw value = 747
+10 nnode
+11 Mbit/s send
+4.89175 Mbit/s
+Cw value = 748
+10 nnode
+11 Mbit/s send
+4.88633 Mbit/s
+Cw value = 749
+10 nnode
+11 Mbit/s send
+4.87468 Mbit/s
+Cw value = 750
+10 nnode
+11 Mbit/s send
+4.87515 Mbit/s
+Cw value = 751
+10 nnode
+11 Mbit/s send
+4.87574 Mbit/s
+Cw value = 752
+10 nnode
+11 Mbit/s send
+4.8775 Mbit/s
+Cw value = 753
+10 nnode
+11 Mbit/s send
+4.86137 Mbit/s
+Cw value = 754
+10 nnode
+11 Mbit/s send
+4.85678 Mbit/s
+Cw value = 755
+10 nnode
+11 Mbit/s send
+4.87126 Mbit/s
+Cw value = 756
+10 nnode
+11 Mbit/s send
+4.86207 Mbit/s
+Cw value = 757
+10 nnode
+11 Mbit/s send
+4.86761 Mbit/s
+Cw value = 758
+10 nnode
+11 Mbit/s send
+4.86054 Mbit/s
+Cw value = 759
+10 nnode
+11 Mbit/s send
+4.86361 Mbit/s
+Cw value = 760
+10 nnode
+11 Mbit/s send
+4.86172 Mbit/s
+Cw value = 761
+10 nnode
+11 Mbit/s send
+4.84865 Mbit/s
+Cw value = 762
+10 nnode
+11 Mbit/s send
+4.86196 Mbit/s
+Cw value = 763
+10 nnode
+11 Mbit/s send
+4.85842 Mbit/s
+Cw value = 764
+10 nnode
+11 Mbit/s send
+4.8503 Mbit/s
+Cw value = 765
+10 nnode
+11 Mbit/s send
+4.85289 Mbit/s
+Cw value = 766
+10 nnode
+11 Mbit/s send
+4.85254 Mbit/s
+Cw value = 767
+10 nnode
+11 Mbit/s send
+4.84111 Mbit/s
+Cw value = 768
+10 nnode
+11 Mbit/s send
+4.8437 Mbit/s
+Cw value = 769
+10 nnode
+11 Mbit/s send
+4.84889 Mbit/s
+Cw value = 770
+10 nnode
+11 Mbit/s send
+4.84653 Mbit/s
+Cw value = 771
+10 nnode
+11 Mbit/s send
+4.84359 Mbit/s
+Cw value = 772
+10 nnode
+11 Mbit/s send
+4.83358 Mbit/s
+Cw value = 773
+10 nnode
+11 Mbit/s send
+4.83534 Mbit/s
+Cw value = 774
+10 nnode
+11 Mbit/s send
+4.841 Mbit/s
+Cw value = 775
+10 nnode
+11 Mbit/s send
+4.83193 Mbit/s
+Cw value = 776
+10 nnode
+11 Mbit/s send
+4.82993 Mbit/s
+Cw value = 777
+10 nnode
+11 Mbit/s send
+4.81992 Mbit/s
+Cw value = 778
+10 nnode
+11 Mbit/s send
+4.81073 Mbit/s
+Cw value = 779
+10 nnode
+11 Mbit/s send
+4.82651 Mbit/s
+Cw value = 780
+10 nnode
+11 Mbit/s send
+4.83369 Mbit/s
+Cw value = 781
+10 nnode
+11 Mbit/s send
+4.80508 Mbit/s
+Cw value = 782
+10 nnode
+11 Mbit/s send
+4.81509 Mbit/s
+Cw value = 783
+10 nnode
+11 Mbit/s send
+4.82062 Mbit/s
+Cw value = 784
+10 nnode
+11 Mbit/s send
+4.80861 Mbit/s
+Cw value = 785
+10 nnode
+11 Mbit/s send
+4.80991 Mbit/s
+Cw value = 786
+10 nnode
+11 Mbit/s send
+4.80838 Mbit/s
+Cw value = 787
+10 nnode
+11 Mbit/s send
+4.80791 Mbit/s
+Cw value = 788
+10 nnode
+11 Mbit/s send
+4.8052 Mbit/s
+Cw value = 789
+10 nnode
+11 Mbit/s send
+4.80013 Mbit/s
+Cw value = 790
+10 nnode
+11 Mbit/s send
+4.7966 Mbit/s
+Cw value = 791
+10 nnode
+11 Mbit/s send
+4.79872 Mbit/s
+Cw value = 792
+10 nnode
+11 Mbit/s send
+4.79413 Mbit/s
+Cw value = 793
+10 nnode
+11 Mbit/s send
+4.79319 Mbit/s
+Cw value = 794
+10 nnode
+11 Mbit/s send
+4.78141 Mbit/s
+Cw value = 795
+10 nnode
+11 Mbit/s send
+4.78482 Mbit/s
+Cw value = 796
+10 nnode
+11 Mbit/s send
+4.79742 Mbit/s
+Cw value = 797
+10 nnode
+11 Mbit/s send
+4.79413 Mbit/s
+Cw value = 798
+10 nnode
+11 Mbit/s send
+4.77823 Mbit/s
+Cw value = 799
+10 nnode
+11 Mbit/s send
+4.77835 Mbit/s
+Cw value = 800
+10 nnode
+11 Mbit/s send
+4.77988 Mbit/s
+Cw value = 801
+10 nnode
+11 Mbit/s send
+4.77234 Mbit/s
+Cw value = 802
+10 nnode
+11 Mbit/s send
+4.7787 Mbit/s
+Cw value = 803
+10 nnode
+11 Mbit/s send
+4.77046 Mbit/s
+Cw value = 804
+10 nnode
+11 Mbit/s send
+4.77599 Mbit/s
+Cw value = 805
+10 nnode
+11 Mbit/s send
+4.76857 Mbit/s
+Cw value = 806
+10 nnode
+11 Mbit/s send
+4.77058 Mbit/s
+Cw value = 807
+10 nnode
+11 Mbit/s send
+4.7681 Mbit/s
+Cw value = 808
+10 nnode
+11 Mbit/s send
+4.75468 Mbit/s
+Cw value = 809
+10 nnode
+11 Mbit/s send
+4.75468 Mbit/s
+Cw value = 810
+10 nnode
+11 Mbit/s send
+4.75444 Mbit/s
+Cw value = 811
+10 nnode
+11 Mbit/s send
+4.75362 Mbit/s
+Cw value = 812
+10 nnode
+11 Mbit/s send
+4.74867 Mbit/s
+Cw value = 813
+10 nnode
+11 Mbit/s send
+4.74714 Mbit/s
+Cw value = 814
+10 nnode
+11 Mbit/s send
+4.76174 Mbit/s
+Cw value = 815
+10 nnode
+11 Mbit/s send
+4.75527 Mbit/s
+Cw value = 816
+10 nnode
+11 Mbit/s send
+4.74514 Mbit/s
+Cw value = 817
+10 nnode
+11 Mbit/s send
+4.75056 Mbit/s
+Cw value = 818
+10 nnode
+11 Mbit/s send
+4.75692 Mbit/s
+Cw value = 819
+10 nnode
+11 Mbit/s send
+4.75103 Mbit/s
+Cw value = 820
+10 nnode
+11 Mbit/s send
+4.73972 Mbit/s
+Cw value = 821
+10 nnode
+11 Mbit/s send
+4.73631 Mbit/s
+Cw value = 822
+10 nnode
+11 Mbit/s send
+4.7283 Mbit/s
+Cw value = 823
+10 nnode
+11 Mbit/s send
+4.7389 Mbit/s
+Cw value = 824
+10 nnode
+11 Mbit/s send
+4.73513 Mbit/s
+Cw value = 825
+10 nnode
+11 Mbit/s send
+4.74149 Mbit/s
+Cw value = 826
+10 nnode
+11 Mbit/s send
+4.723 Mbit/s
+Cw value = 827
+10 nnode
+11 Mbit/s send
+4.72276 Mbit/s
+Cw value = 828
+10 nnode
+11 Mbit/s send
+4.72571 Mbit/s
+Cw value = 829
+10 nnode
+11 Mbit/s send
+4.72689 Mbit/s
+Cw value = 830
+10 nnode
+11 Mbit/s send
+4.72041 Mbit/s
+Cw value = 831
+10 nnode
+11 Mbit/s send
+4.72265 Mbit/s
+Cw value = 832
+10 nnode
+11 Mbit/s send
+4.72547 Mbit/s
+Cw value = 833
+10 nnode
+11 Mbit/s send
+4.71664 Mbit/s
+Cw value = 834
+10 nnode
+11 Mbit/s send
+4.71535 Mbit/s
+Cw value = 835
+10 nnode
+11 Mbit/s send
+4.71629 Mbit/s
+Cw value = 836
+10 nnode
+11 Mbit/s send
+4.7091 Mbit/s
+Cw value = 837
+10 nnode
+11 Mbit/s send
+4.70663 Mbit/s
+Cw value = 838
+10 nnode
+11 Mbit/s send
+4.71299 Mbit/s
+Cw value = 839
+10 nnode
+11 Mbit/s send
+4.71064 Mbit/s
+Cw value = 840
+10 nnode
+11 Mbit/s send
+4.68779 Mbit/s
+Cw value = 841
+10 nnode
+11 Mbit/s send
+4.70004 Mbit/s
+Cw value = 842
+10 nnode
+11 Mbit/s send
+4.6965 Mbit/s
+Cw value = 843
+10 nnode
+11 Mbit/s send
+4.68697 Mbit/s
+Cw value = 844
+10 nnode
+11 Mbit/s send
+4.69792 Mbit/s
+Cw value = 845
+10 nnode
+11 Mbit/s send
+4.68649 Mbit/s
+Cw value = 846
+10 nnode
+11 Mbit/s send
+4.69568 Mbit/s
+Cw value = 847
+10 nnode
+11 Mbit/s send
+4.69627 Mbit/s
+Cw value = 848
+10 nnode
+11 Mbit/s send
+4.69321 Mbit/s
+Cw value = 849
+10 nnode
+11 Mbit/s send
+4.67754 Mbit/s
+Cw value = 850
+10 nnode
+11 Mbit/s send
+4.68273 Mbit/s
+Cw value = 851
+10 nnode
+11 Mbit/s send
+4.68084 Mbit/s
+Cw value = 852
+10 nnode
+11 Mbit/s send
+4.68414 Mbit/s
+Cw value = 853
+10 nnode
+11 Mbit/s send
+4.68426 Mbit/s
+Cw value = 854
+10 nnode
+11 Mbit/s send
+4.67778 Mbit/s
+Cw value = 855
+10 nnode
+11 Mbit/s send
+4.67884 Mbit/s
+Cw value = 856
+10 nnode
+11 Mbit/s send
+4.66954 Mbit/s
+Cw value = 857
+10 nnode
+11 Mbit/s send
+4.67119 Mbit/s
+Cw value = 858
+10 nnode
+11 Mbit/s send
+4.67083 Mbit/s
+Cw value = 859
+10 nnode
+11 Mbit/s send
+4.67036 Mbit/s
+Cw value = 860
+10 nnode
+11 Mbit/s send
+4.65599 Mbit/s
+Cw value = 861
+10 nnode
+11 Mbit/s send
+4.66424 Mbit/s
+Cw value = 862
+10 nnode
+11 Mbit/s send
+4.66848 Mbit/s
+Cw value = 863
+10 nnode
+11 Mbit/s send
+4.66059 Mbit/s
+Cw value = 864
+10 nnode
+11 Mbit/s send
+4.65164 Mbit/s
+Cw value = 865
+10 nnode
+11 Mbit/s send
+4.66153 Mbit/s
+Cw value = 866
+10 nnode
+11 Mbit/s send
+4.65823 Mbit/s
+Cw value = 867
+10 nnode
+11 Mbit/s send
+4.65011 Mbit/s
+Cw value = 868
+10 nnode
+11 Mbit/s send
+4.65705 Mbit/s
+Cw value = 869
+10 nnode
+11 Mbit/s send
+4.64999 Mbit/s
+Cw value = 870
+10 nnode
+11 Mbit/s send
+4.64905 Mbit/s
+Cw value = 871
+10 nnode
+11 Mbit/s send
+4.64269 Mbit/s
+Cw value = 872
+10 nnode
+11 Mbit/s send
+4.65081 Mbit/s
+Cw value = 873
+10 nnode
+11 Mbit/s send
+4.64716 Mbit/s
+Cw value = 874
+10 nnode
+11 Mbit/s send
+4.64175 Mbit/s
+Cw value = 875
+10 nnode
+11 Mbit/s send
+4.63374 Mbit/s
+Cw value = 876
+10 nnode
+11 Mbit/s send
+4.62326 Mbit/s
+Cw value = 877
+10 nnode
+11 Mbit/s send
+4.64104 Mbit/s
+Cw value = 878
+10 nnode
+11 Mbit/s send
+4.63704 Mbit/s
+Cw value = 879
+10 nnode
+11 Mbit/s send
+4.63621 Mbit/s
+Cw value = 880
+10 nnode
+11 Mbit/s send
+4.63068 Mbit/s
+Cw value = 881
+10 nnode
+11 Mbit/s send
+4.62208 Mbit/s
+Cw value = 882
+10 nnode
+11 Mbit/s send
+4.6209 Mbit/s
+Cw value = 883
+10 nnode
+11 Mbit/s send
+4.61549 Mbit/s
+Cw value = 884
+10 nnode
+11 Mbit/s send
+4.62043 Mbit/s
+Cw value = 885
+10 nnode
+11 Mbit/s send
+4.62832 Mbit/s
+Cw value = 886
+10 nnode
+11 Mbit/s send
+4.60807 Mbit/s
+Cw value = 887
+10 nnode
+11 Mbit/s send
+4.61619 Mbit/s
+Cw value = 888
+10 nnode
+11 Mbit/s send
+4.62196 Mbit/s
+Cw value = 889
+10 nnode
+11 Mbit/s send
+4.61572 Mbit/s
+Cw value = 890
+10 nnode
+11 Mbit/s send
+4.61478 Mbit/s
+Cw value = 891
+10 nnode
+11 Mbit/s send
+4.60689 Mbit/s
+Cw value = 892
+10 nnode
+11 Mbit/s send
+4.60924 Mbit/s
+Cw value = 893
+10 nnode
+11 Mbit/s send
+4.61007 Mbit/s
+Cw value = 894
+10 nnode
+11 Mbit/s send
+4.59653 Mbit/s
+Cw value = 895
+10 nnode
+11 Mbit/s send
+4.59923 Mbit/s
+Cw value = 896
+10 nnode
+11 Mbit/s send
+4.59947 Mbit/s
+Cw value = 897
+10 nnode
+11 Mbit/s send
+4.597 Mbit/s
+Cw value = 898
+10 nnode
+11 Mbit/s send
+4.59782 Mbit/s
+Cw value = 899
+10 nnode
+11 Mbit/s send
+4.60241 Mbit/s
+Cw value = 900
+10 nnode
+11 Mbit/s send
+4.58239 Mbit/s
+Cw value = 901
+10 nnode
+11 Mbit/s send
+4.58616 Mbit/s
+Cw value = 902
+10 nnode
+11 Mbit/s send
+4.59017 Mbit/s
+Cw value = 903
+10 nnode
+11 Mbit/s send
+4.58039 Mbit/s
+Cw value = 904
+10 nnode
+11 Mbit/s send
+4.59205 Mbit/s
+Cw value = 905
+10 nnode
+11 Mbit/s send
+4.57156 Mbit/s
+Cw value = 906
+10 nnode
+11 Mbit/s send
+4.57816 Mbit/s
+Cw value = 907
+10 nnode
+11 Mbit/s send
+4.57085 Mbit/s
+Cw value = 908
+10 nnode
+11 Mbit/s send
+4.58711 Mbit/s
+Cw value = 909
+10 nnode
+11 Mbit/s send
+4.56426 Mbit/s
+Cw value = 910
+10 nnode
+11 Mbit/s send
+4.57191 Mbit/s
+Cw value = 911
+10 nnode
+11 Mbit/s send
+4.56873 Mbit/s
+Cw value = 912
+10 nnode
+11 Mbit/s send
+4.57768 Mbit/s
+Cw value = 913
+10 nnode
+11 Mbit/s send
+4.56979 Mbit/s
+Cw value = 914
+10 nnode
+11 Mbit/s send
+4.55661 Mbit/s
+Cw value = 915
+10 nnode
+11 Mbit/s send
+4.56556 Mbit/s
+Cw value = 916
+10 nnode
+11 Mbit/s send
+4.56767 Mbit/s
+Cw value = 917
+10 nnode
+11 Mbit/s send
+4.56002 Mbit/s
+Cw value = 918
+10 nnode
+11 Mbit/s send
+4.55719 Mbit/s
+Cw value = 919
+10 nnode
+11 Mbit/s send
+4.55978 Mbit/s
+Cw value = 920
+10 nnode
+11 Mbit/s send
+4.55072 Mbit/s
+Cw value = 921
+10 nnode
+11 Mbit/s send
+4.56944 Mbit/s
+Cw value = 922
+10 nnode
+11 Mbit/s send
+4.55861 Mbit/s
+Cw value = 923
+10 nnode
+11 Mbit/s send
+4.55578 Mbit/s
+Cw value = 924
+10 nnode
+11 Mbit/s send
+4.55672 Mbit/s
+Cw value = 925
+10 nnode
+11 Mbit/s send
+4.55401 Mbit/s
+Cw value = 926
+10 nnode
+11 Mbit/s send
+4.54895 Mbit/s
+Cw value = 927
+10 nnode
+11 Mbit/s send
+4.54883 Mbit/s
+Cw value = 928
+10 nnode
+11 Mbit/s send
+4.542 Mbit/s
+Cw value = 929
+10 nnode
+11 Mbit/s send
+4.54236 Mbit/s
+Cw value = 930
+10 nnode
+11 Mbit/s send
+4.53659 Mbit/s
+Cw value = 931
+10 nnode
+11 Mbit/s send
+4.54565 Mbit/s
+Cw value = 932
+10 nnode
+11 Mbit/s send
+4.53117 Mbit/s
+Cw value = 933
+10 nnode
+11 Mbit/s send
+4.54295 Mbit/s
+Cw value = 934
+10 nnode
+11 Mbit/s send
+4.54141 Mbit/s
+Cw value = 935
+10 nnode
+11 Mbit/s send
+4.53176 Mbit/s
+Cw value = 936
+10 nnode
+11 Mbit/s send
+4.52304 Mbit/s
+Cw value = 937
+10 nnode
+11 Mbit/s send
+4.52469 Mbit/s
+Cw value = 938
+10 nnode
+11 Mbit/s send
+4.5254 Mbit/s
+Cw value = 939
+10 nnode
+11 Mbit/s send
+4.50974 Mbit/s
+Cw value = 940
+10 nnode
+11 Mbit/s send
+4.52505 Mbit/s
+Cw value = 941
+10 nnode
+11 Mbit/s send
+4.51857 Mbit/s
+Cw value = 942
+10 nnode
+11 Mbit/s send
+4.52399 Mbit/s
+Cw value = 943
+10 nnode
+11 Mbit/s send
+4.52599 Mbit/s
+Cw value = 944
+10 nnode
+11 Mbit/s send
+4.52669 Mbit/s
+Cw value = 945
+10 nnode
+11 Mbit/s send
+4.52246 Mbit/s
+Cw value = 946
+10 nnode
+11 Mbit/s send
+4.51386 Mbit/s
+Cw value = 947
+10 nnode
+11 Mbit/s send
+4.49678 Mbit/s
+Cw value = 948
+10 nnode
+11 Mbit/s send
+4.50879 Mbit/s
+Cw value = 949
+10 nnode
+11 Mbit/s send
+4.51233 Mbit/s
+Cw value = 950
+10 nnode
+11 Mbit/s send
+4.49761 Mbit/s
+Cw value = 951
+10 nnode
+11 Mbit/s send
+4.49455 Mbit/s
+Cw value = 952
+10 nnode
+11 Mbit/s send
+4.49973 Mbit/s
+Cw value = 953
+10 nnode
+11 Mbit/s send
+4.50514 Mbit/s
+Cw value = 954
+10 nnode
+11 Mbit/s send
+4.49019 Mbit/s
+Cw value = 955
+10 nnode
+11 Mbit/s send
+4.49502 Mbit/s
+Cw value = 956
+10 nnode
+11 Mbit/s send
+4.49749 Mbit/s
+Cw value = 957
+10 nnode
+11 Mbit/s send
+4.5035 Mbit/s
+Cw value = 958
+10 nnode
+11 Mbit/s send
+4.4863 Mbit/s
+Cw value = 959
+10 nnode
+11 Mbit/s send
+4.49019 Mbit/s
+Cw value = 960
+10 nnode
+11 Mbit/s send
+4.49113 Mbit/s
+Cw value = 961
+10 nnode
+11 Mbit/s send
+4.49219 Mbit/s
+Cw value = 962
+10 nnode
+11 Mbit/s send
+4.48666 Mbit/s
+Cw value = 963
+10 nnode
+11 Mbit/s send
+4.49172 Mbit/s
+Cw value = 964
+10 nnode
+11 Mbit/s send
+4.47994 Mbit/s
+Cw value = 965
+10 nnode
+11 Mbit/s send
+4.47782 Mbit/s
+Cw value = 966
+10 nnode
+11 Mbit/s send
+4.49148 Mbit/s
+Cw value = 967
+10 nnode
+11 Mbit/s send
+4.47676 Mbit/s
+Cw value = 968
+10 nnode
+11 Mbit/s send
+4.47665 Mbit/s
+Cw value = 969
+10 nnode
+11 Mbit/s send
+4.48489 Mbit/s
+Cw value = 970
+10 nnode
+11 Mbit/s send
+4.46817 Mbit/s
+Cw value = 971
+10 nnode
+11 Mbit/s send
+4.47535 Mbit/s
+Cw value = 972
+10 nnode
+11 Mbit/s send
+4.46829 Mbit/s
+Cw value = 973
+10 nnode
+11 Mbit/s send
+4.4664 Mbit/s
+Cw value = 974
+10 nnode
+11 Mbit/s send
+4.46817 Mbit/s
+Cw value = 975
+10 nnode
+11 Mbit/s send
+4.45769 Mbit/s
+Cw value = 976
+10 nnode
+11 Mbit/s send
+4.47229 Mbit/s
+Cw value = 977
+10 nnode
+11 Mbit/s send
+4.46263 Mbit/s
+Cw value = 978
+10 nnode
+11 Mbit/s send
+4.44697 Mbit/s
+Cw value = 979
+10 nnode
+11 Mbit/s send
+4.45345 Mbit/s
+Cw value = 980
+10 nnode
+11 Mbit/s send
+4.45404 Mbit/s
+Cw value = 981
+10 nnode
+11 Mbit/s send
+4.45298 Mbit/s
+Cw value = 982
+10 nnode
+11 Mbit/s send
+4.44308 Mbit/s
+Cw value = 983
+10 nnode
+11 Mbit/s send
+4.43979 Mbit/s
+Cw value = 984
+10 nnode
+11 Mbit/s send
+4.4551 Mbit/s
+Cw value = 985
+10 nnode
+11 Mbit/s send
+4.44662 Mbit/s
+Cw value = 986
+10 nnode
+11 Mbit/s send
+4.4478 Mbit/s
+Cw value = 987
+10 nnode
+11 Mbit/s send
+4.44344 Mbit/s
+Cw value = 988
+10 nnode
+11 Mbit/s send
+4.43955 Mbit/s
+Cw value = 989
+10 nnode
+11 Mbit/s send
+4.44485 Mbit/s
+Cw value = 990
+10 nnode
+11 Mbit/s send
+4.43308 Mbit/s
+Cw value = 991
+10 nnode
+11 Mbit/s send
+4.43837 Mbit/s
+Cw value = 992
+10 nnode
+11 Mbit/s send
+4.4379 Mbit/s
+Cw value = 993
+10 nnode
+11 Mbit/s send
+4.4213 Mbit/s
+Cw value = 994
+10 nnode
+11 Mbit/s send
+4.42966 Mbit/s
+Cw value = 995
+10 nnode
+11 Mbit/s send
+4.41694 Mbit/s
+Cw value = 996
+10 nnode
+11 Mbit/s send
+4.43166 Mbit/s
+Cw value = 997
+10 nnode
+11 Mbit/s send
+4.42365 Mbit/s
+Cw value = 998
+10 nnode
+11 Mbit/s send
+4.41647 Mbit/s
+Cw value = 999
+10 nnode
+11 Mbit/s send
+4.42471 Mbit/s
+Cw value = 1000
+10 nnode
+11 Mbit/s send
+4.41494 Mbit/s
+Cw value = 1001
+10 nnode
+11 Mbit/s send
+4.4127 Mbit/s
+Cw value = 1002
+10 nnode
+11 Mbit/s send
+4.42283 Mbit/s
+Cw value = 1003
+10 nnode
+11 Mbit/s send
+4.41836 Mbit/s
+Cw value = 1004
+10 nnode
+11 Mbit/s send
+4.41859 Mbit/s
+Cw value = 1005
+10 nnode
+11 Mbit/s send
+4.40964 Mbit/s
+Cw value = 1006
+10 nnode
+11 Mbit/s send
+4.40022 Mbit/s
+Cw value = 1007
+10 nnode
+11 Mbit/s send
+4.41824 Mbit/s
+Cw value = 1008
+10 nnode
+11 Mbit/s send
+4.40693 Mbit/s
+Cw value = 1009
+10 nnode
+11 Mbit/s send
+4.39916 Mbit/s
+Cw value = 1010
+10 nnode
+11 Mbit/s send
+4.40081 Mbit/s
+Cw value = 1011
+10 nnode
+11 Mbit/s send
+4.40093 Mbit/s
+Cw value = 1012
+10 nnode
+11 Mbit/s send
+4.39904 Mbit/s
+Cw value = 1013
+10 nnode
+11 Mbit/s send
+4.39339 Mbit/s
+Cw value = 1014
+10 nnode
+11 Mbit/s send
+4.39975 Mbit/s
+Cw value = 1015
+10 nnode
+11 Mbit/s send
+4.3981 Mbit/s
+Cw value = 1016
+10 nnode
+11 Mbit/s send
+4.39704 Mbit/s
+Cw value = 1017
+10 nnode
+11 Mbit/s send
+4.39539 Mbit/s
+Cw value = 1018
+10 nnode
+11 Mbit/s send
+4.40069 Mbit/s
+Cw value = 1019
+10 nnode
+11 Mbit/s send
+4.38091 Mbit/s
+Cw value = 1020
+10 nnode
+11 Mbit/s send
+4.38303 Mbit/s
+Cw value = 1021
+10 nnode
+11 Mbit/s send
+4.37737 Mbit/s
+Cw value = 1022
+10 nnode
+11 Mbit/s send
+4.39221 Mbit/s

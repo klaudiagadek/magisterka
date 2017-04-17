@@ -1,0 +1,8 @@
+Waf: Entering directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (3.173s)
+phyMode DsssRate1Mbps   Thr 0.857999Mbit/s   delay sum +2119762484500.0ns   delay +290936382.0ns   lost:7286   send:8500
+phyMode DsssRate2Mbps   Thr 1.66124Mbit/s   delay sum +3290135009872.0ns   delay +233227121.0ns   lost:14107   send:17000
+phyMode DsssRate5_5Mbps   Thr 3.69908Mbit/s   delay sum +7374167713213.0ns   delay +234756389.0ns   lost:31412   send:46750
+phyMode DsssRate11Mbps   Thr 5.81911Mbit/s   delay sum +15266037135330.0ns   delay +308935285.0ns   lost:49415   send:93450

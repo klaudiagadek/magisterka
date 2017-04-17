@@ -1,0 +1,41 @@
+Waf: Entering directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (3.023s)
+Cw value = 1
+MCS 0   Chann_width 40MHz   short GI 1   Thr 5.35985Mbit/s   delay sum +6795155010874.0ns   delay +149294848.0ns   lost:45515   send:127380
+Cw value = 2
+MCS 0   Chann_width 40MHz   short GI 1   Thr 4.04859Mbit/s   delay sum +8328319345023.0ns   delay +242243145.0ns   lost:34380   send:127380
+Cw value = 3
+MCS 0   Chann_width 40MHz   short GI 1   Thr 4.99008Mbit/s   delay sum +10215149951602.0ns   delay +241065485.0ns   lost:42375   send:127380
+Cw value = 4
+MCS 0   Chann_width 40MHz   short GI 1   Thr 5.07593Mbit/s   delay sum +9101706056180.0ns   delay +211156877.0ns   lost:43104   send:127380
+Cw value = 5
+MCS 0   Chann_width 40MHz   short GI 1   Thr 6.04933Mbit/s   delay sum +8732632771494.0ns   delay +169994797.0ns   lost:51370   send:127380
+Cw value = 6
+MCS 0   Chann_width 40MHz   short GI 1   Thr 5.63882Mbit/s   delay sum +9482134410745.0ns   delay +198023022.0ns   lost:47884   send:127380
+Cw value = 7
+MCS 0   Chann_width 40MHz   short GI 1   Thr 7.44738Mbit/s   delay sum +15637602860933.0ns   delay +247266102.0ns   lost:63242   send:127380
+Cw value = 8
+MCS 0   Chann_width 40MHz   short GI 1   Thr 6.66875Mbit/s   delay sum +16034319865163.0ns   delay +283141795.0ns   lost:56630   send:127380
+Cw value = 9
+MCS 0   Chann_width 40MHz   short GI 1   Thr 6.56394Mbit/s   delay sum +17400311910996.0ns   delay +312169212.0ns   lost:55740   send:127380
+Cw value = 10
+MCS 0   Chann_width 40MHz   short GI 1   Thr 7.01791Mbit/s   delay sum +17648298630514.0ns   delay +296137236.0ns   lost:59595   send:127380
+Cw value = 11
+MCS 0   Chann_width 40MHz   short GI 1   Thr 6.98564Mbit/s   delay sum +16216738698533.0ns   delay +273372645.0ns   lost:59321   send:127380
+Cw value = 12
+MCS 0   Chann_width 40MHz   short GI 1   Thr 7.04005Mbit/s   delay sum +16911204749458.0ns   delay +282876482.0ns   lost:59783   send:127380
+Cw value = 13
+MCS 0   Chann_width 40MHz   short GI 1   Thr 7.06913Mbit/s   delay sum +14717451663843.0ns   delay +245168276.0ns   lost:60030   send:127380
+Cw value = 14
+MCS 0   Chann_width 40MHz   short GI 1   Thr 7.14815Mbit/s   delay sum +15942781762598.0ns   delay +262644466.0ns   lost:60701   send:127380
+Cw value = 15
+MCS 0   Chann_width 40MHz   short GI 1   Thr 9.95684Mbit/s   delay sum +24252602583219.0ns   delay +286836533.0ns   lost:84552   send:127380
+Cw value = 16
+MCS 0   Chann_width 40MHz   short GI 1   Thr 9.19823Mbit/s   delay sum +26481638160240.0ns   delay +339030062.0ns   lost:78110   send:127380
+Cw value = 17
+MCS 0   Chann_width 40MHz   short GI 1   Thr 9.75194Mbit/s   delay sum +27780374804791.0ns   delay +335463155.0ns   lost:82812   send:127380
+assert failed. cond="Simulator::Now () - m_lastRxStart <= m_sifs", file=../src/wifi/model/dcf-manager.cc, line=763
+terminate called without an active exception
+Command ['/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build/scratch/802_11n_3'] terminated with signal SIGIOT. Run it under a debugger to get more information (./waf --run <program> --command-template="gdb --args %s <args>").

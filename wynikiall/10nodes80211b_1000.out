@@ -1,0 +1,804 @@
+Waf: Entering directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.198s)
+Cw value = 901
+0.340326
+Cw value = 901
+0.876841
+Cw value = 901
+2.55751
+Cw value = 901
+5.1049
+Cw value = 902
+0.370355
+Cw value = 902
+0.797235
+Cw value = 902
+2.34319
+Cw value = 902
+4.89964
+Cw value = 903
+0.330317
+Cw value = 903
+0.837038
+Cw value = 903
+2.5614
+Cw value = 903
+5.00292
+Cw value = 904
+0.340326
+Cw value = 904
+0.837038
+Cw value = 904
+2.45341
+Cw value = 904
+4.78647
+Cw value = 905
+0.340326
+Cw value = 905
+0.837156
+Cw value = 905
+2.45188
+Cw value = 905
+4.88928
+Cw value = 906
+0.320307
+Cw value = 906
+0.817372
+Cw value = 906
+2.4507
+Cw value = 906
+4.57309
+Cw value = 907
+0.340326
+Cw value = 907
+0.856704
+Cw value = 907
+2.55916
+Cw value = 907
+5.00303
+Cw value = 908
+0.330317
+Cw value = 908
+0.877194
+Cw value = 908
+2.56069
+Cw value = 908
+5.1129
+Cw value = 909
+0.370355
+Cw value = 909
+0.876252
+Cw value = 909
+2.45235
+Cw value = 909
+4.78647
+Cw value = 910
+0.330317
+Cw value = 910
+0.837038
+Cw value = 910
+2.56093
+Cw value = 910
+4.90035
+Cw value = 911
+0.330317
+Cw value = 911
+0.837038
+Cw value = 911
+2.6118
+Cw value = 911
+5.00562
+Cw value = 912
+0.330317
+Cw value = 912
+0.857057
+Cw value = 912
+2.61274
+Cw value = 912
+5.00292
+Cw value = 913
+0.310298
+Cw value = 913
+0.817019
+Cw value = 913
+2.39512
+Cw value = 913
+4.89363
+Cw value = 914
+0.340326
+Cw value = 914
+0.777098
+Cw value = 914
+2.50476
+Cw value = 914
+5.00315
+Cw value = 915
+0.310298
+Cw value = 915
+0.817137
+Cw value = 915
+2.397
+Cw value = 915
+5.0015
+Cw value = 916
+0.330317
+Cw value = 916
+0.83692
+Cw value = 916
+2.45011
+Cw value = 916
+4.78376
+Cw value = 917
+0.340326
+Cw value = 917
+0.797117
+Cw value = 917
+2.55869
+Cw value = 917
+5.00492
+Cw value = 918
+0.330317
+Cw value = 918
+0.877312
+Cw value = 918
+2.45011
+Cw value = 918
+4.89057
+Cw value = 919
+0.350336
+Cw value = 919
+0.836685
+Cw value = 919
+2.50676
+Cw value = 919
+4.79566
+Cw value = 920
+0.320307
+Cw value = 920
+0.83692
+Cw value = 920
+2.5077
+Cw value = 920
+4.89151
+Cw value = 921
+0.360346
+Cw value = 921
+0.836803
+Cw value = 921
+2.39512
+Cw value = 921
+4.78235
+Cw value = 922
+0.350336
+Cw value = 922
+0.857175
+Cw value = 922
+2.55975
+Cw value = 922
+4.67507
+Cw value = 923
+0.340326
+Cw value = 923
+0.85694
+Cw value = 923
+2.34225
+Cw value = 923
+4.7853
+Cw value = 924
+0.360228
+Cw value = 924
+0.837274
+Cw value = 924
+2.55657
+Cw value = 924
+4.78565
+Cw value = 925
+0.330317
+Cw value = 925
+0.837156
+Cw value = 925
+2.55728
+Cw value = 925
+4.67519
+Cw value = 926
+0.330317
+Cw value = 926
+0.856704
+Cw value = 926
+2.61357
+Cw value = 926
+4.78447
+Cw value = 927
+0.370355
+Cw value = 927
+0.876841
+Cw value = 927
+2.50476
+Cw value = 927
+5.00009
+Cw value = 928
+0.340326
+Cw value = 928
+0.817019
+Cw value = 928
+2.61486
+Cw value = 928
+4.55967
+Cw value = 929
+0.340209
+Cw value = 929
+0.877076
+Cw value = 929
+2.39606
+Cw value = 929
+4.88928
+Cw value = 930
+0.370355
+Cw value = 930
+0.876959
+Cw value = 930
+2.45011
+Cw value = 930
+5.11243
+Cw value = 931
+0.330317
+Cw value = 931
+0.856351
+Cw value = 931
+2.39536
+Cw value = 931
+5.00504
+Cw value = 932
+0.379894
+Cw value = 932
+0.817137
+Cw value = 932
+2.66856
+Cw value = 932
+4.56909
+Cw value = 933
+0.349983
+Cw value = 933
+0.897449
+Cw value = 933
+2.39759
+Cw value = 933
+4.78906
+Cw value = 934
+0.340326
+Cw value = 934
+0.83692
+Cw value = 934
+2.39724
+Cw value = 934
+4.89575
+Cw value = 935
+0.350336
+Cw value = 935
+0.83692
+Cw value = 935
+2.44964
+Cw value = 935
+4.67048
+Cw value = 936
+0.350218
+Cw value = 936
+0.797353
+Cw value = 936
+2.45035
+Cw value = 936
+4.78624
+Cw value = 937
+0.320307
+Cw value = 937
+0.837038
+Cw value = 937
+2.45082
+Cw value = 937
+4.67342
+Cw value = 938
+0.320307
+Cw value = 938
+0.817019
+Cw value = 938
+2.45235
+Cw value = 938
+4.67896
+Cw value = 939
+0.330317
+Cw value = 939
+0.817137
+Cw value = 939
+2.61451
+Cw value = 939
+4.78341
+Cw value = 940
+0.340326
+Cw value = 940
+0.816666
+Cw value = 940
+2.44929
+Cw value = 940
+4.89505
+Cw value = 941
+0.330317
+Cw value = 941
+0.856704
+Cw value = 941
+2.39653
+Cw value = 941
+5.10878
+Cw value = 942
+0.340326
+Cw value = 942
+0.777216
+Cw value = 942
+2.61451
+Cw value = 942
+4.99773
+Cw value = 943
+0.330317
+Cw value = 943
+0.837391
+Cw value = 943
+2.397
+Cw value = 943
+4.78376
+Cw value = 944
+0.320307
+Cw value = 944
+0.876605
+Cw value = 944
+2.50735
+Cw value = 944
+4.56968
+Cw value = 945
+0.360346
+Cw value = 945
+0.836803
+Cw value = 945
+2.4487
+Cw value = 945
+4.89564
+Cw value = 946
+0.360346
+Cw value = 946
+0.81749
+Cw value = 946
+2.50793
+Cw value = 946
+5.21736
+Cw value = 947
+0.330317
+Cw value = 947
+0.797117
+Cw value = 947
+2.39677
+Cw value = 947
+4.67684
+Cw value = 948
+0.380129
+Cw value = 948
+0.797117
+Cw value = 948
+2.50464
+Cw value = 948
+4.67919
+Cw value = 949
+0.369884
+Cw value = 949
+0.836685
+Cw value = 949
+2.39571
+Cw value = 949
+5.0068
+Cw value = 950
+0.330317
+Cw value = 950
+0.817137
+Cw value = 950
+2.39583
+Cw value = 950
+5.10972
+Cw value = 951
+0.320307
+Cw value = 951
+0.816783
+Cw value = 951
+2.45153
+Cw value = 951
+5.32746
+Cw value = 952
+0.350218
+Cw value = 952
+0.876959
+Cw value = 952
+2.28925
+Cw value = 952
+4.67248
+Cw value = 953
+0.330317
+Cw value = 953
+0.777452
+Cw value = 953
+2.50511
+Cw value = 953
+4.89528
+Cw value = 954
+0.340326
+Cw value = 954
+0.797
+Cw value = 954
+2.39642
+Cw value = 954
+4.78329
+Cw value = 955
+0.340326
+Cw value = 955
+0.816666
+Cw value = 955
+2.5037
+Cw value = 955
+4.6746
+Cw value = 956
+0.340326
+Cw value = 956
+0.816901
+Cw value = 956
+2.50405
+Cw value = 956
+4.56544
+Cw value = 957
+0.330317
+Cw value = 957
+0.816783
+Cw value = 957
+2.33942
+Cw value = 957
+4.99856
+Cw value = 958
+0.350336
+Cw value = 958
+0.817137
+Cw value = 958
+2.34236
+Cw value = 958
+5.00056
+Cw value = 959
+0.370237
+Cw value = 959
+0.836685
+Cw value = 959
+2.50381
+Cw value = 959
+4.67743
+Cw value = 960
+0.320307
+Cw value = 960
+0.777098
+Cw value = 960
+2.3963
+Cw value = 960
+4.7873
+Cw value = 961
+0.330317
+Cw value = 961
+0.817254
+Cw value = 961
+2.50452
+Cw value = 961
+4.99703
+Cw value = 962
+0.340326
+Cw value = 962
+0.817254
+Cw value = 962
+2.34272
+Cw value = 962
+4.78365
+Cw value = 963
+0.350336
+Cw value = 963
+0.797353
+Cw value = 963
+2.34295
+Cw value = 963
+4.89787
+Cw value = 964
+0.340326
+Cw value = 964
+0.776863
+Cw value = 964
+2.44882
+Cw value = 964
+5.11549
+Cw value = 965
+0.340326
+Cw value = 965
+0.876841
+Cw value = 965
+2.55786
+Cw value = 965
+4.88998
+Cw value = 966
+0.330317
+Cw value = 966
+0.897096
+Cw value = 966
+2.66562
+Cw value = 966
+4.67154
+Cw value = 967
+0.330317
+Cw value = 967
+0.816901
+Cw value = 967
+2.6118
+Cw value = 967
+4.8967
+Cw value = 968
+0.320307
+Cw value = 968
+0.817137
+Cw value = 968
+2.50464
+Cw value = 968
+4.34758
+Cw value = 969
+0.340326
+Cw value = 969
+0.796882
+Cw value = 969
+2.50511
+Cw value = 969
+4.89352
+Cw value = 970
+0.300288
+Cw value = 970
+0.797353
+Cw value = 970
+2.28643
+Cw value = 970
+4.88492
+Cw value = 971
+0.330317
+Cw value = 971
+0.856586
+Cw value = 971
+2.45176
+Cw value = 971
+4.89246
+Cw value = 972
+0.310298
+Cw value = 972
+0.837274
+Cw value = 972
+2.50676
+Cw value = 972
+4.67731
+Cw value = 973
+0.330317
+Cw value = 973
+0.776745
+Cw value = 973
+2.45141
+Cw value = 973
+4.78011
+Cw value = 974
+0.310298
+Cw value = 974
+0.817019
+Cw value = 974
+2.39606
+Cw value = 974
+4.45981
+Cw value = 975
+0.340326
+Cw value = 975
+0.797117
+Cw value = 975
+2.44858
+Cw value = 975
+4.788
+Cw value = 976
+0.320307
+Cw value = 976
+0.836449
+Cw value = 976
+2.45035
+Cw value = 976
+4.78023
+Cw value = 977
+0.360346
+Cw value = 977
+0.856704
+Cw value = 977
+2.39312
+Cw value = 977
+4.89893
+Cw value = 978
+0.330317
+Cw value = 978
+0.837391
+Cw value = 978
+2.45
+Cw value = 978
+4.88916
+Cw value = 979
+0.330317
+Cw value = 979
+0.817254
+Cw value = 979
+2.50546
+Cw value = 979
+4.78435
+Cw value = 980
+0.350336
+Cw value = 980
+0.797235
+Cw value = 980
+2.39594
+Cw value = 980
+4.46405
+Cw value = 981
+0.330317
+Cw value = 981
+0.756961
+Cw value = 981
+2.39912
+Cw value = 981
+4.78588
+Cw value = 982
+0.330317
+Cw value = 982
+0.757315
+Cw value = 982
+2.39394
+Cw value = 982
+4.89269
+Cw value = 983
+0.350336
+Cw value = 983
+0.837038
+Cw value = 983
+2.39724
+Cw value = 983
+4.67943
+Cw value = 984
+0.320307
+Cw value = 984
+0.85694
+Cw value = 984
+2.39606
+Cw value = 984
+4.56944
+Cw value = 985
+0.370237
+Cw value = 985
+0.777334
+Cw value = 985
+2.50322
+Cw value = 985
+4.57568
+Cw value = 986
+0.320307
+Cw value = 986
+0.817372
+Cw value = 986
+2.39536
+Cw value = 986
+4.56991
+Cw value = 987
+0.330317
+Cw value = 987
+0.876605
+Cw value = 987
+2.44953
+Cw value = 987
+4.8914
+Cw value = 988
+0.340326
+Cw value = 988
+0.796882
+Cw value = 988
+2.39594
+Cw value = 988
+4.88975
+Cw value = 989
+0.340326
+Cw value = 989
+0.797353
+Cw value = 989
+2.50499
+Cw value = 989
+4.788
+Cw value = 990
+0.320307
+Cw value = 990
+0.89686
+Cw value = 990
+2.45165
+Cw value = 990
+4.56567
+Cw value = 991
+0.320307
+Cw value = 991
+0.776863
+Cw value = 991
+2.3943
+Cw value = 991
+4.56143
+Cw value = 992
+0.330317
+Cw value = 992
+0.816666
+Cw value = 992
+2.34331
+Cw value = 992
+4.89093
+Cw value = 993
+0.350336
+Cw value = 993
+0.797353
+Cw value = 993
+2.34001
+Cw value = 993
+4.57097
+Cw value = 994
+0.350336
+Cw value = 994
+0.837038
+Cw value = 994
+2.45
+Cw value = 994
+4.56979
+Cw value = 995
+0.310298
+Cw value = 995
+0.817137
+Cw value = 995
+2.44811
+Cw value = 995
+4.99879
+Cw value = 996
+0.350336
+Cw value = 996
+0.77698
+Cw value = 996
+2.50452
+Cw value = 996
+4.46252
+Cw value = 997
+0.350336
+Cw value = 997
+0.817254
+Cw value = 997
+2.45306
+Cw value = 997
+5.10772
+Cw value = 998
+0.330081
+Cw value = 998
+0.816783
+Cw value = 998
+2.34201
+Cw value = 998
+4.89493
+Cw value = 999
+0.310298
+Cw value = 999
+0.777569
+Cw value = 999
+2.39865
+Cw value = 999
+4.78376
+Cw value = 1000
+0.330317
+Cw value = 1000
+0.777216
+Cw value = 1000
+2.50287
+Cw value = 1000
+4.67189

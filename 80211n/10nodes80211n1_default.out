@@ -1,0 +1,97 @@
+Waf: Entering directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+[ 854/1766] Compiling scratch/802_11n1.cc
+[1743/1766] Linking build/scratch/802_11n1
+Waf: Leaving directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (8.540s)
+FlowID: 1(TCP 192.168.1.1/49153 --> 192.168.1.11/9)
+  Tx bytes: 8280000
+  Rx bytes: 8280000
+  Tx packets: 5520
+  Rx packets: 5520
+  Lost packets: 0
+  Throughput: 646.922 Kbps  Jitter sum: +9033253329.0ns
+  Delay sum: +16385923877.0ns
+
+FlowID: 2(TCP 192.168.1.2/49153 --> 192.168.1.11/9)
+  Tx bytes: 8280000
+  Rx bytes: 8280000
+  Tx packets: 5520
+  Rx packets: 5520
+  Lost packets: 0
+  Throughput: 646.936 Kbps  Jitter sum: +8599754899.0ns
+  Delay sum: +15529742559.0ns
+
+FlowID: 3(TCP 192.168.1.3/49153 --> 192.168.1.11/9)
+  Tx bytes: 8280000
+  Rx bytes: 8280000
+  Tx packets: 5520
+  Rx packets: 5520
+  Lost packets: 0
+  Throughput: 646.949 Kbps  Jitter sum: +9352400940.0ns
+  Delay sum: +16698462015.0ns
+
+FlowID: 4(TCP 192.168.1.4/49153 --> 192.168.1.11/9)
+  Tx bytes: 8280000
+  Rx bytes: 8280000
+  Tx packets: 5520
+  Rx packets: 5520
+  Lost packets: 0
+  Throughput: 646.94 Kbps  Jitter sum: +8490042617.0ns
+  Delay sum: +15609517080.0ns
+
+FlowID: 5(TCP 192.168.1.5/49153 --> 192.168.1.11/9)
+  Tx bytes: 8280000
+  Rx bytes: 7974000
+  Tx packets: 5520
+  Rx packets: 5316
+  Lost packets: 204
+  Throughput: 623.029 Kbps  Jitter sum: +8996254463.0ns
+  Delay sum: +16364046599.0ns
+
+FlowID: 6(TCP 192.168.1.6/49153 --> 192.168.1.11/9)
+  Tx bytes: 8280000
+  Rx bytes: 8280000
+  Tx packets: 5520
+  Rx packets: 5520
+  Lost packets: 0
+  Throughput: 646.92 Kbps  Jitter sum: +9207731801.0ns
+  Delay sum: +16981774920.0ns
+
+FlowID: 7(TCP 192.168.1.7/49153 --> 192.168.1.11/9)
+  Tx bytes: 8280000
+  Rx bytes: 8280000
+  Tx packets: 5520
+  Rx packets: 5520
+  Lost packets: 0
+  Throughput: 646.925 Kbps  Jitter sum: +8693533067.0ns
+  Delay sum: +15745052958.0ns
+
+FlowID: 8(TCP 192.168.1.8/49153 --> 192.168.1.11/9)
+  Tx bytes: 8280000
+  Rx bytes: 8280000
+  Tx packets: 5520
+  Rx packets: 5520
+  Lost packets: 0
+  Throughput: 646.945 Kbps  Jitter sum: +8934393946.0ns
+  Delay sum: +16111119181.0ns
+
+FlowID: 9(TCP 192.168.1.9/49153 --> 192.168.1.11/9)
+  Tx bytes: 8280000
+  Rx bytes: 4972500
+  Tx packets: 5520
+  Rx packets: 3315
+  Lost packets: 1632
+  Throughput: 409.497 Kbps  Jitter sum: +6050756449.0ns
+  Delay sum: +11070195434.0ns
+
+FlowID: 10(TCP 192.168.1.10/49153 --> 192.168.1.11/9)
+  Tx bytes: 8280000
+  Rx bytes: 8280000
+  Tx packets: 5520
+  Rx packets: 5520
+  Lost packets: 0
+  Throughput: 646.947 Kbps  Jitter sum: +8613869566.0ns
+  Delay sum: +15528857922.0ns
+
+MCS 0   Chann_width 20MHz   short GI 0   Thr 6.21667Mbit/s   delay sum +156024692545.0ns   delay +2955516.0ns   lost:52791   send:55200

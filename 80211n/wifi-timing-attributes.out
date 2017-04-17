@@ -1,0 +1,80 @@
+Waf: Entering directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+[ 844/1770] Compiling scratch/ht-wifi-network5_5M_50.cc
+[ 845/1770] Compiling scratch/802_11b1_100.cc
+[ 846/1770] Compiling scratch/ht-wifi-network2.cc
+[ 847/1770] Compiling scratch/ht-wifi-network1M_10.cc
+[ 848/1770] Compiling scratch/802_11ac.cc
+[ 849/1770] Compiling scratch/ht-wifi-network1M_50.cc
+[ 850/1770] Compiling scratch/ht-wifi-network2M_10.cc
+In file included from ./ns3/wifi-module.h:17:0,
+                 from ../scratch/ht-wifi-network5_5M_50.cc:36:
+./ns3/ap-wifi-mac.h:33:32: fatal error: dsss-parameter-set.h: No such file or directory
+ #include "dsss-parameter-set.h"
+                                ^
+compilation terminated.
+
+In file included from ./ns3/wifi-module.h:17:0,
+                 from ../scratch/802_11b1_100.cc:36:
+./ns3/ap-wifi-mac.h:33:32: fatal error: dsss-parameter-set.h: No such file or directory
+ #include "dsss-parameter-set.h"
+                                ^
+compilation terminated.
+
+In file included from ./ns3/wifi-module.h:17:0,
+                 from ../scratch/ht-wifi-network2.cc:36:
+./ns3/ap-wifi-mac.h:33:32: fatal error: dsss-parameter-set.h: No such file or directory
+ #include "dsss-parameter-set.h"
+                                ^
+compilation terminated.
+
+In file included from ./ns3/wifi-module.h:17:0,
+                 from ../scratch/ht-wifi-network1M_10.cc:36:
+./ns3/ap-wifi-mac.h:33:32: fatal error: dsss-parameter-set.h: No such file or directory
+ #include "dsss-parameter-set.h"
+                                ^
+compilation terminated.
+
+In file included from ./ns3/wifi-module.h:17:0,
+                 from ../scratch/802_11ac.cc:24:
+./ns3/ap-wifi-mac.h:33:32: fatal error: dsss-parameter-set.h: No such file or directory
+ #include "dsss-parameter-set.h"
+                                ^
+compilation terminated.
+
+In file included from ./ns3/wifi-module.h:17:0,
+                 from ../scratch/ht-wifi-network1M_50.cc:36:
+./ns3/ap-wifi-mac.h:33:32: fatal error: dsss-parameter-set.h: No such file or directory
+ #include "dsss-parameter-set.h"
+                                ^
+compilation terminated.
+
+In file included from ./ns3/wifi-module.h:17:0,
+                 from ../scratch/ht-wifi-network2M_10.cc:36:
+./ns3/ap-wifi-mac.h:33:32: fatal error: dsss-parameter-set.h: No such file or directory
+ #include "dsss-parameter-set.h"
+                                ^
+compilation terminated.
+
+Waf: Leaving directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Build failed
+ -> task in 'ht-wifi-network5_5M_50' failed (exit status 1): 
+	{task 49676624: cxx ht-wifi-network5_5M_50.cc -> ht-wifi-network5_5M_50.cc.1.o}
+['/software/local/el6/COMMON/gcc/4.8.2/bin/g++', '-O0', '-ggdb', '-g3', '-Wall', '-Werror', '-std=c++11', '-Wno-error=deprecated-declarations', '-fstrict-aliasing', '-Wstrict-aliasing', '-pthread', '-I.', '-I..', '-I/usr/include/libxml2', '-DNS3_BUILD_PROFILE_DEBUG', '-DNS3_ASSERT_ENABLE', '-DNS3_LOG_ENABLE', '-DHAVE_SYS_IOCTL_H=1', '-DHAVE_IF_NETS_H=1', '-DHAVE_NET_ETHERNET_H=1', '-DHAVE_PACKET_H=1', '-DHAVE_IF_TUN_H=1', '-DHAVE_=1', '-DHAVE_GSL=1', '-DHAVE_SQLITE3=1', '-DHAVE_LIBXML2=1', '../scratch/ht-wifi-network5_5M_50.cc', '-c', '-o', '/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build/scratch/ht-wifi-network5_5M_50.cc.1.o']
+ -> task in '802_11b1_100' failed (exit status 1): 
+	{task 49678672: cxx 802_11b1_100.cc -> 802_11b1_100.cc.2.o}
+['/software/local/el6/COMMON/gcc/4.8.2/bin/g++', '-O0', '-ggdb', '-g3', '-Wall', '-Werror', '-std=c++11', '-Wno-error=deprecated-declarations', '-fstrict-aliasing', '-Wstrict-aliasing', '-pthread', '-I.', '-I..', '-I/usr/include/libxml2', '-DNS3_BUILD_PROFILE_DEBUG', '-DNS3_ASSERT_ENABLE', '-DNS3_LOG_ENABLE', '-DHAVE_SYS_IOCTL_H=1', '-DHAVE_IF_NETS_H=1', '-DHAVE_NET_ETHERNET_H=1', '-DHAVE_PACKET_H=1', '-DHAVE_IF_TUN_H=1', '-DHAVE_=1', '-DHAVE_GSL=1', '-DHAVE_SQLITE3=1', '-DHAVE_LIBXML2=1', '../scratch/802_11b1_100.cc', '-c', '-o', '/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build/scratch/802_11b1_100.cc.2.o']
+ -> task in 'ht-wifi-network2' failed (exit status 1): 
+	{task 49688848: cxx ht-wifi-network2.cc -> ht-wifi-network2.cc.3.o}
+['/software/local/el6/COMMON/gcc/4.8.2/bin/g++', '-O0', '-ggdb', '-g3', '-Wall', '-Werror', '-std=c++11', '-Wno-error=deprecated-declarations', '-fstrict-aliasing', '-Wstrict-aliasing', '-pthread', '-I.', '-I..', '-I/usr/include/libxml2', '-DNS3_BUILD_PROFILE_DEBUG', '-DNS3_ASSERT_ENABLE', '-DNS3_LOG_ENABLE', '-DHAVE_SYS_IOCTL_H=1', '-DHAVE_IF_NETS_H=1', '-DHAVE_NET_ETHERNET_H=1', '-DHAVE_PACKET_H=1', '-DHAVE_IF_TUN_H=1', '-DHAVE_=1', '-DHAVE_GSL=1', '-DHAVE_SQLITE3=1', '-DHAVE_LIBXML2=1', '../scratch/ht-wifi-network2.cc', '-c', '-o', '/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build/scratch/ht-wifi-network2.cc.3.o']
+ -> task in 'ht-wifi-network1M_10' failed (exit status 1): 
+	{task 49690704: cxx ht-wifi-network1M_10.cc -> ht-wifi-network1M_10.cc.4.o}
+['/software/local/el6/COMMON/gcc/4.8.2/bin/g++', '-O0', '-ggdb', '-g3', '-Wall', '-Werror', '-std=c++11', '-Wno-error=deprecated-declarations', '-fstrict-aliasing', '-Wstrict-aliasing', '-pthread', '-I.', '-I..', '-I/usr/include/libxml2', '-DNS3_BUILD_PROFILE_DEBUG', '-DNS3_ASSERT_ENABLE', '-DNS3_LOG_ENABLE', '-DHAVE_SYS_IOCTL_H=1', '-DHAVE_IF_NETS_H=1', '-DHAVE_NET_ETHERNET_H=1', '-DHAVE_PACKET_H=1', '-DHAVE_IF_TUN_H=1', '-DHAVE_=1', '-DHAVE_GSL=1', '-DHAVE_SQLITE3=1', '-DHAVE_LIBXML2=1', '../scratch/ht-wifi-network1M_10.cc', '-c', '-o', '/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build/scratch/ht-wifi-network1M_10.cc.4.o']
+ -> task in '802_11ac' failed (exit status 1): 
+	{task 49696848: cxx 802_11ac.cc -> 802_11ac.cc.5.o}
+['/software/local/el6/COMMON/gcc/4.8.2/bin/g++', '-O0', '-ggdb', '-g3', '-Wall', '-Werror', '-std=c++11', '-Wno-error=deprecated-declarations', '-fstrict-aliasing', '-Wstrict-aliasing', '-pthread', '-I.', '-I..', '-I/usr/include/libxml2', '-DNS3_BUILD_PROFILE_DEBUG', '-DNS3_ASSERT_ENABLE', '-DNS3_LOG_ENABLE', '-DHAVE_SYS_IOCTL_H=1', '-DHAVE_IF_NETS_H=1', '-DHAVE_NET_ETHERNET_H=1', '-DHAVE_PACKET_H=1', '-DHAVE_IF_TUN_H=1', '-DHAVE_=1', '-DHAVE_GSL=1', '-DHAVE_SQLITE3=1', '-DHAVE_LIBXML2=1', '../scratch/802_11ac.cc', '-c', '-o', '/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build/scratch/802_11ac.cc.5.o']
+ -> task in 'ht-wifi-network1M_50' failed (exit status 1): 
+	{task 49698768: cxx ht-wifi-network1M_50.cc -> ht-wifi-network1M_50.cc.6.o}
+['/software/local/el6/COMMON/gcc/4.8.2/bin/g++', '-O0', '-ggdb', '-g3', '-Wall', '-Werror', '-std=c++11', '-Wno-error=deprecated-declarations', '-fstrict-aliasing', '-Wstrict-aliasing', '-pthread', '-I.', '-I..', '-I/usr/include/libxml2', '-DNS3_BUILD_PROFILE_DEBUG', '-DNS3_ASSERT_ENABLE', '-DNS3_LOG_ENABLE', '-DHAVE_SYS_IOCTL_H=1', '-DHAVE_IF_NETS_H=1', '-DHAVE_NET_ETHERNET_H=1', '-DHAVE_PACKET_H=1', '-DHAVE_IF_TUN_H=1', '-DHAVE_=1', '-DHAVE_GSL=1', '-DHAVE_SQLITE3=1', '-DHAVE_LIBXML2=1', '../scratch/ht-wifi-network1M_50.cc', '-c', '-o', '/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build/scratch/ht-wifi-network1M_50.cc.6.o']
+ -> task in 'ht-wifi-network2M_10' failed (exit status 1): 
+	{task 49700688: cxx ht-wifi-network2M_10.cc -> ht-wifi-network2M_10.cc.7.o}
+['/software/local/el6/COMMON/gcc/4.8.2/bin/g++', '-O0', '-ggdb', '-g3', '-Wall', '-Werror', '-std=c++11', '-Wno-error=deprecated-declarations', '-fstrict-aliasing', '-Wstrict-aliasing', '-pthread', '-I.', '-I..', '-I/usr/include/libxml2', '-DNS3_BUILD_PROFILE_DEBUG', '-DNS3_ASSERT_ENABLE', '-DNS3_LOG_ENABLE', '-DHAVE_SYS_IOCTL_H=1', '-DHAVE_IF_NETS_H=1', '-DHAVE_NET_ETHERNET_H=1', '-DHAVE_PACKET_H=1', '-DHAVE_IF_TUN_H=1', '-DHAVE_=1', '-DHAVE_GSL=1', '-DHAVE_SQLITE3=1', '-DHAVE_LIBXML2=1', '../scratch/ht-wifi-network2M_10.cc', '-c', '-o', '/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build/scratch/ht-wifi-network2M_10.cc.7.o']

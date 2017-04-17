@@ -1,0 +1,431 @@
+Waf: Entering directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+[ 844/1762] Compiling scratch/ht-wifi-network5_5M_50.cc
+[ 851/1762] Compiling scratch/ht-wifi-network11M_50.cc
+[1740/1762] Linking build/scratch/ht-wifi-network11M_50
+[1744/1762] Linking build/scratch/ht-wifi-network5_5M_50
+Waf: Leaving directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (23.334s)
+5.5 Mbit/s send
+Cw value = 790
+phyMode DsssRate5_5Mbps   Thr 3.84263Mbit/s   delay sum +7043312605820.0ns   delay +215847280.0ns   lost:32631   send:46750
+Cw value = 791
+phyMode DsssRate5_5Mbps   Thr 3.80365Mbit/s   delay sum +4408464071619.0ns   delay +136484955.0ns   lost:32300   send:46750
+Cw value = 792
+phyMode DsssRate5_5Mbps   Thr 3.80141Mbit/s   delay sum +4566583902131.0ns   delay +141463520.0ns   lost:32281   send:46750
+Cw value = 793
+phyMode DsssRate5_5Mbps   Thr 3.85994Mbit/s   delay sum +8418753743997.0ns   delay +256841593.0ns   lost:32778   send:46750
+Cw value = 794
+phyMode DsssRate5_5Mbps   Thr 3.79858Mbit/s   delay sum +4643023839286.0ns   delay +143938488.0ns   lost:32257   send:46750
+Cw value = 795
+phyMode DsssRate5_5Mbps   Thr 3.80424Mbit/s   delay sum +4547075387417.0ns   delay +140754539.0ns   lost:32305   send:46750
+Cw value = 796
+phyMode DsssRate5_5Mbps   Thr 3.70697Mbit/s   delay sum +2517752031363.0ns   delay +79981957.0ns   lost:31479   send:46750
+Cw value = 797
+phyMode DsssRate5_5Mbps   Thr 3.70591Mbit/s   delay sum +2435521267468.0ns   delay +77391841.0ns   lost:31470   send:46750
+Cw value = 798
+phyMode DsssRate5_5Mbps   Thr 3.83968Mbit/s   delay sum +6883625173400.0ns   delay +211115290.0ns   lost:32606   send:46750
+Cw value = 799
+phyMode DsssRate5_5Mbps   Thr 3.79941Mbit/s   delay sum +4640879719759.0ns   delay +143840804.0ns   lost:32264   send:46750
+Cw value = 800
+phyMode DsssRate5_5Mbps   Thr 3.48734Mbit/s   delay sum +1715201253142.0ns   delay +57918594.0ns   lost:29614   send:46750
+Cw value = 801
+phyMode DsssRate5_5Mbps   Thr 3.70697Mbit/s   delay sum +2473256779378.0ns   delay +78568467.0ns   lost:31479   send:46750
+Cw value = 802
+phyMode DsssRate5_5Mbps   Thr 3.85346Mbit/s   delay sum +8432749692016.0ns   delay +257700995.0ns   lost:32723   send:46750
+Cw value = 803
+phyMode DsssRate5_5Mbps   Thr 3.80188Mbit/s   delay sum +4566179697813.0ns   delay +141433473.0ns   lost:32285   send:46750
+Cw value = 804
+phyMode DsssRate5_5Mbps   Thr 3.70779Mbit/s   delay sum +2501416837068.0ns   delay +79445367.0ns   lost:31486   send:46750
+Cw value = 805
+phyMode DsssRate5_5Mbps   Thr 3.80294Mbit/s   delay sum +4583477953815.0ns   delay +141929706.0ns   lost:32294   send:46750
+Cw value = 806
+phyMode DsssRate5_5Mbps   Thr 3.83721Mbit/s   delay sum +7149004926806.0ns   delay +219395578.0ns   lost:32585   send:46750
+Cw value = 807
+phyMode DsssRate5_5Mbps   Thr 3.70579Mbit/s   delay sum +2549303552782.0ns   delay +81009995.0ns   lost:31469   send:46750
+Cw value = 808
+phyMode DsssRate5_5Mbps   Thr 3.7072Mbit/s   delay sum +2604789581107.0ns   delay +82741640.0ns   lost:31481   send:46750
+Cw value = 809
+phyMode DsssRate5_5Mbps   Thr 3.83485Mbit/s   delay sum +7017740674615.0ns   delay +215499483.0ns   lost:32565   send:46750
+Cw value = 810
+phyMode DsssRate5_5Mbps   Thr 3.79835Mbit/s   delay sum +4882401155187.0ns   delay +151368815.0ns   lost:32255   send:46750
+Cw value = 811
+phyMode DsssRate5_5Mbps   Thr 3.79729Mbit/s   delay sum +4648516883590.0ns   delay +144157938.0ns   lost:32246   send:46750
+Cw value = 812
+phyMode DsssRate5_5Mbps   Thr 3.83156Mbit/s   delay sum +7166612166870.0ns   delay +220260385.0ns   lost:32537   send:46750
+Cw value = 813
+phyMode DsssRate5_5Mbps   Thr 3.80094Mbit/s   delay sum +4767884497401.0ns   delay +147717709.0ns   lost:32277   send:46750
+Cw value = 814
+phyMode DsssRate5_5Mbps   Thr 3.79988Mbit/s   delay sum +4508624732206.0ns   delay +139724331.0ns   lost:32268   send:46750
+Cw value = 815
+phyMode DsssRate5_5Mbps   Thr 3.79434Mbit/s   delay sum +4902098374882.0ns   delay +152139858.0ns   lost:32221   send:46750
+Cw value = 816
+phyMode DsssRate5_5Mbps   Thr 3.84004Mbit/s   delay sum +8697021127774.0ns   delay +266706158.0ns   lost:32609   send:46750
+Cw value = 817
+phyMode DsssRate5_5Mbps   Thr 3.48593Mbit/s   delay sum +1718553189875.0ns   delay +58055306.0ns   lost:29602   send:46750
+Cw value = 818
+phyMode DsssRate5_5Mbps   Thr 3.48876Mbit/s   delay sum +1738002855075.0ns   delay +58664782.0ns   lost:29626   send:46750
+Cw value = 819
+phyMode DsssRate5_5Mbps   Thr 3.82331Mbit/s   delay sum +7365112651367.0ns   delay +226849189.0ns   lost:32467   send:46750
+Cw value = 820
+phyMode DsssRate5_5Mbps   Thr 3.59663Mbit/s   delay sum +1908663797961.0ns   delay +62493084.0ns   lost:30542   send:46750
+Cw value = 821
+phyMode DsssRate5_5Mbps   Thr 3.70049Mbit/s   delay sum +2620948388731.0ns   delay +83405944.0ns   lost:31424   send:46750
+Cw value = 822
+phyMode DsssRate5_5Mbps   Thr 3.83556Mbit/s   delay sum +6936020070933.0ns   delay +212950786.0ns   lost:32571   send:46750
+Cw value = 823
+phyMode DsssRate5_5Mbps   Thr 3.79623Mbit/s   delay sum +4808064224459.0ns   delay +149147384.0ns   lost:32237   send:46750
+Cw value = 824
+phyMode DsssRate5_5Mbps   Thr 3.82838Mbit/s   delay sum +7238625281013.0ns   delay +222658421.0ns   lost:32510   send:46750
+Cw value = 825
+phyMode DsssRate5_5Mbps   Thr 3.80035Mbit/s   delay sum +4738543552696.0ns   delay +146831418.0ns   lost:32272   send:46750
+Cw value = 826
+phyMode DsssRate5_5Mbps   Thr 3.70414Mbit/s   delay sum +2638188130951.0ns   delay +83871821.0ns   lost:31455   send:46750
+Cw value = 827
+phyMode DsssRate5_5Mbps   Thr 3.83933Mbit/s   delay sum +8765258927680.0ns   delay +268848232.0ns   lost:32603   send:46750
+Cw value = 828
+phyMode DsssRate5_5Mbps   Thr 3.70473Mbit/s   delay sum +2555586525222.0ns   delay +81232883.0ns   lost:31460   send:46750
+Cw value = 829
+phyMode DsssRate5_5Mbps   Thr 3.79128Mbit/s   delay sum +5263098115568.0ns   delay +163475636.0ns   lost:32195   send:46750
+Cw value = 830
+phyMode DsssRate5_5Mbps   Thr 3.70332Mbit/s   delay sum +2631938541350.0ns   delay +83691762.0ns   lost:31448   send:46750
+Cw value = 831
+phyMode DsssRate5_5Mbps   Thr 3.59898Mbit/s   delay sum +1946171419589.0ns   delay +63679452.0ns   lost:30562   send:46750
+Cw value = 832
+phyMode DsssRate5_5Mbps   Thr 3.84333Mbit/s   delay sum +8682241014505.0ns   delay +266024481.0ns   lost:32637   send:46750
+Cw value = 833
+phyMode DsssRate5_5Mbps   Thr 3.79246Mbit/s   delay sum +4935706365058.0ns   delay +153259008.0ns   lost:32205   send:46750
+Cw value = 834
+phyMode DsssRate5_5Mbps   Thr 3.70461Mbit/s   delay sum +2745723464634.0ns   delay +87279426.0ns   lost:31459   send:46750
+Cw value = 835
+phyMode DsssRate5_5Mbps   Thr 3.84357Mbit/s   delay sum +8583861752244.0ns   delay +262994017.0ns   lost:32639   send:46750
+Cw value = 836
+phyMode DsssRate5_5Mbps   Thr 3.82449Mbit/s   delay sum +7196982583652.0ns   delay +221602444.0ns   lost:32477   send:46750
+Cw value = 837
+phyMode DsssRate5_5Mbps   Thr 3.7861Mbit/s   delay sum +5170703982552.0ns   delay +160825603.0ns   lost:32151   send:46750
+Cw value = 838
+phyMode DsssRate5_5Mbps   Thr 3.83215Mbit/s   delay sum +7250390217365.0ns   delay +222801002.0ns   lost:32542   send:46750
+Cw value = 839
+phyMode DsssRate5_5Mbps   Thr 3.79564Mbit/s   delay sum +5035548986620.0ns   delay +156228251.0ns   lost:32232   send:46750
+Cw value = 840
+phyMode DsssRate5_5Mbps   Thr 3.70685Mbit/s   delay sum +2761245644142.0ns   delay +87719856.0ns   lost:31478   send:46750
+Cw value = 841
+phyMode DsssRate5_5Mbps   Thr 3.70367Mbit/s   delay sum +2721488662729.0ns   delay +86531069.0ns   lost:31451   send:46750
+Cw value = 842
+phyMode DsssRate5_5Mbps   Thr 3.70449Mbit/s   delay sum +2792062775444.0ns   delay +88755253.0ns   lost:31458   send:46750
+Cw value = 843
+phyMode DsssRate5_5Mbps   Thr 3.7954Mbit/s   delay sum +5167932869135.0ns   delay +160345419.0ns   lost:32230   send:46750
+Cw value = 844
+phyMode DsssRate5_5Mbps   Thr 3.59933Mbit/s   delay sum +1997349536257.0ns   delay +65347604.0ns   lost:30565   send:46750
+Cw value = 845
+phyMode DsssRate5_5Mbps   Thr 3.59451Mbit/s   delay sum +1994868128286.0ns   delay +65354086.0ns   lost:30524   send:46750
+Cw value = 846
+phyMode DsssRate5_5Mbps   Thr 3.84074Mbit/s   delay sum +8710385818734.0ns   delay +267066865.0ns   lost:32615   send:46750
+Cw value = 847
+phyMode DsssRate5_5Mbps   Thr 3.81778Mbit/s   delay sum +7219979707033.0ns   delay +222701409.0ns   lost:32420   send:46750
+Cw value = 848
+phyMode DsssRate5_5Mbps   Thr 3.70332Mbit/s   delay sum +2766614261807.0ns   delay +87974251.0ns   lost:31448   send:46750
+Cw value = 849
+phyMode DsssRate5_5Mbps   Thr 3.79199Mbit/s   delay sum +5032539747840.0ns   delay +156285200.0ns   lost:32201   send:46750
+Cw value = 850
+phyMode DsssRate5_5Mbps   Thr 3.79376Mbit/s   delay sum +5080429577313.0ns   delay +157698956.0ns   lost:32216   send:46750
+Cw value = 851
+phyMode DsssRate5_5Mbps   Thr 3.82002Mbit/s   delay sum +7395311940031.0ns   delay +227975953.0ns   lost:32439   send:46750
+Cw value = 852
+phyMode DsssRate5_5Mbps   Thr 3.59981Mbit/s   delay sum +2031597425132.0ns   delay +66459400.0ns   lost:30569   send:46750
+Cw value = 853
+phyMode DsssRate5_5Mbps   Thr 3.84098Mbit/s   delay sum +8633031944488.0ns   delay +264678908.0ns   lost:32617   send:46750
+Cw value = 854
+phyMode DsssRate5_5Mbps   Thr 3.82072Mbit/s   delay sum +7381098516260.0ns   delay +227495716.0ns   lost:32445   send:46750
+Cw value = 855
+phyMode DsssRate5_5Mbps   Thr 3.83697Mbit/s   delay sum +8631816375563.0ns   delay +264917790.0ns   lost:32583   send:46750
+Cw value = 856
+phyMode DsssRate5_5Mbps   Thr 3.83898Mbit/s   delay sum +9572902226208.0ns   delay +293647307.0ns   lost:32600   send:46750
+Cw value = 857
+phyMode DsssRate5_5Mbps   Thr 3.78622Mbit/s   delay sum +5407465175311.0ns   delay +168184410.0ns   lost:32152   send:46750
+Cw value = 858
+phyMode DsssRate5_5Mbps   Thr 3.78563Mbit/s   delay sum +5379358948371.0ns   delay +167336266.0ns   lost:32147   send:46750
+Cw value = 859
+phyMode DsssRate5_5Mbps   Thr 3.79293Mbit/s   delay sum +4972343633380.0ns   delay +154377460.0ns   lost:32209   send:46750
+Cw value = 860
+phyMode DsssRate5_5Mbps   Thr 3.84322Mbit/s   delay sum +9628333256383.0ns   delay +295021854.0ns   lost:32636   send:46750
+Cw value = 861
+phyMode DsssRate5_5Mbps   Thr 3.59557Mbit/s   delay sum +2068789466193.0ns   delay +67755853.0ns   lost:30533   send:46750
+Cw value = 862
+phyMode DsssRate5_5Mbps   Thr 3.70214Mbit/s   delay sum +2946408878548.0ns   delay +93721257.0ns   lost:31438   send:46750
+Cw value = 863
+phyMode DsssRate5_5Mbps   Thr 3.79376Mbit/s   delay sum +5041111823240.0ns   delay +156478514.0ns   lost:32216   send:46750
+Cw value = 864
+phyMode DsssRate5_5Mbps   Thr 3.78669Mbit/s   delay sum +5336670783384.0ns   delay +165961897.0ns   lost:32156   send:46750
+Cw value = 865
+phyMode DsssRate5_5Mbps   Thr 3.70037Mbit/s   delay sum +2831366990506.0ns   delay +90104922.0ns   lost:31423   send:46750
+Cw value = 866
+phyMode DsssRate5_5Mbps   Thr 3.78257Mbit/s   delay sum +5474315012735.0ns   delay +170427913.0ns   lost:32121   send:46750
+Cw value = 867
+phyMode DsssRate5_5Mbps   Thr 3.77998Mbit/s   delay sum +5595755363847.0ns   delay +174328027.0ns   lost:32099   send:46750
+Cw value = 868
+phyMode DsssRate5_5Mbps   Thr 3.70073Mbit/s   delay sum +2823109867643.0ns   delay +89833573.0ns   lost:31426   send:46750
+Cw value = 869
+phyMode DsssRate5_5Mbps   Thr 3.78634Mbit/s   delay sum +5297333441324.0ns   delay +164753940.0ns   lost:32153   send:46750
+Cw value = 870
+phyMode DsssRate5_5Mbps   Thr 3.78057Mbit/s   delay sum +5332387235770.0ns   delay +166097284.0ns   lost:32104   send:46750
+Cw value = 871
+phyMode DsssRate5_5Mbps   Thr 3.78269Mbit/s   delay sum +5236003125177.0ns   delay +163003646.0ns   lost:32122   send:46750
+Cw value = 872
+phyMode DsssRate5_5Mbps   Thr 3.59863Mbit/s   delay sum +2058554749347.0ns   delay +67363289.0ns   lost:30559   send:46750
+Cw value = 873
+phyMode DsssRate5_5Mbps   Thr 3.70237Mbit/s   delay sum +2867992441163.0ns   delay +91221133.0ns   lost:31440   send:46750
+Cw value = 874
+phyMode DsssRate5_5Mbps   Thr 3.78292Mbit/s   delay sum +5534737533086.0ns   delay +172292912.0ns   lost:32124   send:46750
+Cw value = 875
+phyMode DsssRate5_5Mbps   Thr 3.81507Mbit/s   delay sum +7439235731422.0ns   delay +229627302.0ns   lost:32397   send:46750
+Cw value = 876
+phyMode DsssRate5_5Mbps   Thr 3.8133Mbit/s   delay sum +7431170969684.0ns   delay +229484620.0ns   lost:32382   send:46750
+Cw value = 877
+phyMode DsssRate5_5Mbps   Thr 3.48829Mbit/s   delay sum +1735402791468.0ns   delay +58584929.0ns   lost:29622   send:46750
+Cw value = 878
+phyMode DsssRate5_5Mbps   Thr 3.59651Mbit/s   delay sum +2069040885482.0ns   delay +67746337.0ns   lost:30541   send:46750
+Cw value = 879
+phyMode DsssRate5_5Mbps   Thr 3.70179Mbit/s   delay sum +2985404552925.0ns   delay +94970719.0ns   lost:31435   send:46750
+Cw value = 880
+phyMode DsssRate5_5Mbps   Thr 3.70461Mbit/s   delay sum +3007605424964.0ns   delay +95603974.0ns   lost:31459   send:46750
+Cw value = 881
+phyMode DsssRate5_5Mbps   Thr 3.7861Mbit/s   delay sum +5465674552177.0ns   delay +170000141.0ns   lost:32151   send:46750
+Cw value = 882
+phyMode DsssRate5_5Mbps   Thr 3.70308Mbit/s   delay sum +2933322471703.0ns   delay +93281259.0ns   lost:31446   send:46750
+Cw value = 883
+phyMode DsssRate5_5Mbps   Thr 3.59451Mbit/s   delay sum +2113559000774.0ns   delay +69242530.0ns   lost:30524   send:46750
+Cw value = 884
+phyMode DsssRate5_5Mbps   Thr 3.59745Mbit/s   delay sum +2124078023069.0ns   delay +69530198.0ns   lost:30549   send:46750
+Cw value = 885
+phyMode DsssRate5_5Mbps   Thr 3.77574Mbit/s   delay sum +5466987486153.0ns   delay +170507671.0ns   lost:32063   send:46750
+Cw value = 886
+phyMode DsssRate5_5Mbps   Thr 3.70579Mbit/s   delay sum +2924090020589.0ns   delay +92919699.0ns   lost:31469   send:46750
+Cw value = 887
+phyMode DsssRate5_5Mbps   Thr 3.59309Mbit/s   delay sum +2084201390789.0ns   delay +68307596.0ns   lost:30512   send:46750
+Cw value = 888
+phyMode DsssRate5_5Mbps   Thr 3.59545Mbit/s   delay sum +2121068773024.0ns   delay +69470351.0ns   lost:30532   send:46750
+Cw value = 889
+phyMode DsssRate5_5Mbps   Thr 3.78045Mbit/s   delay sum +5382578810308.0ns   delay +167665913.0ns   lost:32103   send:46750
+Cw value = 890
+phyMode DsssRate5_5Mbps   Thr 3.70591Mbit/s   delay sum +2932962101486.0ns   delay +93198668.0ns   lost:31470   send:46750
+Cw value = 891
+phyMode DsssRate5_5Mbps   Thr 3.48287Mbit/s   delay sum +1766106655172.0ns   delay +59714182.0ns   lost:29576   send:46750
+Cw value = 892
+phyMode DsssRate5_5Mbps   Thr 3.70061Mbit/s   delay sum +2899964925447.0ns   delay +92282097.0ns   lost:31425   send:46750
+Cw value = 893
+phyMode DsssRate5_5Mbps   Thr 3.78045Mbit/s   delay sum +5607166000680.0ns   delay +174661745.0ns   lost:32103   send:46750
+Cw value = 894
+phyMode DsssRate5_5Mbps   Thr 3.78092Mbit/s   delay sum +5559753286673.0ns   delay +173163275.0ns   lost:32107   send:46750
+Cw value = 895
+phyMode DsssRate5_5Mbps   Thr 3.48558Mbit/s   delay sum +1764977862645.0ns   delay +59629645.0ns   lost:29599   send:46750
+Cw value = 896
+phyMode DsssRate5_5Mbps   Thr 3.80871Mbit/s   delay sum +7595191779415.0ns   delay +234832630.0ns   lost:32343   send:46750
+Cw value = 897
+phyMode DsssRate5_5Mbps   Thr 3.77385Mbit/s   delay sum +5679903201867.0ns   delay +177236658.0ns   lost:32047   send:46750
+Cw value = 898
+phyMode DsssRate5_5Mbps   Thr 3.78375Mbit/s   delay sum +5576455383441.0ns   delay +173553745.0ns   lost:32131   send:46750
+Cw value = 899
+phyMode DsssRate5_5Mbps   Thr 3.59898Mbit/s   delay sum +2140833720332.0ns   delay +70048875.0ns   lost:30562   send:46750
+Cw value = 900
+phyMode DsssRate5_5Mbps   Thr 3.60075Mbit/s   delay sum +2122703657100.0ns   delay +69421580.0ns   lost:30577   send:46750
+Cw value = 901
+phyMode DsssRate5_5Mbps   Thr 3.77798Mbit/s   delay sum +5835956962196.0ns   delay +181907517.0ns   lost:32082   send:46750
+Cw value = 902
+phyMode DsssRate5_5Mbps   Thr 3.59498Mbit/s   delay sum +2152379588842.0ns   delay +70505096.0ns   lost:30528   send:46750
+Cw value = 903
+phyMode DsssRate5_5Mbps   Thr 3.76891Mbit/s   delay sum +5882021843626.0ns   delay +183784466.0ns   lost:32005   send:46750
+Cw value = 904
+phyMode DsssRate5_5Mbps   Thr 3.77633Mbit/s   delay sum +5551168216910.0ns   delay +173106156.0ns   lost:32068   send:46750
+Cw value = 905
+phyMode DsssRate5_5Mbps   Thr 3.77739Mbit/s   delay sum +5725299168741.0ns   delay +178486116.0ns   lost:32077   send:46750
+Cw value = 906
+phyMode DsssRate5_5Mbps   Thr 3.59333Mbit/s   delay sum +2156607614704.0ns   delay +70676004.0ns   lost:30514   send:46750
+Cw value = 907
+phyMode DsssRate5_5Mbps   Thr 3.7052Mbit/s   delay sum +3065122664391.0ns   delay +97416814.0ns   lost:31464   send:46750
+Cw value = 908
+phyMode DsssRate5_5Mbps   Thr 3.70779Mbit/s   delay sum +3092158196358.0ns   delay +98207399.0ns   lost:31486   send:46750
+Cw value = 909
+phyMode DsssRate5_5Mbps   Thr 3.59309Mbit/s   delay sum +2139389481516.0ns   delay +70116330.0ns   lost:30512   send:46750
+Cw value = 910
+phyMode DsssRate5_5Mbps   Thr 3.69943Mbit/s   delay sum +3192733849932.0ns   delay +101630872.0ns   lost:31415   send:46750
+Cw value = 911
+phyMode DsssRate5_5Mbps   Thr 3.77232Mbit/s   delay sum +5818561152863.0ns   delay +181637046.0ns   lost:32034   send:46750
+Cw value = 912
+phyMode DsssRate5_5Mbps   Thr 3.59462Mbit/s   delay sum +2149645463974.0ns   delay +70422455.0ns   lost:30525   send:46750
+Cw value = 913
+phyMode DsssRate5_5Mbps   Thr 3.70296Mbit/s   delay sum +3277631027902.0ns   delay +104233774.0ns   lost:31445   send:46750
+Cw value = 914
+phyMode DsssRate5_5Mbps   Thr 3.59345Mbit/s   delay sum +2179055664681.0ns   delay +71409328.0ns   lost:30515   send:46750
+Cw value = 915
+phyMode DsssRate5_5Mbps   Thr 3.4857Mbit/s   delay sum +1769053495789.0ns   delay +59765320.0ns   lost:29600   send:46750
+Cw value = 916
+phyMode DsssRate5_5Mbps   Thr 3.49017Mbit/s   delay sum +1764274194348.0ns   delay +59527437.0ns   lost:29638   send:46750
+Cw value = 917
+phyMode DsssRate5_5Mbps   Thr 3.7012Mbit/s   delay sum +3165948412093.0ns   delay +100730143.0ns   lost:31430   send:46750
+Cw value = 918
+phyMode DsssRate5_5Mbps   Thr 3.70532Mbit/s   delay sum +3202735009126.0ns   delay +101787224.0ns   lost:31465   send:46750
+Cw value = 919
+phyMode DsssRate5_5Mbps   Thr 3.76608Mbit/s   delay sum +5852520432817.0ns   delay +182999919.0ns   lost:31981   send:46750
+Cw value = 920
+phyMode DsssRate5_5Mbps   Thr 3.77739Mbit/s   delay sum +5699383076643.0ns   delay +177678183.0ns   lost:32077   send:46750
+Cw value = 921
+phyMode DsssRate5_5Mbps   Thr 3.5971Mbit/s   delay sum +2208656638756.0ns   delay +72305920.0ns   lost:30546   send:46750
+Cw value = 922
+phyMode DsssRate5_5Mbps   Thr 3.76997Mbit/s   delay sum +5825179680401.0ns   delay +181957258.0ns   lost:32014   send:46750
+Cw value = 923
+phyMode DsssRate5_5Mbps   Thr 3.70555Mbit/s   delay sum +3272990659050.0ns   delay +104013431.0ns   lost:31467   send:46750
+Cw value = 924
+phyMode DsssRate5_5Mbps   Thr 3.70096Mbit/s   delay sum +3229886719618.0ns   delay +102770991.0ns   lost:31428   send:46750
+Cw value = 925
+phyMode DsssRate5_5Mbps   Thr 3.7019Mbit/s   delay sum +3201162422702.0ns   delay +101831098.0ns   lost:31436   send:46750
+Cw value = 926
+phyMode DsssRate5_5Mbps   Thr 3.70332Mbit/s   delay sum +3283359525281.0ns   delay +104405988.0ns   lost:31448   send:46750
+Cw value = 927
+phyMode DsssRate5_5Mbps   Thr 3.58956Mbit/s   delay sum +2196791961574.0ns   delay +72068498.0ns   lost:30482   send:46750
+Cw value = 928
+phyMode DsssRate5_5Mbps   Thr 3.70202Mbit/s   delay sum +3207060190138.0ns   delay +102015465.0ns   lost:31437   send:46750
+Cw value = 929
+phyMode DsssRate5_5Mbps   Thr 3.69955Mbit/s   delay sum +3146576514274.0ns   delay +100158406.0ns   lost:31416   send:46750
+Cw value = 930
+phyMode DsssRate5_5Mbps   Thr 3.48452Mbit/s   delay sum +1809500399479.0ns   delay +61152429.0ns   lost:29590   send:46750
+Cw value = 931
+phyMode DsssRate5_5Mbps   Thr 3.70343Mbit/s   delay sum +3194192778003.0ns   delay +101567387.0ns   lost:31449   send:46750
+Cw value = 932
+phyMode DsssRate5_5Mbps   Thr 3.59462Mbit/s   delay sum +2243510569538.0ns   delay +73497479.0ns   lost:30525   send:46750
+Cw value = 933
+phyMode DsssRate5_5Mbps   Thr 3.59121Mbit/s   delay sum +2257568176901.0ns   delay +74028337.0ns   lost:30496   send:46750
+Cw value = 934
+phyMode DsssRate5_5Mbps   Thr 3.6979Mbit/s   delay sum +3323639978545.0ns   delay +105841665.0ns   lost:31402   send:46750
+Cw value = 935
+phyMode DsssRate5_5Mbps   Thr 3.70343Mbit/s   delay sum +3345740984303.0ns   delay +106386243.0ns   lost:31449   send:46750
+Cw value = 936
+phyMode DsssRate5_5Mbps   Thr 3.76879Mbit/s   delay sum +5893069664639.0ns   delay +184135410.0ns   lost:32004   send:46750
+Cw value = 937
+phyMode DsssRate5_5Mbps   Thr 3.5925Mbit/s   delay sum +2272665459817.0ns   delay +74496524.0ns   lost:30507   send:46750
+Cw value = 938
+phyMode DsssRate5_5Mbps   Thr 3.7894Mbit/s   delay sum +7835314839851.0ns   delay +243491557.0ns   lost:32179   send:46750
+Cw value = 939
+phyMode DsssRate5_5Mbps   Thr 3.69814Mbit/s   delay sum +3398688524383.0ns   delay +108224701.0ns   lost:31404   send:46750
+Cw value = 940
+phyMode DsssRate5_5Mbps   Thr 3.7954Mbit/s   delay sum +7728783350247.0ns   delay +239800910.0ns   lost:32230   send:46750
+Cw value = 941
+phyMode DsssRate5_5Mbps   Thr 3.79105Mbit/s   delay sum +7723323062620.0ns   delay +239906907.0ns   lost:32193   send:46750
+Cw value = 942
+phyMode DsssRate5_5Mbps   Thr 3.69978Mbit/s   delay sum +3232744773550.0ns   delay +102894671.0ns   lost:31418   send:46750
+Cw value = 943
+phyMode DsssRate5_5Mbps   Thr 3.59651Mbit/s   delay sum +2265849650820.0ns   delay +74190421.0ns   lost:30541   send:46750
+Cw value = 944
+phyMode DsssRate5_5Mbps   Thr 3.70296Mbit/s   delay sum +3547458277723.0ns   delay +112814701.0ns   lost:31445   send:46750
+Cw value = 945
+phyMode DsssRate5_5Mbps   Thr 3.59639Mbit/s   delay sum +2302257958017.0ns   delay +75385001.0ns   lost:30540   send:46750
+Cw value = 946
+phyMode DsssRate5_5Mbps   Thr 3.49194Mbit/s   delay sum +1790515057440.0ns   delay +60382256.0ns   lost:29653   send:46750
+Cw value = 947
+phyMode DsssRate5_5Mbps   Thr 3.5971Mbit/s   delay sum +2249190509051.0ns   delay +73632898.0ns   lost:30546   send:46750
+Cw value = 948
+phyMode DsssRate5_5Mbps   Thr 3.76714Mbit/s   delay sum +6097318635588.0ns   delay +190600770.0ns   lost:31990   send:46750
+Cw value = 949
+phyMode DsssRate5_5Mbps   Thr 3.59568Mbit/s   delay sum +2286093577638.0ns   delay +74870425.0ns   lost:30534   send:46750
+Cw value = 950
+phyMode DsssRate5_5Mbps   Thr 3.59557Mbit/s   delay sum +2272833973506.0ns   delay +74438606.0ns   lost:30533   send:46750
+Cw value = 951
+phyMode DsssRate5_5Mbps   Thr 3.48888Mbit/s   delay sum +1799866810657.0ns   delay +60750896.0ns   lost:29627   send:46750
+Cw value = 952
+phyMode DsssRate5_5Mbps   Thr 3.79576Mbit/s   delay sum +7827188417367.0ns   delay +242831521.0ns   lost:32233   send:46750
+Cw value = 953
+phyMode DsssRate5_5Mbps   Thr 3.70402Mbit/s   delay sum +3327563289696.0ns   delay +105791418.0ns   lost:31454   send:46750
+Cw value = 954
+phyMode DsssRate5_5Mbps   Thr 3.48746Mbit/s   delay sum +1827877699067.0ns   delay +61721347.0ns   lost:29615   send:46750
+Cw value = 955
+phyMode DsssRate5_5Mbps   Thr 3.7589Mbit/s   delay sum +6037837626953.0ns   delay +189155314.0ns   lost:31920   send:46750
+Cw value = 956
+phyMode DsssRate5_5Mbps   Thr 3.69543Mbit/s   delay sum +3340864847687.0ns   delay +106461388.0ns   lost:31381   send:46750
+Cw value = 957
+phyMode DsssRate5_5Mbps   Thr 3.70296Mbit/s   delay sum +3362110791306.0ns   delay +106920362.0ns   lost:31445   send:46750
+Cw value = 958
+phyMode DsssRate5_5Mbps   Thr 3.59227Mbit/s   delay sum +2349371125430.0ns   delay +77015935.0ns   lost:30505   send:46750
+Cw value = 959
+phyMode DsssRate5_5Mbps   Thr 3.69672Mbit/s   delay sum +3721671370982.0ns   delay +118554770.0ns   lost:31392   send:46750
+Cw value = 960
+phyMode DsssRate5_5Mbps   Thr 3.69896Mbit/s   delay sum +3427782838248.0ns   delay +109126829.0ns   lost:31411   send:46750
+Cw value = 961
+phyMode DsssRate5_5Mbps   Thr 3.48511Mbit/s   delay sum +1839455834097.0ns   delay +62154277.0ns   lost:29595   send:46750
+Cw value = 962
+phyMode DsssRate5_5Mbps   Thr 3.6979Mbit/s   delay sum +3443296329162.0ns   delay +109652134.0ns   lost:31402   send:46750
+Cw value = 963
+phyMode DsssRate5_5Mbps   Thr 3.70037Mbit/s   delay sum +3507386507731.0ns   delay +111618448.0ns   lost:31423   send:46750
+Cw value = 964
+phyMode DsssRate5_5Mbps   Thr 3.70273Mbit/s   delay sum +3601211978137.0ns   delay +114531437.0ns   lost:31443   send:46750
+Cw value = 965
+phyMode DsssRate5_5Mbps   Thr 3.48499Mbit/s   delay sum +1859364811414.0ns   delay +62829114.0ns   lost:29594   send:46750
+Cw value = 966
+phyMode DsssRate5_5Mbps   Thr 3.59368Mbit/s   delay sum +2348509304698.0ns   delay +76957410.0ns   lost:30517   send:46750
+Cw value = 967
+phyMode DsssRate5_5Mbps   Thr 3.70167Mbit/s   delay sum +3576137725290.0ns   delay +113766549.0ns   lost:31434   send:46750
+Cw value = 968
+phyMode DsssRate5_5Mbps   Thr 3.69613Mbit/s   delay sum +3631739202339.0ns   delay +115708388.0ns   lost:31387   send:46750
+Cw value = 969
+phyMode DsssRate5_5Mbps   Thr 3.69861Mbit/s   delay sum +3558031476633.0ns   delay +113284242.0ns   lost:31408   send:46750
+Cw value = 970
+phyMode DsssRate5_5Mbps   Thr 3.59439Mbit/s   delay sum +2296951081105.0ns   delay +75253123.0ns   lost:30523   send:46750
+Cw value = 971
+phyMode DsssRate5_5Mbps   Thr 3.59486Mbit/s   delay sum +2330433942342.0ns   delay +76340090.0ns   lost:30527   send:46750
+Cw value = 972
+phyMode DsssRate5_5Mbps   Thr 3.59533Mbit/s   delay sum +2379342075894.0ns   delay +77932006.0ns   lost:30531   send:46750
+Cw value = 973
+phyMode DsssRate5_5Mbps   Thr 3.59086Mbit/s   delay sum +2376774231338.0ns   delay +77944912.0ns   lost:30493   send:46750
+Cw value = 974
+phyMode DsssRate5_5Mbps   Thr 3.59651Mbit/s   delay sum +2326048357750.0ns   delay +76161499.0ns   lost:30541   send:46750
+Cw value = 975
+phyMode DsssRate5_5Mbps   Thr 3.59839Mbit/s   delay sum +2310836861321.0ns   delay +75623813.0ns   lost:30557   send:46750
+Cw value = 976
+phyMode DsssRate5_5Mbps   Thr 3.70155Mbit/s   delay sum +3873940470875.0ns   delay +123244376.0ns   lost:31433   send:46750
+Cw value = 977
+phyMode DsssRate5_5Mbps   Thr 3.59368Mbit/s   delay sum +2400677563869.0ns   delay +78666892.0ns   lost:30517   send:46750
+Cw value = 978
+phyMode DsssRate5_5Mbps   Thr 3.7536Mbit/s   delay sum +6416082209217.0ns   delay +201288853.0ns   lost:31875   send:46750
+Cw value = 979
+phyMode DsssRate5_5Mbps   Thr 3.5905Mbit/s   delay sum +2379715947502.0ns   delay +78049063.0ns   lost:30490   send:46750
+Cw value = 980
+phyMode DsssRate5_5Mbps   Thr 3.70155Mbit/s   delay sum +3622299732679.0ns   delay +115238753.0ns   lost:31433   send:46750
+Cw value = 981
+phyMode DsssRate5_5Mbps   Thr 3.70143Mbit/s   delay sum +3654421327256.0ns   delay +116264358.0ns   lost:31432   send:46750
+Cw value = 982
+phyMode DsssRate5_5Mbps   Thr 3.5925Mbit/s   delay sum +2392464937615.0ns   delay +78423474.0ns   lost:30507   send:46750
+Cw value = 983
+phyMode DsssRate5_5Mbps   Thr 3.59427Mbit/s   delay sum +2380357998669.0ns   delay +77988270.0ns   lost:30522   send:46750
+Cw value = 984
+phyMode DsssRate5_5Mbps   Thr 3.48417Mbit/s   delay sum +1883463568599.0ns   delay +63658484.0ns   lost:29587   send:46750
+Cw value = 985
+phyMode DsssRate5_5Mbps   Thr 3.48864Mbit/s   delay sum +1932797190964.0ns   delay +65242099.0ns   lost:29625   send:46750
+Cw value = 986
+phyMode DsssRate5_5Mbps   Thr 3.37971Mbit/s   delay sum +1653478252409.0ns   delay +57612482.0ns   lost:28700   send:46750
+Cw value = 987
+phyMode DsssRate5_5Mbps   Thr 3.75996Mbit/s   delay sum +6300215429728.0ns   delay +197319534.0ns   lost:31929   send:46750
+Cw value = 988
+phyMode DsssRate5_5Mbps   Thr 3.59309Mbit/s   delay sum +2397199172297.0ns   delay +78565783.0ns   lost:30512   send:46750
+Cw value = 989
+phyMode DsssRate5_5Mbps   Thr 3.69919Mbit/s   delay sum +3814551017314.0ns   delay +121432241.0ns   lost:31413   send:46750
+Cw value = 990
+phyMode DsssRate5_5Mbps   Thr 3.59451Mbit/s   delay sum +2366966374751.0ns   delay +77544436.0ns   lost:30524   send:46750
+Cw value = 991
+phyMode DsssRate5_5Mbps   Thr 3.59144Mbit/s   delay sum +2376247092932.0ns   delay +77914849.0ns   lost:30498   send:46750
+Cw value = 992
+phyMode DsssRate5_5Mbps   Thr 3.69943Mbit/s   delay sum +3702302676208.0ns   delay +117851430.0ns   lost:31415   send:46750
+Cw value = 993
+phyMode DsssRate5_5Mbps   Thr 3.37665Mbit/s   delay sum +1678068944810.0ns   delay +58522317.0ns   lost:28674   send:46750
+Cw value = 994
+phyMode DsssRate5_5Mbps   Thr 3.59003Mbit/s   delay sum +2457796862091.0ns   delay +80620509.0ns   lost:30486   send:46750
+Cw value = 995
+phyMode DsssRate5_5Mbps   Thr 3.69872Mbit/s   delay sum +4140986192614.0ns   delay +131840752.0ns   lost:31409   send:46750
+Cw value = 996
+phyMode DsssRate5_5Mbps   Thr 3.48723Mbit/s   delay sum +1954294720370.0ns   delay +65994486.0ns   lost:29613   send:46750
+Cw value = 997
+phyMode DsssRate5_5Mbps   Thr 3.70367Mbit/s   delay sum +3790699953129.0ns   delay +120527167.0ns   lost:31451   send:46750
+Cw value = 998
+phyMode DsssRate5_5Mbps   Thr 3.69507Mbit/s   delay sum +3903162109504.0ns   delay +124391679.0ns   lost:31378   send:46750
+Cw value = 999
+phyMode DsssRate5_5Mbps   Thr 3.48746Mbit/s   delay sum +1906660432531.0ns   delay +64381578.0ns   lost:29615   send:46750
+Cw value = 1000
+phyMode DsssRate5_5Mbps   Thr 3.59486Mbit/s   delay sum +2361963845902.0ns   delay +77372943.0ns   lost:30527   send:46750

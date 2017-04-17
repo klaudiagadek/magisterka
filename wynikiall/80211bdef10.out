@@ -1,0 +1,20 @@
+Waf: Entering directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+[ 860/1774] Compiling scratch/802_11bdef10.cc
+[1745/1774] Linking build/scratch/802_11bdef10
+Waf: Leaving directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (8.232s)
+Cw value = 600
+phyMode DsssRate1Mbps   Thr 0.86742Mbit/s   delay sum +2627030093846.0ns   delay +356642695.0ns   lost:7366   send:8500
+Cw value = 600
+phyMode DsssRate2Mbps   Thr 1.6086Mbit/s   delay sum +5957793707448.0ns   delay +436148880.0ns   lost:13660   send:16990
+Cw value = 600
+phyMode DsssRate5_5Mbps   Thr 3.47663Mbit/s   delay sum +14263594406679.0ns   delay +483134993.0ns   lost:29523   send:46710
+Cw value = 600
+phyMode DsssRate11Mbps   Thr 5.21394Mbit/s   delay sum +21797853210715.0ns   delay +492317580.0ns   lost:44276   send:93420
+Cw value = 601
+phyMode DsssRate1Mbps   Thr 0.867185Mbit/s   delay sum +2575477937917.0ns   delay +349738992.0ns   lost:7364   send:8500
+Cw value = 601
+phyMode DsssRate2Mbps   Thr 1.60848Mbit/s   delay sum +5923793910647.0ns   delay +433691625.0ns   lost:13659   send:16990
+Cw value = 601
+phyMode DsssRate5_5Mbps   Thr 3.48004Mbit/s   delay sum +14276970258616.0ns   delay +483113503.0ns   lost:29552   send:46710
