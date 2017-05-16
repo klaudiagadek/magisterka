@@ -1,0 +1,123 @@
+Waf: Entering directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+[ 850/1788] Compiling scratch/802_11n_2.cc
+[1762/1788] Linking build/scratch/802_11n_2
+Waf: Leaving directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (22.696s)
+Cw value = 1
+MCS 0   Chann_width 40MHz   short GI 0   Thr 1.80267Mbit/s   delay sum +120367355334.0ns   delay +7863036.0ns   lost:15308   send:114650
+Cw value = 2
+MCS 0   Chann_width 40MHz   short GI 0   Thr 2.25675Mbit/s   delay sum +166277711773.0ns   delay +8676566.0ns   lost:19164   send:114650
+Cw value = 3
+MCS 0   Chann_width 40MHz   short GI 0   Thr 2.65396Mbit/s   delay sum +218054249711.0ns   delay +9675389.0ns   lost:22537   send:114650
+Cw value = 4
+MCS 0   Chann_width 40MHz   short GI 0   Thr 2.98898Mbit/s   delay sum +376822996790.0ns   delay +14846071.0ns   lost:25382   send:114650
+Cw value = 5
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.18188Mbit/s   delay sum +640266979275.0ns   delay +23696039.0ns   lost:27020   send:114650
+Cw value = 6
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.06282Mbit/s   delay sum +381760353670.0ns   delay +14678009.0ns   lost:26009   send:114650
+Cw value = 7
+MCS 0   Chann_width 40MHz   short GI 0   Thr 2.4142Mbit/s   delay sum +3623983448308.0ns   delay +176771057.0ns   lost:20501   send:114650
+Cw value = 8
+MCS 0   Chann_width 40MHz   short GI 0   Thr 2.65502Mbit/s   delay sum +4407426353353.0ns   delay +195485955.0ns   lost:22546   send:114650
+Cw value = 9
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.17234Mbit/s   delay sum +4214842859072.0ns   delay +156458772.0ns   lost:26939   send:114650
+Cw value = 10
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.5275Mbit/s   delay sum +3590767341254.0ns   delay +119872052.0ns   lost:29955   send:114650
+Cw value = 11
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.58426Mbit/s   delay sum +3669669142198.0ns   delay +120566059.0ns   lost:30437   send:114650
+Cw value = 12
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.36499Mbit/s   delay sum +4300567287880.0ns   delay +150501042.0ns   lost:28575   send:114650
+Cw value = 13
+MCS 0   Chann_width 40MHz   short GI 0   Thr 4.39056Mbit/s   delay sum +1485306712848.0ns   delay +39837643.0ns   lost:37284   send:114650
+Cw value = 14
+MCS 0   Chann_width 40MHz   short GI 0   Thr 2.86074Mbit/s   delay sum +4595649458928.0ns   delay +189175872.0ns   lost:24293   send:114650
+Cw value = 15
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.73535Mbit/s   delay sum +7564835654624.0ns   delay +238487883.0ns   lost:31720   send:114650
+Cw value = 16
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.97275Mbit/s   delay sum +7740719469512.0ns   delay +229449830.0ns   lost:33736   send:114650
+Cw value = 17
+MCS 0   Chann_width 40MHz   short GI 0   Thr 4.00207Mbit/s   delay sum +7263465392540.0ns   delay +213725625.0ns   lost:33985   send:114650
+Cw value = 18
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.74477Mbit/s   delay sum +7487957779610.0ns   delay +235470370.0ns   lost:31800   send:114650
+Cw value = 19
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.60463Mbit/s   delay sum +7658291159353.0ns   delay +250189191.0ns   lost:30610   send:114650
+Cw value = 20
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.88985Mbit/s   delay sum +7448682428122.0ns   delay +225498983.0ns   lost:33032   send:114650
+Cw value = 21
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.56Mbit/s   delay sum +7342657432597.0ns   delay +242885032.0ns   lost:30231   send:114650
+Cw value = 22
+MCS 0   Chann_width 40MHz   short GI 0   Thr 4.54424Mbit/s   delay sum +6776268164351.0ns   delay +175601030.0ns   lost:38589   send:114650
+Cw value = 23
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.62477Mbit/s   delay sum +7101192750513.0ns   delay +230700521.0ns   lost:30781   send:114650
+Cw value = 24
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.97216Mbit/s   delay sum +7057731122571.0ns   delay +209235751.0ns   lost:33731   send:114650
+Cw value = 25
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.8345Mbit/s   delay sum +6776423518505.0ns   delay +208108332.0ns   lost:32562   send:114650
+Cw value = 26
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.86159Mbit/s   delay sum +7529019373850.0ns   delay +229599273.0ns   lost:32792   send:114650
+Cw value = 27
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.75466Mbit/s   delay sum +7613841616214.0ns   delay +238798193.0ns   lost:31884   send:114650
+Cw value = 28
+MCS 0   Chann_width 40MHz   short GI 0   Thr 4.16623Mbit/s   delay sum +7151301716212.0ns   delay +202134082.0ns   lost:35379   send:114650
+Cw value = 29
+MCS 0   Chann_width 40MHz   short GI 0   Thr 4.3696Mbit/s   delay sum +6850424927021.0ns   delay +184617714.0ns   lost:37106   send:114650
+Cw value = 30
+MCS 0   Chann_width 40MHz   short GI 0   Thr 3.86194Mbit/s   delay sum +6884480087874.0ns   delay +209924686.0ns   lost:32795   send:114650
+Cw value = 31
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.74292Mbit/s   delay sum +12241277068579.0ns   delay +251010438.0ns   lost:48768   send:114650
+Cw value = 32
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.63682Mbit/s   delay sum +12257232455338.0ns   delay +256079232.0ns   lost:47865   send:114650
+Cw value = 33
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.30309Mbit/s   delay sum +13080373693136.0ns   delay +290461965.0ns   lost:45033   send:114650
+Cw value = 34
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.54249Mbit/s   delay sum +12737908773552.0ns   delay +270639288.0ns   lost:47066   send:114650
+Cw value = 35
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.06109Mbit/s   delay sum +13637565264446.0ns   delay +317315027.0ns   lost:42978   send:114650
+Cw value = 36
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.91391Mbit/s   delay sum +11255298538199.0ns   delay +224119843.0ns   lost:50220   send:114650
+Cw value = 37
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.45123Mbit/s   delay sum +12726815696463.0ns   delay +274930671.0ns   lost:46291   send:114650
+Cw value = 38
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.33311Mbit/s   delay sum +12628676081793.0ns   delay +278852589.0ns   lost:45288   send:114650
+Cw value = 39
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.35172Mbit/s   delay sum +12544272386370.0ns   delay +276025885.0ns   lost:45446   send:114650
+Cw value = 40
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.20582Mbit/s   delay sum +13081907255007.0ns   delay +295930580.0ns   lost:44206   send:114650
+Cw value = 41
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.71807Mbit/s   delay sum +11372236846472.0ns   delay +234203860.0ns   lost:48557   send:114650
+Cw value = 42
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.7932Mbit/s   delay sum +12157459537528.0ns   delay +247127950.0ns   lost:49195   send:114650
+Cw value = 43
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.29437Mbit/s   delay sum +13518745829828.0ns   delay +300697224.0ns   lost:44958   send:114650
+Cw value = 44
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.73091Mbit/s   delay sum +11791339160463.0ns   delay +242296088.0ns   lost:48665   send:114650
+Cw value = 45
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.11055Mbit/s   delay sum +13030836162360.0ns   delay +300263518.0ns   lost:43398   send:114650
+Cw value = 46
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.53778Mbit/s   delay sum +12529561855027.0ns   delay +266439030.0ns   lost:47026   send:114650
+Cw value = 47
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.29331Mbit/s   delay sum +12916768256508.0ns   delay +287358581.0ns   lost:44950   send:114650
+Cw value = 48
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.36868Mbit/s   delay sum +12774860088014.0ns   delay +280211890.0ns   lost:45590   send:114650
+Cw value = 49
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.98609Mbit/s   delay sum +10781627418034.0ns   delay +212103151.0ns   lost:50832   send:114650
+Cw value = 50
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.64671Mbit/s   delay sum +12859908630647.0ns   delay +268188538.0ns   lost:47951   send:114650
+Cw value = 51
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.63646Mbit/s   delay sum +12423729510459.0ns   delay +259563126.0ns   lost:47864   send:114650
+Cw value = 52
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.38199Mbit/s   delay sum +12689766703681.0ns   delay +277657193.0ns   lost:45703   send:114650
+Cw value = 53
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.44722Mbit/s   delay sum +12605984650595.0ns   delay +272520583.0ns   lost:46257   send:114650
+Cw value = 54
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.35773Mbit/s   delay sum +13284989624141.0ns   delay +291997046.0ns   lost:45497   send:114650
+Cw value = 55
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.71513Mbit/s   delay sum +11848576065260.0ns   delay +244139455.0ns   lost:48532   send:114650
+Cw value = 56
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.68121Mbit/s   delay sum +11684141542298.0ns   delay +242188490.0ns   lost:48244   send:114650
+Cw value = 57
+MCS 0   Chann_width 40MHz   short GI 0   Thr 5.39294Mbit/s   delay sum +12516008855306.0ns   delay +273299171.0ns   lost:45796   send:114650
+assert failed. cond="Simulator::Now () - m_lastRxStart <= m_sifs", file=../src/wifi/model/dcf-manager.cc, line=763
+terminate called without an active exception
+Command ['/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build/scratch/802_11n_2'] terminated with signal SIGIOT. Run it under a debugger to get more information (./waf --run <program> --command-template="gdb --args %s <args>").
