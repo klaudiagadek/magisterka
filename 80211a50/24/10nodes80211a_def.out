@@ -1,0 +1,7 @@
+Waf: Entering directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+[ 871/1800] Compiling scratch/802_11a3.cc
+[1766/1800] Linking build/scratch/802_11a3
+Waf: Leaving directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (16.580s)
+phyMode OfdmRate54Mbps   Thr 22.797Mbit/s   delay sum +83425537107258.0ns   delay +430941515.0ns   lost:193589   send:458550

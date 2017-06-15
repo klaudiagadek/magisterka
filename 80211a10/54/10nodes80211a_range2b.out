@@ -1,0 +1,1116 @@
+Waf: Entering directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+[ 869/1800] Compiling scratch/802_11a.cc
+[ 870/1800] Compiling scratch/802_11a2.cc
+[1765/1800] Linking build/scratch/802_11a2
+[1789/1800] Linking build/scratch/802_11a
+Waf: Leaving directory `/mnt/auto/people/plgklaudia1993/ns-3/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1m1.026s)
+Cw value = 329
+phyMode OfdmRate54Mbps   Thr 23.4362Mbit/s   delay sum +98882167207917.0ns   delay +496852867.0ns   lost:199017   send:458510
+Cw value = 330
+phyMode OfdmRate54Mbps   Thr 23.1814Mbit/s   delay sum +97785947365657.0ns   delay +496746035.0ns   lost:196853   send:458510
+Cw value = 331
+phyMode OfdmRate54Mbps   Thr 23.8671Mbit/s   delay sum +100710872804017.0ns   delay +496905764.0ns   lost:202676   send:458510
+Cw value = 332
+phyMode OfdmRate54Mbps   Thr 20.9648Mbit/s   delay sum +88405766645262.0ns   delay +496577917.0ns   lost:178030   send:458510
+Cw value = 333
+phyMode OfdmRate54Mbps   Thr 23.1668Mbit/s   delay sum +97733706523770.0ns   delay +496793591.0ns   lost:196729   send:458510
+Cw value = 334
+phyMode OfdmRate54Mbps   Thr 20.6082Mbit/s   delay sum +86878678982988.0ns   delay +496443920.0ns   lost:175002   send:458510
+Cw value = 335
+phyMode OfdmRate54Mbps   Thr 22.533Mbit/s   delay sum +95054354467955.0ns   delay +496764278.0ns   lost:191347   send:458510
+Cw value = 336
+phyMode OfdmRate54Mbps   Thr 22.3585Mbit/s   delay sum +94323857960347.0ns   delay +496794343.0ns   lost:189865   send:458510
+Cw value = 337
+phyMode OfdmRate54Mbps   Thr 23.3635Mbit/s   delay sum +98564446294241.0ns   delay +496799108.0ns   lost:198399   send:458510
+Cw value = 338
+phyMode OfdmRate54Mbps   Thr 22.4162Mbit/s   delay sum +94567851457085.0ns   delay +496797307.0ns   lost:190355   send:458510
+Cw value = 339
+phyMode OfdmRate54Mbps   Thr 22.8888Mbit/s   delay sum +96558691292065.0ns   delay +496782861.0ns   lost:194368   send:458510
+Cw value = 340
+phyMode OfdmRate54Mbps   Thr 22.966Mbit/s   delay sum +96891145315097.0ns   delay +496816521.0ns   lost:195024   send:458510
+Cw value = 341
+phyMode OfdmRate54Mbps   Thr 22.604Mbit/s   delay sum +95354379122536.0ns   delay +496766757.0ns   lost:191950   send:458510
+Cw value = 342
+phyMode OfdmRate54Mbps   Thr 23.6607Mbit/s   delay sum +99814040544833.0ns   delay +496777574.0ns   lost:200923   send:458510
+Cw value = 343
+phyMode OfdmRate54Mbps   Thr 22.231Mbit/s   delay sum +93768365658281.0ns   delay +496701834.0ns   lost:188782   send:458510
+Cw value = 344
+phyMode OfdmRate54Mbps   Thr 22.276Mbit/s   delay sum +93970126567693.0ns   delay +496765381.0ns   lost:189164   send:458510
+Cw value = 345
+phyMode OfdmRate54Mbps   Thr 23.3398Mbit/s   delay sum +98459301325667.0ns   delay +496772426.0ns   lost:198198   send:458510
+Cw value = 346
+phyMode OfdmRate54Mbps   Thr 23.5732Mbit/s   delay sum +99452983745936.0ns   delay +496817782.0ns   lost:200180   send:458510
+Cw value = 347
+phyMode OfdmRate54Mbps   Thr 22.6981Mbit/s   delay sum +95753659872651.0ns   delay +496779022.0ns   lost:192749   send:458510
+Cw value = 348
+phyMode OfdmRate54Mbps   Thr 23.3344Mbit/s   delay sum +98450670837007.0ns   delay +496844194.0ns   lost:198152   send:458510
+Cw value = 349
+phyMode OfdmRate54Mbps   Thr 23.0569Mbit/s   delay sum +97261835448387.0ns   delay +496750880.0ns   lost:195796   send:458510
+Cw value = 350
+phyMode OfdmRate54Mbps   Thr 21.0297Mbit/s   delay sum +88685618548392.0ns   delay +496612845.0ns   lost:178581   send:458510
+Cw value = 351
+phyMode OfdmRate54Mbps   Thr 22.7355Mbit/s   delay sum +95902179609065.0ns   delay +496732617.0ns   lost:193066   send:458510
+Cw value = 352
+phyMode OfdmRate54Mbps   Thr 20.2548Mbit/s   delay sum +85396696016198.0ns   delay +496489532.0ns   lost:172001   send:458510
+Cw value = 353
+phyMode OfdmRate54Mbps   Thr 21.5003Mbit/s   delay sum +90697169924552.0ns   delay +496761201.0ns   lost:182577   send:458510
+Cw value = 354
+phyMode OfdmRate54Mbps   Thr 22.9733Mbit/s   delay sum +96909394310867.0ns   delay +496752172.0ns   lost:195086   send:458510
+Cw value = 355
+phyMode OfdmRate54Mbps   Thr 23.4492Mbit/s   delay sum +98933303893249.0ns   delay +496835205.0ns   lost:199127   send:458510
+Cw value = 356
+phyMode OfdmRate54Mbps   Thr 21.527Mbit/s   delay sum +90786240325174.0ns   delay +496631585.0ns   lost:182804   send:458510
+Cw value = 357
+phyMode OfdmRate54Mbps   Thr 22.1835Mbit/s   delay sum +93595295117113.0ns   delay +496845694.0ns   lost:188379   send:458510
+Cw value = 358
+phyMode OfdmRate54Mbps   Thr 22.8549Mbit/s   delay sum +96413895310163.0ns   delay +496773986.0ns   lost:194080   send:458510
+Cw value = 359
+phyMode OfdmRate54Mbps   Thr 22.6901Mbit/s   delay sum +95736587116465.0ns   delay +496865737.0ns   lost:192681   send:458510
+Cw value = 360
+phyMode OfdmRate54Mbps   Thr 20.5697Mbit/s   delay sum +86743817615794.0ns   delay +496601217.0ns   lost:174675   send:458510
+Cw value = 361
+phyMode OfdmRate54Mbps   Thr 21.1815Mbit/s   delay sum +89336173606504.0ns   delay +496670782.0ns   lost:179870   send:458510
+Cw value = 362
+phyMode OfdmRate54Mbps   Thr 19.9188Mbit/s   delay sum +83990818564151.0ns   delay +496555177.0ns   lost:169147   send:458510
+Cw value = 363
+phyMode OfdmRate54Mbps   Thr 21.7752Mbit/s   delay sum +91846430565024.0ns   delay +496703461.0ns   lost:184912   send:458510
+Cw value = 364
+phyMode OfdmRate54Mbps   Thr 21.5205Mbit/s   delay sum +90774131470727.0ns   delay +496714791.0ns   lost:182749   send:458510
+Cw value = 365
+phyMode OfdmRate54Mbps   Thr 22.9672Mbit/s   delay sum +96905852085367.0ns   delay +496866454.0ns   lost:195034   send:458510
+Cw value = 366
+phyMode OfdmRate54Mbps   Thr 20.0339Mbit/s   delay sum +84480598948259.0ns   delay +496579567.0ns   lost:170125   send:458510
+Cw value = 367
+phyMode OfdmRate54Mbps   Thr 23.1953Mbit/s   delay sum +97878166229615.0ns   delay +496916633.0ns   lost:196971   send:458510
+Cw value = 368
+phyMode OfdmRate54Mbps   Thr 21.7922Mbit/s   delay sum +91943615703693.0ns   delay +496842121.0ns   lost:185056   send:458510
+Cw value = 369
+phyMode OfdmRate54Mbps   Thr 22.4833Mbit/s   delay sum +94844621349788.0ns   delay +496763762.0ns   lost:190925   send:458510
+Cw value = 370
+phyMode OfdmRate54Mbps   Thr 22.3012Mbit/s   delay sum +94087461710742.0ns   delay +496823610.0ns   lost:189378   send:458510
+Cw value = 371
+phyMode OfdmRate54Mbps   Thr 22.7486Mbit/s   delay sum +95981246288337.0ns   delay +496853918.0ns   lost:193178   send:458510
+Cw value = 372
+phyMode OfdmRate54Mbps   Thr 22.3068Mbit/s   delay sum +94105727950681.0ns   delay +496794146.0ns   lost:189426   send:458510
+Cw value = 373
+phyMode OfdmRate54Mbps   Thr 19.9639Mbit/s   delay sum +84217858447166.0ns   delay +496772597.0ns   lost:169530   send:458510
+Cw value = 374
+phyMode OfdmRate54Mbps   Thr 21.1488Mbit/s   delay sum +89214438224910.0ns   delay +496761761.0ns   lost:179592   send:458510
+Cw value = 375
+phyMode OfdmRate54Mbps   Thr 20.3393Mbit/s   delay sum +85764557171263.0ns   delay +496558304.0ns   lost:172718   send:458510
+Cw value = 376
+phyMode OfdmRate54Mbps   Thr 22.8119Mbit/s   delay sum +96238986795173.0ns   delay +496807096.0ns   lost:193715   send:458510
+Cw value = 377
+phyMode OfdmRate54Mbps   Thr 22.1819Mbit/s   delay sum +93571474883380.0ns   delay +496756164.0ns   lost:188365   send:458510
+Cw value = 378
+phyMode OfdmRate54Mbps   Thr 21.8338Mbit/s   delay sum +92110508312817.0ns   delay +496796316.0ns   lost:185409   send:458510
+Cw value = 379
+phyMode OfdmRate54Mbps   Thr 22.5599Mbit/s   delay sum +95195511691539.0ns   delay +496909887.0ns   lost:191575   send:458510
+Cw value = 380
+phyMode OfdmRate54Mbps   Thr 21.7517Mbit/s   delay sum +91774467626297.0ns   delay +496851680.0ns   lost:184712   send:458510
+Cw value = 381
+phyMode OfdmRate54Mbps   Thr 22.5596Mbit/s   delay sum +95184162132866.0ns   delay +496855831.0ns   lost:191573   send:458510
+Cw value = 382
+phyMode OfdmRate54Mbps   Thr 21.5772Mbit/s   delay sum +91030090202934.0ns   delay +496807783.0ns   lost:183230   send:458510
+Cw value = 383
+phyMode OfdmRate54Mbps   Thr 21.8857Mbit/s   delay sum +92321669322626.0ns   delay +496753668.0ns   lost:185850   send:458510
+Cw value = 384
+phyMode OfdmRate54Mbps   Thr 22.1262Mbit/s   delay sum +93352689408430.0ns   delay +496842278.0ns   lost:187892   send:458510
+Cw value = 385
+phyMode OfdmRate54Mbps   Thr 21.7637Mbit/s   delay sum +91823340427246.0ns   delay +496841908.0ns   lost:184814   send:458510
+Cw value = 386
+phyMode OfdmRate54Mbps   Thr 22.5978Mbit/s   delay sum +95343537342181.0ns   delay +496847461.0ns   lost:191897   send:458510
+Cw value = 387
+phyMode OfdmRate54Mbps   Thr 22.2672Mbit/s   delay sum +93957582039757.0ns   delay +496893447.0ns   lost:189090   send:458510
+Cw value = 388
+phyMode OfdmRate54Mbps   Thr 19.7461Mbit/s   delay sum +83274082322289.0ns   delay +496622052.0ns   lost:167681   send:458510
+Cw value = 389
+phyMode OfdmRate54Mbps   Thr 21.5732Mbit/s   delay sum +91009763183521.0ns   delay +496789030.0ns   lost:183196   send:458510
+Cw value = 390
+phyMode OfdmRate54Mbps   Thr 21.6347Mbit/s   delay sum +91270432216875.0ns   delay +496793647.0ns   lost:183719   send:458510
+Cw value = 391
+phyMode OfdmRate54Mbps   Thr 21.9436Mbit/s   delay sum +92589124421412.0ns   delay +496877378.0ns   lost:186342   send:458510
+Cw value = 392
+phyMode OfdmRate54Mbps   Thr 22.6975Mbit/s   delay sum +95779366602892.0ns   delay +496925282.0ns   lost:192744   send:458510
+Cw value = 393
+phyMode OfdmRate54Mbps   Thr 22.4693Mbit/s   delay sum +94795542320232.0ns   delay +496816359.0ns   lost:190806   send:458510
+Cw value = 394
+phyMode OfdmRate54Mbps   Thr 20.8135Mbit/s   delay sum +87801667974729.0ns   delay +496770307.0ns   lost:176745   send:458510
+Cw value = 395
+phyMode OfdmRate54Mbps   Thr 20.1111Mbit/s   delay sum +84831060715871.0ns   delay +496727138.0ns   lost:170780   send:458510
+Cw value = 396
+phyMode OfdmRate54Mbps   Thr 22.6409Mbit/s   delay sum +95529555599750.0ns   delay +496869161.0ns   lost:192263   send:458510
+Cw value = 397
+phyMode OfdmRate54Mbps   Thr 21.7277Mbit/s   delay sum +91671295314707.0ns   delay +496841845.0ns   lost:184508   send:458510
+Cw value = 398
+phyMode OfdmRate54Mbps   Thr 19.3202Mbit/s   delay sum +81486708925908.0ns   delay +496676351.0ns   lost:164064   send:458510
+Cw value = 399
+phyMode OfdmRate54Mbps   Thr 22.3445Mbit/s   delay sum +94290931313093.0ns   delay +496932379.0ns   lost:189746   send:458510
+Cw value = 400
+phyMode OfdmRate54Mbps   Thr 20.2903Mbit/s   delay sum +85589910328128.0ns   delay +496743568.0ns   lost:172302   send:458510
+Cw value = 401
+phyMode OfdmRate54Mbps   Thr 22.0143Mbit/s   delay sum +92883876016566.0ns   delay +496859325.0ns   lost:186942   send:458510
+Cw value = 402
+phyMode OfdmRate54Mbps   Thr 21.9904Mbit/s   delay sum +92790802313951.0ns   delay +496901034.0ns   lost:186739   send:458510
+Cw value = 403
+phyMode OfdmRate54Mbps   Thr 21.882Mbit/s   delay sum +92323902324574.0ns   delay +496848558.0ns   lost:185819   send:458510
+Cw value = 404
+phyMode OfdmRate54Mbps   Thr 20.5873Mbit/s   delay sum +86861947497174.0ns   delay +496853678.0ns   lost:174824   send:458510
+Cw value = 405
+phyMode OfdmRate54Mbps   Thr 22.4553Mbit/s   delay sum +94768431023534.0ns   delay +496984225.0ns   lost:190687   send:458510
+Cw value = 406
+phyMode OfdmRate54Mbps   Thr 22.4433Mbit/s   delay sum +94703211361588.0ns   delay +496908000.0ns   lost:190585   send:458510
+Cw value = 407
+phyMode OfdmRate54Mbps   Thr 20.9809Mbit/s   delay sum +88516809524541.0ns   delay +496819329.0ns   lost:178167   send:458510
+Cw value = 408
+phyMode OfdmRate54Mbps   Thr 22.0254Mbit/s   delay sum +92930762814349.0ns   delay +496860298.0ns   lost:187036   send:458510
+Cw value = 409
+phyMode OfdmRate54Mbps   Thr 22.154Mbit/s   delay sum +93497835238197.0ns   delay +496990534.0ns   lost:188128   send:458510
+Cw value = 410
+phyMode OfdmRate54Mbps   Thr 21.2977Mbit/s   delay sum +89851346198679.0ns   delay +496808783.0ns   lost:180857   send:458510
+Cw value = 411
+phyMode OfdmRate54Mbps   Thr 22.149Mbit/s   delay sum +93463645703747.0ns   delay +496919737.0ns   lost:188086   send:458510
+Cw value = 412
+phyMode OfdmRate54Mbps   Thr 21.007Mbit/s   delay sum +88621147756452.0ns   delay +496788728.0ns   lost:178388   send:458510
+Cw value = 413
+phyMode OfdmRate54Mbps   Thr 22.2744Mbit/s   delay sum +94006425231511.0ns   delay +496991426.0ns   lost:189151   send:458510
+Cw value = 414
+phyMode OfdmRate54Mbps   Thr 21.926Mbit/s   delay sum +92523744162434.0ns   delay +496926528.0ns   lost:186192   send:458510
+Cw value = 415
+phyMode OfdmRate54Mbps   Thr 21.4784Mbit/s   delay sum +90615870791641.0ns   delay +496822051.0ns   lost:182391   send:458510
+Cw value = 416
+phyMode OfdmRate54Mbps   Thr 21.3328Mbit/s   delay sum +90012324495511.0ns   delay +496880155.0ns   lost:181155   send:458510
+Cw value = 417
+phyMode OfdmRate54Mbps   Thr 20.573Mbit/s   delay sum +86793203869145.0ns   delay +496804312.0ns   lost:174703   send:458510
+Cw value = 418
+phyMode OfdmRate54Mbps   Thr 19.9808Mbit/s   delay sum +84285583667717.0ns   delay +496750142.0ns   lost:169674   send:458510
+Cw value = 419
+phyMode OfdmRate54Mbps   Thr 20.1312Mbit/s   delay sum +84920374378069.0ns   delay +496752720.0ns   lost:170951   send:458510
+Cw value = 420
+phyMode OfdmRate54Mbps   Thr 22.1833Mbit/s   delay sum +93613726898948.0ns   delay +496948814.0ns   lost:188377   send:458510
+Cw value = 421
+phyMode OfdmRate54Mbps   Thr 22.1671Mbit/s   delay sum +93546952008746.0ns   delay +496955758.0ns   lost:188240   send:458510
+Cw value = 422
+phyMode OfdmRate54Mbps   Thr 21.1476Mbit/s   delay sum +89230664061194.0ns   delay +496879776.0ns   lost:179582   send:458510
+Cw value = 423
+phyMode OfdmRate54Mbps   Thr 21.5869Mbit/s   delay sum +91084988020603.0ns   delay +496882316.0ns   lost:183313   send:458510
+Cw value = 424
+phyMode OfdmRate54Mbps   Thr 20.5416Mbit/s   delay sum +86648789621652.0ns   delay +496736852.0ns   lost:174436   send:458510
+Cw value = 425
+phyMode OfdmRate54Mbps   Thr 20.4263Mbit/s   delay sum +86178431447557.0ns   delay +496828790.0ns   lost:173457   send:458510
+Cw value = 426
+phyMode OfdmRate54Mbps   Thr 20.4448Mbit/s   delay sum +86262351934825.0ns   delay +496862879.0ns   lost:173614   send:458510
+Cw value = 427
+phyMode OfdmRate54Mbps   Thr 21.8199Mbit/s   delay sum +92086800981192.0ns   delay +496984748.0ns   lost:185291   send:458510
+Cw value = 428
+phyMode OfdmRate54Mbps   Thr 20.2977Mbit/s   delay sum +85645066772648.0ns   delay +496882004.0ns   lost:172365   send:458510
+Cw value = 429
+phyMode OfdmRate54Mbps   Thr 20.5941Mbit/s   delay sum +86893186442017.0ns   delay +496867524.0ns   lost:174882   send:458510
+Cw value = 430
+phyMode OfdmRate54Mbps   Thr 19.8762Mbit/s   delay sum +83850894063354.0ns   delay +496788205.0ns   lost:168786   send:458510
+Cw value = 431
+phyMode OfdmRate54Mbps   Thr 20.0437Mbit/s   delay sum +84550062015421.0ns   delay +496745523.0ns   lost:170208   send:458510
+Cw value = 432
+phyMode OfdmRate54Mbps   Thr 21.1654Mbit/s   delay sum +89317110001155.0ns   delay +496943299.0ns   lost:179733   send:458510
+Cw value = 433
+phyMode OfdmRate54Mbps   Thr 21.4509Mbit/s   delay sum +90529841229161.0ns   delay +496985261.0ns   lost:182158   send:458510
+Cw value = 434
+phyMode OfdmRate54Mbps   Thr 20.7367Mbit/s   delay sum +87501972096269.0ns   delay +496907725.0ns   lost:176093   send:458510
+Cw value = 435
+phyMode OfdmRate54Mbps   Thr 21.5937Mbit/s   delay sum +91136429962329.0ns   delay +497008398.0ns   lost:183370   send:458510
+Cw value = 436
+phyMode OfdmRate54Mbps   Thr 21.6693Mbit/s   delay sum +91452110994547.0ns   delay +496989929.0ns   lost:184012   send:458510
+Cw value = 437
+phyMode OfdmRate54Mbps   Thr 21.7877Mbit/s   delay sum +91947311244503.0ns   delay +496964139.0ns   lost:185018   send:458510
+Cw value = 438
+phyMode OfdmRate54Mbps   Thr 21.8069Mbit/s   delay sum +92019773874102.0ns   delay +496918009.0ns   lost:185181   send:458510
+Cw value = 439
+phyMode OfdmRate54Mbps   Thr 19.7708Mbit/s   delay sum +83407765665835.0ns   delay +496797122.0ns   lost:167891   send:458510
+Cw value = 440
+phyMode OfdmRate54Mbps   Thr 20.774Mbit/s   delay sum +87663167003350.0ns   delay +496928558.0ns   lost:176410   send:458510
+Cw value = 441
+phyMode OfdmRate54Mbps   Thr 17.9139Mbit/s   delay sum +75557490689987.0ns   delay +496690095.0ns   lost:152122   send:458510
+Cw value = 442
+phyMode OfdmRate54Mbps   Thr 21.2485Mbit/s   delay sum +89663298795304.0ns   delay +496917511.0ns   lost:180439   send:458510
+Cw value = 443
+phyMode OfdmRate54Mbps   Thr 21.5762Mbit/s   delay sum +91052403427478.0ns   delay +496951258.0ns   lost:183222   send:458510
+Cw value = 444
+phyMode OfdmRate54Mbps   Thr 20.1412Mbit/s   delay sum +84985572002154.0ns   delay +496887041.0ns   lost:171036   send:458510
+Cw value = 445
+phyMode OfdmRate54Mbps   Thr 21.6297Mbit/s   delay sum +91293382387226.0ns   delay +497034900.0ns   lost:183676   send:458510
+Cw value = 446
+phyMode OfdmRate54Mbps   Thr 21.1707Mbit/s   delay sum +89326031951536.0ns   delay +496868537.0ns   lost:179778   send:458510
+Cw value = 447
+phyMode OfdmRate54Mbps   Thr 21.4284Mbit/s   delay sum +90436142961705.0ns   delay +496991998.0ns   lost:181967   send:458510
+Cw value = 448
+phyMode OfdmRate54Mbps   Thr 21.7003Mbit/s   delay sum +91580996784686.0ns   delay +496977342.0ns   lost:184276   send:458510
+Cw value = 449
+phyMode OfdmRate54Mbps   Thr 21.0571Mbit/s   delay sum +88861717977118.0ns   delay +496950563.0ns   lost:178814   send:458510
+Cw value = 450
+phyMode OfdmRate54Mbps   Thr 21.4646Mbit/s   delay sum +90577781359518.0ns   delay +496931988.0ns   lost:182274   send:458510
+Cw value = 451
+phyMode OfdmRate54Mbps   Thr 19.051Mbit/s   delay sum +80359623052313.0ns   delay +496727756.0ns   lost:161778   send:458510
+Cw value = 452
+phyMode OfdmRate54Mbps   Thr 19.9012Mbit/s   delay sum +83972945215629.0ns   delay +496887212.0ns   lost:168998   send:458510
+Cw value = 453
+phyMode OfdmRate54Mbps   Thr 21.4747Mbit/s   delay sum +90631786714307.0ns   delay +496993785.0ns   lost:182360   send:458510
+Cw value = 454
+phyMode OfdmRate54Mbps   Thr 19.9586Mbit/s   delay sum +84208080719749.0ns   delay +496846804.0ns   lost:169485   send:458510
+Cw value = 455
+phyMode OfdmRate54Mbps   Thr 21.2967Mbit/s   delay sum +89867787504587.0ns   delay +496924419.0ns   lost:180848   send:458510
+Cw value = 456
+phyMode OfdmRate54Mbps   Thr 20.7255Mbit/s   delay sum +87458593163351.0ns   delay +496929471.0ns   lost:175998   send:458510
+Cw value = 457
+phyMode OfdmRate54Mbps   Thr 20.1408Mbit/s   delay sum +84994954341314.0ns   delay +496950613.0ns   lost:171033   send:458510
+Cw value = 458
+phyMode OfdmRate54Mbps   Thr 19.388Mbit/s   delay sum +81800965983601.0ns   delay +496847461.0ns   lost:164640   send:458510
+Cw value = 459
+phyMode OfdmRate54Mbps   Thr 19.8178Mbit/s   delay sum +83606661057063.0ns   delay +496801123.0ns   lost:168290   send:458510
+Cw value = 460
+phyMode OfdmRate54Mbps   Thr 21.1274Mbit/s   delay sum +89171867662362.0ns   delay +497025643.0ns   lost:179411   send:458510
+Cw value = 461
+phyMode OfdmRate54Mbps   Thr 19.964Mbit/s   delay sum +84225703232172.0ns   delay +496815940.0ns   lost:169531   send:458510
+Cw value = 462
+phyMode OfdmRate54Mbps   Thr 19.8248Mbit/s   delay sum +83645381978917.0ns   delay +496857017.0ns   lost:168349   send:458510
+Cw value = 463
+phyMode OfdmRate54Mbps   Thr 19.8908Mbit/s   delay sum +83930851248936.0ns   delay +496896875.0ns   lost:168910   send:458510
+Cw value = 464
+phyMode OfdmRate54Mbps   Thr 21.2743Mbit/s   delay sum +89785228624431.0ns   delay +496990050.0ns   lost:180658   send:458510
+Cw value = 465
+phyMode OfdmRate54Mbps   Thr 21.3911Mbit/s   delay sum +90281341513370.0ns   delay +497007109.0ns   lost:181650   send:458510
+Cw value = 466
+phyMode OfdmRate54Mbps   Thr 21.1124Mbit/s   delay sum +89114592165554.0ns   delay +497061027.0ns   lost:179283   send:458510
+Cw value = 467
+phyMode OfdmRate54Mbps   Thr 20.7401Mbit/s   delay sum +87529522556477.0ns   delay +496982333.0ns   lost:176122   send:458510
+Cw value = 468
+phyMode OfdmRate54Mbps   Thr 20.8605Mbit/s   delay sum +88046585024666.0ns   delay +497033966.0ns   lost:177144   send:458510
+Cw value = 469
+phyMode OfdmRate54Mbps   Thr 20.045Mbit/s   delay sum +84593247029546.0ns   delay +496967124.0ns   lost:170219   send:458510
+Cw value = 470
+phyMode OfdmRate54Mbps   Thr 19.6169Mbit/s   delay sum +82771707999625.0ns   delay +496876698.0ns   lost:166584   send:458510
+Cw value = 471
+phyMode OfdmRate54Mbps   Thr 20.0362Mbit/s   delay sum +84550654477178.0ns   delay +496935857.0ns   lost:170144   send:458510
+Cw value = 472
+phyMode OfdmRate54Mbps   Thr 20.7357Mbit/s   delay sum +87505749851209.0ns   delay +496954577.0ns   lost:176084   send:458510
+Cw value = 473
+phyMode OfdmRate54Mbps   Thr 20.9614Mbit/s   delay sum +88481853950196.0ns   delay +497086274.0ns   lost:178001   send:458510
+Cw value = 474
+phyMode OfdmRate54Mbps   Thr 20.1222Mbit/s   delay sum +84916186309662.0ns   delay +496949151.0ns   lost:170875   send:458510
+Cw value = 475
+phyMode OfdmRate54Mbps   Thr 20.3131Mbit/s   delay sum +85725158274886.0ns   delay +496968963.0ns   lost:172496   send:458510
+Cw value = 476
+phyMode OfdmRate54Mbps   Thr 20.0575Mbit/s   delay sum +84646460222083.0ns   delay +496970264.0ns   lost:170325   send:458510
+Cw value = 477
+phyMode OfdmRate54Mbps   Thr 20.921Mbit/s   delay sum +88295940795654.0ns   delay +496999520.0ns   lost:177658   send:458510
+Cw value = 478
+phyMode OfdmRate54Mbps   Thr 20.7155Mbit/s   delay sum +87422045856107.0ns   delay +496961826.0ns   lost:175913   send:458510
+Cw value = 479
+phyMode OfdmRate54Mbps   Thr 20.2311Mbit/s   delay sum +85353871293511.0ns   delay +496824028.0ns   lost:171799   send:458510
+Cw value = 480
+phyMode OfdmRate54Mbps   Thr 20.5432Mbit/s   delay sum +86695215721916.0ns   delay +496963116.0ns   lost:174450   send:458510
+Cw value = 481
+phyMode OfdmRate54Mbps   Thr 20.8329Mbit/s   delay sum +87911647810534.0ns   delay +496928651.0ns   lost:176910   send:458510
+Cw value = 482
+phyMode OfdmRate54Mbps   Thr 20.2591Mbit/s   delay sum +85503788414467.0ns   delay +497008134.0ns   lost:172037   send:458510
+Cw value = 483
+phyMode OfdmRate54Mbps   Thr 21.0775Mbit/s   delay sum +88961460878025.0ns   delay +497027498.0ns   lost:178987   send:458510
+Cw value = 484
+phyMode OfdmRate54Mbps   Thr 18.8129Mbit/s   delay sum +79370226921363.0ns   delay +496821571.0ns   lost:159756   send:458510
+Cw value = 485
+phyMode OfdmRate54Mbps   Thr 21.0456Mbit/s   delay sum +88826495786103.0ns   delay +497025984.0ns   lost:178716   send:458510
+Cw value = 486
+phyMode OfdmRate54Mbps   Thr 19.6896Mbit/s   delay sum +83089303338181.0ns   delay +496942621.0ns   lost:167201   send:458510
+Cw value = 487
+phyMode OfdmRate54Mbps   Thr 20.9608Mbit/s   delay sum +88467040135818.0ns   delay +497017012.0ns   lost:177996   send:458510
+Cw value = 488
+phyMode OfdmRate54Mbps   Thr 20.6538Mbit/s   delay sum +87168921435508.0ns   delay +497003355.0ns   lost:175389   send:458510
+Cw value = 489
+phyMode OfdmRate54Mbps   Thr 20.9635Mbit/s   delay sum +88480245505001.0ns   delay +497026977.0ns   lost:178019   send:458510
+Cw value = 490
+phyMode OfdmRate54Mbps   Thr 18.6719Mbit/s   delay sum +78781654059556.0ns   delay +496860184.0ns   lost:158559   send:458510
+Cw value = 491
+phyMode OfdmRate54Mbps   Thr 20.3327Mbit/s   delay sum +85805737896422.0ns   delay +496957859.0ns   lost:172662   send:458510
+Cw value = 492
+phyMode OfdmRate54Mbps   Thr 20.6552Mbit/s   delay sum +87177916536315.0ns   delay +497020635.0ns   lost:175401   send:458510
+Cw value = 493
+phyMode OfdmRate54Mbps   Thr 20.9583Mbit/s   delay sum +88454508730731.0ns   delay +497005246.0ns   lost:177975   send:458510
+Cw value = 494
+phyMode OfdmRate54Mbps   Thr 18.9048Mbit/s   delay sum +79773186562154.0ns   delay +496914646.0ns   lost:160537   send:458510
+Cw value = 495
+phyMode OfdmRate54Mbps   Thr 20.8069Mbit/s   delay sum +87820320398167.0ns   delay +497033320.0ns   lost:176689   send:458510
+Cw value = 496
+phyMode OfdmRate54Mbps   Thr 19.7273Mbit/s   delay sum +83253658752638.0ns   delay +496974461.0ns   lost:167521   send:458510
+Cw value = 497
+phyMode OfdmRate54Mbps   Thr 20.0768Mbit/s   delay sum +84730400354733.0ns   delay +496984558.0ns   lost:170489   send:458510
+Cw value = 498
+phyMode OfdmRate54Mbps   Thr 19.4384Mbit/s   delay sum +82030320290216.0ns   delay +496948653.0ns   lost:165068   send:458510
+Cw value = 499
+phyMode OfdmRate54Mbps   Thr 19.998Mbit/s   delay sum +84406131691635.0ns   delay +497032927.0ns   lost:169820   send:458510
+Cw value = 500
+phyMode OfdmRate54Mbps   Thr 19.5727Mbit/s   delay sum +82596998286335.0ns   delay +496949595.0ns   lost:166208   send:458510
+Cw value = 501
+phyMode OfdmRate54Mbps   Thr 20.5996Mbit/s   delay sum +86948959105064.0ns   delay +497052856.0ns   lost:174929   send:458510
+Cw value = 502
+phyMode OfdmRate54Mbps   Thr 19.641Mbit/s   delay sum +82895323596273.0ns   delay +497010118.0ns   lost:166788   send:458510
+Cw value = 503
+phyMode OfdmRate54Mbps   Thr 20.7952Mbit/s   delay sum +87771584761723.0ns   delay +497035985.0ns   lost:176590   send:458510
+Cw value = 504
+phyMode OfdmRate54Mbps   Thr 19.8712Mbit/s   delay sum +83861155707756.0ns   delay +496975612.0ns   lost:168743   send:458510
+Cw value = 505
+phyMode OfdmRate54Mbps   Thr 20.1981Mbit/s   delay sum +85252700279702.0ns   delay +497045226.0ns   lost:171519   send:458510
+Cw value = 506
+phyMode OfdmRate54Mbps   Thr 19.6836Mbit/s   delay sum +83064242438423.0ns   delay +496944316.0ns   lost:167150   send:458510
+Cw value = 507
+phyMode OfdmRate54Mbps   Thr 18.8318Mbit/s   delay sum +79472678335123.0ns   delay +496962038.0ns   lost:159917   send:458510
+Cw value = 508
+phyMode OfdmRate54Mbps   Thr 20.6098Mbit/s   delay sum +86988731641864.0ns   delay +497035863.0ns   lost:175015   send:458510
+Cw value = 509
+phyMode OfdmRate54Mbps   Thr 20.6603Mbit/s   delay sum +87205144532474.0ns   delay +497054014.0ns   lost:175444   send:458510
+Cw value = 510
+phyMode OfdmRate54Mbps   Thr 19.3648Mbit/s   delay sum +81717455929921.0ns   delay +496934840.0ns   lost:164443   send:458510
+Cw value = 511
+phyMode OfdmRate54Mbps   Thr 20.6313Mbit/s   delay sum +87090675017428.0ns   delay +497098568.0ns   lost:175198   send:458510
+Cw value = 512
+phyMode OfdmRate54Mbps   Thr 20.5111Mbit/s   delay sum +86574960057812.0ns   delay +497051620.0ns   lost:174177   send:458510
+Cw value = 513
+phyMode OfdmRate54Mbps   Thr 20.3919Mbit/s   delay sum +86062839241291.0ns   delay +496999042.0ns   lost:173165   send:458510
+Cw value = 514
+phyMode OfdmRate54Mbps   Thr 19.902Mbit/s   delay sum +83991290979916.0ns   delay +496975184.0ns   lost:169005   send:458510
+Cw value = 515
+phyMode OfdmRate54Mbps   Thr 20.3112Mbit/s   delay sum +85722602180521.0ns   delay +497000244.0ns   lost:172480   send:458510
+Cw value = 516
+phyMode OfdmRate54Mbps   Thr 20.0816Mbit/s   delay sum +84768091266302.0ns   delay +497086091.0ns   lost:170530   send:458510
+Cw value = 517
+phyMode OfdmRate54Mbps   Thr 20.0416Mbit/s   delay sum +84590426788767.0ns   delay +497035235.0ns   lost:170190   send:458510
+Cw value = 518
+phyMode OfdmRate54Mbps   Thr 19.0986Mbit/s   delay sum +80598048908388.0ns   delay +496960506.0ns   lost:162182   send:458510
+Cw value = 519
+phyMode OfdmRate54Mbps   Thr 19.948Mbit/s   delay sum +84187461446436.0ns   delay +496989057.0ns   lost:169395   send:458510
+Cw value = 520
+phyMode OfdmRate54Mbps   Thr 19.8291Mbit/s   delay sum +83685225724584.0ns   delay +496984462.0ns   lost:168386   send:458510
+Cw value = 521
+phyMode OfdmRate54Mbps   Thr 20.1366Mbit/s   delay sum +84988451554199.0ns   delay +497017208.0ns   lost:170997   send:458510
+Cw value = 522
+phyMode OfdmRate54Mbps   Thr 18.6232Mbit/s   delay sum +78580059558735.0ns   delay +496886145.0ns   lost:158145   send:458510
+Cw value = 523
+phyMode OfdmRate54Mbps   Thr 18.0036Mbit/s   delay sum +75950107552480.0ns   delay +496782577.0ns   lost:152884   send:458510
+Cw value = 524
+phyMode OfdmRate54Mbps   Thr 19.2556Mbit/s   delay sum +81265201116997.0ns   delay +496986234.0ns   lost:163516   send:458510
+Cw value = 525
+phyMode OfdmRate54Mbps   Thr 19.6905Mbit/s   delay sum +83103418124559.0ns   delay +497003260.0ns   lost:167209   send:458510
+Cw value = 526
+phyMode OfdmRate54Mbps   Thr 17.3019Mbit/s   delay sum +72988627932479.0ns   delay +496774734.0ns   lost:146925   send:458510
+Cw value = 527
+phyMode OfdmRate54Mbps   Thr 18.3518Mbit/s   delay sum +77428183381872.0ns   delay +496840904.0ns   lost:155841   send:458510
+Cw value = 528
+phyMode OfdmRate54Mbps   Thr 20.2474Mbit/s   delay sum +85464963472010.0ns   delay +497068498.0ns   lost:171938   send:458510
+Cw value = 529
+phyMode OfdmRate54Mbps   Thr 18.9821Mbit/s   delay sum +80122595849545.0ns   delay +497060020.0ns   lost:161193   send:458510
+Cw value = 530
+phyMode OfdmRate54Mbps   Thr 18.574Mbit/s   delay sum +78378998636685.0ns   delay +496925077.0ns   lost:157728   send:458510
+Cw value = 531
+phyMode OfdmRate54Mbps   Thr 19.2405Mbit/s   delay sum +81206057673841.0ns   delay +497016639.0ns   lost:163387   send:458510
+Cw value = 532
+phyMode OfdmRate54Mbps   Thr 18.6103Mbit/s   delay sum +78541936938944.0ns   delay +496987629.0ns   lost:158036   send:458510
+Cw value = 533
+phyMode OfdmRate54Mbps   Thr 19.1544Mbit/s   delay sum +80828849204808.0ns   delay +496931248.0ns   lost:162656   send:458510
+Cw value = 534
+phyMode OfdmRate54Mbps   Thr 20.2865Mbit/s   delay sum +85632439773456.0ns   delay +497082717.0ns   lost:172270   send:458510
+Cw value = 535
+phyMode OfdmRate54Mbps   Thr 19.7644Mbit/s   delay sum +83418715168455.0ns   delay +497025162.0ns   lost:167836   send:458510
+Cw value = 536
+phyMode OfdmRate54Mbps   Thr 19.4001Mbit/s   delay sum +81888967463877.0ns   delay +497070998.0ns   lost:164743   send:458510
+Cw value = 537
+phyMode OfdmRate54Mbps   Thr 19.2502Mbit/s   delay sum +81258316090827.0ns   delay +497083967.0ns   lost:163470   send:458510
+Cw value = 538
+phyMode OfdmRate54Mbps   Thr 19.4888Mbit/s   delay sum +82260473827252.0ns   delay +497054151.0ns   lost:165496   send:458510
+Cw value = 539
+phyMode OfdmRate54Mbps   Thr 18.7861Mbit/s   delay sum +79278505390166.0ns   delay +496953565.0ns   lost:159529   send:458510
+Cw value = 540
+phyMode OfdmRate54Mbps   Thr 20.1471Mbit/s   delay sum +85036248150742.0ns   delay +497038028.0ns   lost:171086   send:458510
+Cw value = 541
+phyMode OfdmRate54Mbps   Thr 20.0172Mbit/s   delay sum +84497933042292.0ns   delay +497096374.0ns   lost:169983   send:458510
+Cw value = 542
+phyMode OfdmRate54Mbps   Thr 19.7567Mbit/s   delay sum +83396517956923.0ns   delay +497085419.0ns   lost:167771   send:458510
+Cw value = 543
+phyMode OfdmRate54Mbps   Thr 18.4595Mbit/s   delay sum +77887833491914.0ns   delay +496876230.0ns   lost:156755   send:458510
+Cw value = 544
+phyMode OfdmRate54Mbps   Thr 19.1329Mbit/s   delay sum +80748131314565.0ns   delay +496991095.0ns   lost:162474   send:458510
+Cw value = 545
+phyMode OfdmRate54Mbps   Thr 19.6382Mbit/s   delay sum +82886150367988.0ns   delay +497023658.0ns   lost:166765   send:458510
+Cw value = 546
+phyMode OfdmRate54Mbps   Thr 19.1855Mbit/s   delay sum +80976341410842.0ns   delay +497031312.0ns   lost:162920   send:458510
+Cw value = 547
+phyMode OfdmRate54Mbps   Thr 19.4266Mbit/s   delay sum +82003241710598.0ns   delay +497085748.0ns   lost:164968   send:458510
+Cw value = 548
+phyMode OfdmRate54Mbps   Thr 19.9624Mbit/s   delay sum +84262803088336.0ns   delay +497072895.0ns   lost:169518   send:458510
+Cw value = 549
+phyMode OfdmRate54Mbps   Thr 19.8021Mbit/s   delay sum +83602234954069.0ns   delay +497170692.0ns   lost:168156   send:458510
+Cw value = 550
+phyMode OfdmRate54Mbps   Thr 17.4286Mbit/s   delay sum +73535440873441.0ns   delay +496857729.0ns   lost:148001   send:458510
+Cw value = 551
+phyMode OfdmRate54Mbps   Thr 19.1122Mbit/s   delay sum +80664049006639.0ns   delay +497011971.0ns   lost:162298   send:458510
+Cw value = 552
+phyMode OfdmRate54Mbps   Thr 17.2826Mbit/s   delay sum +72910889756565.0ns   delay +496800170.0ns   lost:146761   send:458510
+Cw value = 553
+phyMode OfdmRate54Mbps   Thr 18.9106Mbit/s   delay sum +79815687561399.0ns   delay +497027683.0ns   lost:160586   send:458510
+Cw value = 554
+phyMode OfdmRate54Mbps   Thr 19.4691Mbit/s   delay sum +82182585498733.0ns   delay +497085118.0ns   lost:165329   send:458510
+Cw value = 555
+phyMode OfdmRate54Mbps   Thr 18.3326Mbit/s   delay sum +77365488889462.0ns   delay +496958394.0ns   lost:155678   send:458510
+Cw value = 556
+phyMode OfdmRate54Mbps   Thr 19.039Mbit/s   delay sum +80352105607687.0ns   delay +496994641.0ns   lost:161676   send:458510
+Cw value = 557
+phyMode OfdmRate54Mbps   Thr 18.7028Mbit/s   delay sum +78945249750862.0ns   delay +497070599.0ns   lost:158821   send:458510
+Cw value = 558
+phyMode OfdmRate54Mbps   Thr 19.7935Mbit/s   delay sum +83558753758397.0ns   delay +497127929.0ns   lost:168083   send:458510
+Cw value = 559
+phyMode OfdmRate54Mbps   Thr 19.1765Mbit/s   delay sum +80943992520534.0ns   delay +497064629.0ns   lost:162844   send:458510
+Cw value = 560
+phyMode OfdmRate54Mbps   Thr 18.0322Mbit/s   delay sum +76100572848961.0ns   delay +496976841.0ns   lost:153127   send:458510
+Cw value = 561
+phyMode OfdmRate54Mbps   Thr 19.2834Mbit/s   delay sum +81396958859909.0ns   delay +497074593.0ns   lost:163752   send:458510
+Cw value = 562
+phyMode OfdmRate54Mbps   Thr 18.808Mbit/s   delay sum +79390514542599.0ns   delay +497076132.0ns   lost:159715   send:458510
+Cw value = 563
+phyMode OfdmRate54Mbps   Thr 19.2596Mbit/s   delay sum +81294419745474.0ns   delay +497061569.0ns   lost:163550   send:458510
+Cw value = 564
+phyMode OfdmRate54Mbps   Thr 19.8296Mbit/s   delay sum +83705765310803.0ns   delay +497094633.0ns   lost:168390   send:458510
+Cw value = 565
+phyMode OfdmRate54Mbps   Thr 17.8224Mbit/s   delay sum +75216745940153.0ns   delay +496988641.0ns   lost:151345   send:458510
+Cw value = 566
+phyMode OfdmRate54Mbps   Thr 17.7604Mbit/s   delay sum +74949509533163.0ns   delay +496950049.0ns   lost:150819   send:458510
+Cw value = 567
+phyMode OfdmRate54Mbps   Thr 17.1208Mbit/s   delay sum +72227832888903.0ns   delay +496797051.0ns   lost:145387   send:458510
+Cw value = 568
+phyMode OfdmRate54Mbps   Thr 19.6072Mbit/s   delay sum +82766556000888.0ns   delay +497093446.0ns   lost:166501   send:458510
+Cw value = 569
+phyMode OfdmRate54Mbps   Thr 19.044Mbit/s   delay sum +80372100304560.0ns   delay +496986132.0ns   lost:161719   send:458510
+Cw value = 570
+phyMode OfdmRate54Mbps   Thr 17.7212Mbit/s   delay sum +74791538612140.0ns   delay +496999977.0ns   lost:150486   send:458510
+Cw value = 571
+phyMode OfdmRate54Mbps   Thr 18.8654Mbit/s   delay sum +79626841973990.0ns   delay +497040249.0ns   lost:160202   send:458510
+Cw value = 572
+phyMode OfdmRate54Mbps   Thr 16.6661Mbit/s   delay sum +70308445129958.0ns   delay +496788188.0ns   lost:141526   send:458510
+Cw value = 573
+phyMode OfdmRate54Mbps   Thr 19.0063Mbit/s   delay sum +80233268350673.0ns   delay +497111310.0ns   lost:161399   send:458510
+Cw value = 574
+phyMode OfdmRate54Mbps   Thr 19.2295Mbit/s   delay sum +81163679815978.0ns   delay +497040184.0ns   lost:163294   send:458510
+Cw value = 575
+phyMode OfdmRate54Mbps   Thr 19.167Mbit/s   delay sum +80910052931000.0ns   delay +497103475.0ns   lost:162763   send:458510
+Cw value = 576
+phyMode OfdmRate54Mbps   Thr 18.3052Mbit/s   delay sum +77266417381997.0ns   delay +497065955.0ns   lost:155445   send:458510
+Cw value = 577
+phyMode OfdmRate54Mbps   Thr 19.2581Mbit/s   delay sum +81300259260547.0ns   delay +497136790.0ns   lost:163537   send:458510
+Cw value = 578
+phyMode OfdmRate54Mbps   Thr 17.9555Mbit/s   delay sum +75774720197118.0ns   delay +496964880.0ns   lost:152475   send:458510
+Cw value = 579
+phyMode OfdmRate54Mbps   Thr 18.5302Mbit/s   delay sum +78218118702634.0ns   delay +497077446.0ns   lost:157356   send:458510
+Cw value = 580
+phyMode OfdmRate54Mbps   Thr 18.6554Mbit/s   delay sum +78745354907621.0ns   delay +497070142.0ns   lost:158419   send:458510
+Cw value = 581
+phyMode OfdmRate54Mbps   Thr 19.3088Mbit/s   delay sum +81506260123470.0ns   delay +497089415.0ns   lost:163967   send:458510
+Cw value = 582
+phyMode OfdmRate54Mbps   Thr 19.1333Mbit/s   delay sum +80759513735293.0ns   delay +497051974.0ns   lost:162477   send:458510
+Cw value = 583
+phyMode OfdmRate54Mbps   Thr 19.241Mbit/s   delay sum +81221654672855.0ns   delay +497096887.0ns   lost:163392   send:458510
+Cw value = 584
+phyMode OfdmRate54Mbps   Thr 19.2651Mbit/s   delay sum +81323790170928.0ns   delay +497101336.0ns   lost:163596   send:458510
+Cw value = 585
+phyMode OfdmRate54Mbps   Thr 19.0394Mbit/s   delay sum +80381221660478.0ns   delay +497162429.0ns   lost:161680   send:458510
+Cw value = 586
+phyMode OfdmRate54Mbps   Thr 18.8522Mbit/s   delay sum +79585729517108.0ns   delay +497131173.0ns   lost:160090   send:458510
+Cw value = 587
+phyMode OfdmRate54Mbps   Thr 19.0445Mbit/s   delay sum +80392599994109.0ns   delay +497100597.0ns   lost:161723   send:458510
+Cw value = 588
+phyMode OfdmRate54Mbps   Thr 19.4625Mbit/s   delay sum +82160034838660.0ns   delay +497117102.0ns   lost:165273   send:458510
+Cw value = 589
+phyMode OfdmRate54Mbps   Thr 18.2892Mbit/s   delay sum +77187612127500.0ns   delay +496993813.0ns   lost:155309   send:458510
+Cw value = 590
+phyMode OfdmRate54Mbps   Thr 17.8409Mbit/s   delay sum +75295011739134.0ns   delay +496990216.0ns   lost:151502   send:458510
+Cw value = 591
+phyMode OfdmRate54Mbps   Thr 17.9949Mbit/s   delay sum +75933035686947.0ns   delay +496911430.0ns   lost:152810   send:458510
+Cw value = 592
+phyMode OfdmRate54Mbps   Thr 17.7185Mbit/s   delay sum +74767402847437.0ns   delay +496915539.0ns   lost:150463   send:458510
+Cw value = 593
+phyMode OfdmRate54Mbps   Thr 17.8724Mbit/s   delay sum +75423076851610.0ns   delay +496956426.0ns   lost:151770   send:458510
+Cw value = 594
+phyMode OfdmRate54Mbps   Thr 18.7689Mbit/s   delay sum +79227041797379.0ns   delay +497085898.0ns   lost:159383   send:458510
+Cw value = 595
+phyMode OfdmRate54Mbps   Thr 19.348Mbit/s   delay sum +81676693348429.0ns   delay +497119253.0ns   lost:164300   send:458510
+Cw value = 596
+phyMode OfdmRate54Mbps   Thr 19.3391Mbit/s   delay sum +81641093436715.0ns   delay +497129507.0ns   lost:164225   send:458510
+Cw value = 597
+phyMode OfdmRate54Mbps   Thr 19.1938Mbit/s   delay sum +81022639255897.0ns   delay +497098853.0ns   lost:162991   send:458510
+Cw value = 598
+phyMode OfdmRate54Mbps   Thr 18.6248Mbit/s   delay sum +78616000944060.0ns   delay +497069410.0ns   lost:158159   send:458510
+Cw value = 599
+phyMode OfdmRate54Mbps   Thr 19.3103Mbit/s   delay sum +81526059598695.0ns   delay +497170750.0ns   lost:163980   send:458510
+Cw value = 600
+phyMode OfdmRate54Mbps   Thr 19.1409Mbit/s   delay sum +80806148264971.0ns   delay +497140113.0ns   lost:162542   send:458510
+Cw value = 601
+phyMode OfdmRate54Mbps   Thr 18.827Mbit/s   delay sum +79470430546317.0ns   delay +497075424.0ns   lost:159876   send:458510
+Cw value = 602
+phyMode OfdmRate54Mbps   Thr 17.6598Mbit/s   delay sum +74529175125162.0ns   delay +496980442.0ns   lost:149964   send:458510
+Cw value = 603
+phyMode OfdmRate54Mbps   Thr 18.2866Mbit/s   delay sum +77213219936438.0ns   delay +497229130.0ns   lost:155287   send:458510
+Cw value = 604
+phyMode OfdmRate54Mbps   Thr 19.0545Mbit/s   delay sum +80434967686954.0ns   delay +497101303.0ns   lost:161808   send:458510
+Cw value = 605
+phyMode OfdmRate54Mbps   Thr 19.0303Mbit/s   delay sum +80341211092715.0ns   delay +497154806.0ns   lost:161602   send:458510
+Cw value = 606
+phyMode OfdmRate54Mbps   Thr 18.3184Mbit/s   delay sum +77317607682350.0ns   delay +497037148.0ns   lost:155557   send:458510
+Cw value = 607
+phyMode OfdmRate54Mbps   Thr 17.951Mbit/s   delay sum +75766800749950.0ns   delay +497036813.0ns   lost:152437   send:458510
+Cw value = 608
+phyMode OfdmRate54Mbps   Thr 18.5425Mbit/s   delay sum +78271100537982.0ns   delay +497085612.0ns   lost:157460   send:458510
+Cw value = 609
+phyMode OfdmRate54Mbps   Thr 16.6972Mbit/s   delay sum +70459358696253.0ns   delay +496927559.0ns   lost:141790   send:458510
+Cw value = 610
+phyMode OfdmRate54Mbps   Thr 18.5758Mbit/s   delay sum +78422551312161.0ns   delay +497153923.0ns   lost:157743   send:458510
+Cw value = 611
+phyMode OfdmRate54Mbps   Thr 19.0984Mbit/s   delay sum +80620996437192.0ns   delay +497105064.0ns   lost:162181   send:458510
+Cw value = 612
+phyMode OfdmRate54Mbps   Thr 19.0613Mbit/s   delay sum +80467906521447.0ns   delay +497126675.0ns   lost:161866   send:458510
+Cw value = 613
+phyMode OfdmRate54Mbps   Thr 19.1165Mbit/s   delay sum +80709967416281.0ns   delay +497184615.0ns   lost:162334   send:458510
+Cw value = 614
+phyMode OfdmRate54Mbps   Thr 17.8375Mbit/s   delay sum +75295414055753.0ns   delay +497088022.0ns   lost:151473   send:458510
+Cw value = 615
+phyMode OfdmRate54Mbps   Thr 17.9818Mbit/s   delay sum +75900408152249.0ns   delay +497058973.0ns   lost:152699   send:458510
+Cw value = 616
+phyMode OfdmRate54Mbps   Thr 18.1917Mbit/s   delay sum +76789468731961.0ns   delay +497080344.0ns   lost:154481   send:458510
+Cw value = 617
+phyMode OfdmRate54Mbps   Thr 18.196Mbit/s   delay sum +76802414144209.0ns   delay +497045096.0ns   lost:154518   send:458510
+Cw value = 618
+phyMode OfdmRate54Mbps   Thr 18.9373Mbit/s   delay sum +79952579027105.0ns   delay +497177336.0ns   lost:160813   send:458510
+Cw value = 619
+phyMode OfdmRate54Mbps   Thr 17.0056Mbit/s   delay sum +71756085542906.0ns   delay +496894830.0ns   lost:144409   send:458510
+Cw value = 620
+phyMode OfdmRate54Mbps   Thr 17.7308Mbit/s   delay sum +74850974707152.0ns   delay +497127356.0ns   lost:150567   send:458510
+Cw value = 621
+phyMode OfdmRate54Mbps   Thr 18.402Mbit/s   delay sum +77681785342328.0ns   delay +497109340.0ns   lost:156267   send:458510
+Cw value = 622
+phyMode OfdmRate54Mbps   Thr 18.4551Mbit/s   delay sum +77908141232621.0ns   delay +497123120.0ns   lost:156718   send:458510
+Cw value = 623
+phyMode OfdmRate54Mbps   Thr 18.5322Mbit/s   delay sum +78234450125013.0ns   delay +497127525.0ns   lost:157373   send:458510
+Cw value = 624
+phyMode OfdmRate54Mbps   Thr 18.4809Mbit/s   delay sum +78024596262648.0ns   delay +497171452.0ns   lost:156937   send:458510
+Cw value = 625
+phyMode OfdmRate54Mbps   Thr 18.9245Mbit/s   delay sum +79899912309619.0ns   delay +497186829.0ns   lost:160704   send:458510
+Cw value = 626
+phyMode OfdmRate54Mbps   Thr 17.9054Mbit/s   delay sum +75582044148113.0ns   delay +497086775.0ns   lost:152050   send:458510
+Cw value = 627
+phyMode OfdmRate54Mbps   Thr 18.9084Mbit/s   delay sum +79823767403488.0ns   delay +497136817.0ns   lost:160567   send:458510
+Cw value = 628
+phyMode OfdmRate54Mbps   Thr 18.5215Mbit/s   delay sum +78193021056308.0ns   delay +497151746.0ns   lost:157282   send:458510
+Cw value = 629
+phyMode OfdmRate54Mbps   Thr 18.4917Mbit/s   delay sum +78059361792431.0ns   delay +497101565.0ns   lost:157029   send:458510
+Cw value = 630
+phyMode OfdmRate54Mbps   Thr 18.2059Mbit/s   delay sum +76842423366219.0ns   delay +497033824.0ns   lost:154602   send:458510
+Cw value = 631
+phyMode OfdmRate54Mbps   Thr 17.9512Mbit/s   delay sum +75776271374787.0ns   delay +497092419.0ns   lost:152439   send:458510
+Cw value = 632
+phyMode OfdmRate54Mbps   Thr 18.2484Mbit/s   delay sum +77024851774210.0ns   delay +497053178.0ns   lost:154963   send:458510
+Cw value = 633
+phyMode OfdmRate54Mbps   Thr 18.7456Mbit/s   delay sum +79138940204953.0ns   delay +497150737.0ns   lost:159185   send:458510
+Cw value = 634
+phyMode OfdmRate54Mbps   Thr 18.7207Mbit/s   delay sum +79038655729469.0ns   delay +497182890.0ns   lost:158973   send:458510
+Cw value = 635
+phyMode OfdmRate54Mbps   Thr 16.6846Mbit/s   delay sum +70420630420459.0ns   delay +497029498.0ns   lost:141683   send:458510
+Cw value = 636
+phyMode OfdmRate54Mbps   Thr 17.832Mbit/s   delay sum +75283617707092.0ns   delay +497161125.0ns   lost:151427   send:458510
+Cw value = 637
+phyMode OfdmRate54Mbps   Thr 18.1206Mbit/s   delay sum +76498039075379.0ns   delay +497137577.0ns   lost:153877   send:458510
+Cw value = 638
+phyMode OfdmRate54Mbps   Thr 18.2439Mbit/s   delay sum +77023545838731.0ns   delay +497169875.0ns   lost:154924   send:458510
+Cw value = 639
+phyMode OfdmRate54Mbps   Thr 18.2766Mbit/s   delay sum +77160967162105.0ns   delay +497164773.0ns   lost:155202   send:458510
+Cw value = 640
+phyMode OfdmRate54Mbps   Thr 17.7078Mbit/s   delay sum +74745809033680.0ns   delay +497072653.0ns   lost:150372   send:458510
+Cw value = 641
+phyMode OfdmRate54Mbps   Thr 18.7185Mbit/s   delay sum +79023531309049.0ns   delay +497144042.0ns   lost:158955   send:458510
+Cw value = 642
+phyMode OfdmRate54Mbps   Thr 17.9909Mbit/s   delay sum +75953790054299.0ns   delay +497157865.0ns   lost:152776   send:458510
+Cw value = 643
+phyMode OfdmRate54Mbps   Thr 17.8412Mbit/s   delay sum +75319328223087.0ns   delay +497140874.0ns   lost:151505   send:458510
+Cw value = 644
+phyMode OfdmRate54Mbps   Thr 18.7042Mbit/s   delay sum +78970119303407.0ns   delay +497189622.0ns   lost:158833   send:458510
+Cw value = 645
+phyMode OfdmRate54Mbps   Thr 18.5547Mbit/s   delay sum +78340359329374.0ns   delay +497197071.0ns   lost:157564   send:458510
+Cw value = 646
+phyMode OfdmRate54Mbps   Thr 18.4853Mbit/s   delay sum +78031228444464.0ns   delay +497096515.0ns   lost:156974   send:458510
+Cw value = 647
+phyMode OfdmRate54Mbps   Thr 18.1024Mbit/s   delay sum +76415407546483.0ns   delay +497098076.0ns   lost:153723   send:458510
+Cw value = 648
+phyMode OfdmRate54Mbps   Thr 18.4443Mbit/s   delay sum +77871934941233.0ns   delay +497183960.0ns   lost:156626   send:458510
+Cw value = 649
+phyMode OfdmRate54Mbps   Thr 17.0922Mbit/s   delay sum +72143324715404.0ns   delay +497046551.0ns   lost:145144   send:458510
+Cw value = 650
+phyMode OfdmRate54Mbps   Thr 17.5809Mbit/s   delay sum +74220506141633.0ns   delay +497143261.0ns   lost:149294   send:458510
+Cw value = 651
+phyMode OfdmRate54Mbps   Thr 17.5192Mbit/s   delay sum +73966443354606.0ns   delay +497186552.0ns   lost:148770   send:458510
+Cw value = 652
+phyMode OfdmRate54Mbps   Thr 17.5041Mbit/s   delay sum +73892487059836.0ns   delay +497117147.0ns   lost:148642   send:458510
+Cw value = 653
+phyMode OfdmRate54Mbps   Thr 18.1496Mbit/s   delay sum +76626778348439.0ns   delay +497176159.0ns   lost:154124   send:458510
+Cw value = 654
+phyMode OfdmRate54Mbps   Thr 18.572Mbit/s   delay sum +78406930656543.0ns   delay +497155751.0ns   lost:157711   send:458510
+Cw value = 655
+phyMode OfdmRate54Mbps   Thr 18.0162Mbit/s   delay sum +76064430412359.0ns   delay +497182385.0ns   lost:152991   send:458510
+Cw value = 656
+phyMode OfdmRate54Mbps   Thr 18.0232Mbit/s   delay sum +76097748777248.0ns   delay +497208420.0ns   lost:153050   send:458510
+Cw value = 657
+phyMode OfdmRate54Mbps   Thr 18.0893Mbit/s   delay sum +76367947760132.0ns   delay +497148320.0ns   lost:153612   send:458510
+Cw value = 658
+phyMode OfdmRate54Mbps   Thr 14.8236Mbit/s   delay sum +62557922684783.0ns   delay +496964749.0ns   lost:125880   send:458510
+Cw value = 659
+phyMode OfdmRate54Mbps   Thr 18.5288Mbit/s   delay sum +78234238071335.0ns   delay +497217803.0ns   lost:157344   send:458510
+Cw value = 660
+phyMode OfdmRate54Mbps   Thr 18.0035Mbit/s   delay sum +76008896298437.0ns   delay +497170360.0ns   lost:152883   send:458510
+Cw value = 661
+phyMode OfdmRate54Mbps   Thr 15.6355Mbit/s   delay sum +65972898992740.0ns   delay +496881158.0ns   lost:132774   send:458510
+Cw value = 662
+phyMode OfdmRate54Mbps   Thr 18.4142Mbit/s   delay sum +77743988769748.0ns   delay +497176514.0ns   lost:156371   send:458510
+Cw value = 663
+phyMode OfdmRate54Mbps   Thr 17.431Mbit/s   delay sum +73593391921511.0ns   delay +497182102.0ns   lost:148021   send:458510
+Cw value = 664
+phyMode OfdmRate54Mbps   Thr 17.9259Mbit/s   delay sum +75672201505404.0ns   delay +497110846.0ns   lost:152224   send:458510
+Cw value = 665
+phyMode OfdmRate54Mbps   Thr 18.3841Mbit/s   delay sum +77624558586923.0ns   delay +497226778.0ns   lost:156115   send:458510
+Cw value = 666
+phyMode OfdmRate54Mbps   Thr 18.1781Mbit/s   delay sum +76748335461012.0ns   delay +497184195.0ns   lost:154366   send:458510
+Cw value = 667
+phyMode OfdmRate54Mbps   Thr 17.2668Mbit/s   delay sum +72885214821886.0ns   delay +497079083.0ns   lost:146627   send:458510
+Cw value = 668
+phyMode OfdmRate54Mbps   Thr 18.0082Mbit/s   delay sum +76026967319171.0ns   delay +497158487.0ns   lost:152923   send:458510
+Cw value = 669
+phyMode OfdmRate54Mbps   Thr 18.3021Mbit/s   delay sum +77272117261165.0ns   delay +497185783.0ns   lost:155419   send:458510
+Cw value = 670
+phyMode OfdmRate54Mbps   Thr 17.4819Mbit/s   delay sum +73806379412058.0ns   delay +497166660.0ns   lost:148454   send:458510
+Cw value = 671
+phyMode OfdmRate54Mbps   Thr 17.1648Mbit/s   delay sum +72462783699016.0ns   delay +497134238.0ns   lost:145761   send:458510
+Cw value = 672
+phyMode OfdmRate54Mbps   Thr 18.0685Mbit/s   delay sum +76284029380525.0ns   delay +497174890.0ns   lost:153435   send:458510
+Cw value = 673
+phyMode OfdmRate54Mbps   Thr 17.2969Mbit/s   delay sum +73023959672366.0ns   delay +497157327.0ns   lost:146883   send:458510
+Cw value = 674
+phyMode OfdmRate54Mbps   Thr 17.1878Mbit/s   delay sum +72544202630781.0ns   delay +497027889.0ns   lost:145956   send:458510
+Cw value = 675
+phyMode OfdmRate54Mbps   Thr 17.3883Mbit/s   delay sum +73393402430228.0ns   delay +497046589.0ns   lost:147659   send:458510
+Cw value = 676
+phyMode OfdmRate54Mbps   Thr 18.2357Mbit/s   delay sum +76993107275860.0ns   delay +497194842.0ns   lost:154855   send:458510
+Cw value = 677
+phyMode OfdmRate54Mbps   Thr 17.8852Mbit/s   delay sum +75506254655421.0ns   delay +497150704.0ns   lost:151878   send:458510
+Cw value = 678
+phyMode OfdmRate54Mbps   Thr 17.3899Mbit/s   delay sum +73426591818286.0ns   delay +497227584.0ns   lost:147672   send:458510
+Cw value = 679
+phyMode OfdmRate54Mbps   Thr 16.5644Mbit/s   delay sum +69928050929345.0ns   delay +497135338.0ns   lost:140662   send:458510
+Cw value = 680
+phyMode OfdmRate54Mbps   Thr 17.6844Mbit/s   delay sum +74675713319083.0ns   delay +497264576.0ns   lost:150173   send:458510
+Cw value = 681
+phyMode OfdmRate54Mbps   Thr 18.0571Mbit/s   delay sum +76241522355050.0ns   delay +497212187.0ns   lost:153338   send:458510
+Cw value = 682
+phyMode OfdmRate54Mbps   Thr 17.9586Mbit/s   delay sum +75815583477785.0ns   delay +497144847.0ns   lost:152502   send:458510
+Cw value = 683
+phyMode OfdmRate54Mbps   Thr 17.4013Mbit/s   delay sum +73456967299740.0ns   delay +497106749.0ns   lost:147769   send:458510
+Cw value = 684
+phyMode OfdmRate54Mbps   Thr 16.9408Mbit/s   delay sum +71516121650519.0ns   delay +497126503.0ns   lost:143859   send:458510
+Cw value = 685
+phyMode OfdmRate54Mbps   Thr 17.3894Mbit/s   delay sum +73410384067392.0ns   delay +497131294.0ns   lost:147668   send:458510
+Cw value = 686
+phyMode OfdmRate54Mbps   Thr 16.9501Mbit/s   delay sum +71547160524943.0ns   delay +497069297.0ns   lost:143938   send:458510
+Cw value = 687
+phyMode OfdmRate54Mbps   Thr 17.5453Mbit/s   delay sum +74069584488877.0ns   delay +497137997.0ns   lost:148992   send:458510
+Cw value = 688
+phyMode OfdmRate54Mbps   Thr 17.8873Mbit/s   delay sum +75518486903669.0ns   delay +497172321.0ns   lost:151896   send:458510
+Cw value = 689
+phyMode OfdmRate54Mbps   Thr 17.2567Mbit/s   delay sum +72854795795740.0ns   delay +497163222.0ns   lost:146541   send:458510
+Cw value = 690
+phyMode OfdmRate54Mbps   Thr 17.6811Mbit/s   delay sum +74652900738909.0ns   delay +497205373.0ns   lost:150145   send:458510
+Cw value = 691
+phyMode OfdmRate54Mbps   Thr 17.7826Mbit/s   delay sum +75084504548234.0ns   delay +497225324.0ns   lost:151007   send:458510
+Cw value = 692
+phyMode OfdmRate54Mbps   Thr 16.9032Mbit/s   delay sum +71352083113382.0ns   delay +497091961.0ns   lost:143539   send:458510
+Cw value = 693
+phyMode OfdmRate54Mbps   Thr 17.0312Mbit/s   delay sum +71904650338604.0ns   delay +497176512.0ns   lost:144626   send:458510
+Cw value = 694
+phyMode OfdmRate54Mbps   Thr 17.9927Mbit/s   delay sum +75965230185589.0ns   delay +497183932.0ns   lost:152791   send:458510
+Cw value = 695
+phyMode OfdmRate54Mbps   Thr 17.2954Mbit/s   delay sum +73018047187337.0ns   delay +497161075.0ns   lost:146870   send:458510
+Cw value = 696
+phyMode OfdmRate54Mbps   Thr 18.015Mbit/s   delay sum +76059647713233.0ns   delay +497183622.0ns   lost:152981   send:458510
+Cw value = 697
+phyMode OfdmRate54Mbps   Thr 16.6622Mbit/s   delay sum +70328695821982.0ns   delay +497047174.0ns   lost:141493   send:458510
+Cw value = 698
+phyMode OfdmRate54Mbps   Thr 17.8324Mbit/s   delay sum +75289747812451.0ns   delay +497191757.0ns   lost:151430   send:458510
+Cw value = 699
+phyMode OfdmRate54Mbps   Thr 16.9951Mbit/s   delay sum +71737830510214.0ns   delay +497074767.0ns   lost:144320   send:458510
+Cw value = 700
+phyMode OfdmRate54Mbps   Thr 17.3591Mbit/s   delay sum +73294378755037.0ns   delay +497211054.0ns   lost:147411   send:458510
+Cw value = 701
+phyMode OfdmRate54Mbps   Thr 17.3398Mbit/s   delay sum +73215016439831.0ns   delay +497225861.0ns   lost:147247   send:458510
+Cw value = 702
+phyMode OfdmRate54Mbps   Thr 17.0714Mbit/s   delay sum +72082309353811.0ns   delay +497229108.0ns   lost:144968   send:458510
+Cw value = 703
+phyMode OfdmRate54Mbps   Thr 17.7149Mbit/s   delay sum +74795857337803.0ns   delay +497207092.0ns   lost:150432   send:458510
+Cw value = 704
+phyMode OfdmRate54Mbps   Thr 17.9341Mbit/s   delay sum +75720404286837.0ns   delay +497198867.0ns   lost:152294   send:458510
+Cw value = 705
+phyMode OfdmRate54Mbps   Thr 15.7033Mbit/s   delay sum +66289445453307.0ns   delay +497108702.0ns   lost:133350   send:458510
+Cw value = 706
+phyMode OfdmRate54Mbps   Thr 17.9278Mbit/s   delay sum +75694309283237.0ns   delay +497203818.0ns   lost:152240   send:458510
+Cw value = 707
+phyMode OfdmRate54Mbps   Thr 16.8741Mbit/s   delay sum +71244120025195.0ns   delay +497195377.0ns   lost:143292   send:458510
+Cw value = 708
+phyMode OfdmRate54Mbps   Thr 17.716Mbit/s   delay sum +74810694139492.0ns   delay +497272664.0ns   lost:150442   send:458510
+Cw value = 709
+phyMode OfdmRate54Mbps   Thr 17.2063Mbit/s   delay sum +72643451961841.0ns   delay +497173091.0ns   lost:146113   send:458510
+Cw value = 710
+phyMode OfdmRate54Mbps   Thr 17.3344Mbit/s   delay sum +73197308686403.0ns   delay +497260947.0ns   lost:147201   send:458510
+Cw value = 711
+phyMode OfdmRate54Mbps   Thr 16.3839Mbit/s   delay sum +69156765144101.0ns   delay +497065802.0ns   lost:139130   send:458510
+Cw value = 712
+phyMode OfdmRate54Mbps   Thr 17.07Mbit/s   delay sum +72069876996772.0ns   delay +497184504.0ns   lost:144956   send:458510
+Cw value = 713
+phyMode OfdmRate54Mbps   Thr 17.8393Mbit/s   delay sum +75323593859444.0ns   delay +497221539.0ns   lost:151489   send:458510
+Cw value = 714
+phyMode OfdmRate54Mbps   Thr 15.9041Mbit/s   delay sum +67126783116571.0ns   delay +497032935.0ns   lost:135055   send:458510
+Cw value = 715
+phyMode OfdmRate54Mbps   Thr 17.2624Mbit/s   delay sum +72876146825220.0ns   delay +497142689.0ns   lost:146590   send:458510
+Cw value = 716
+phyMode OfdmRate54Mbps   Thr 17.584Mbit/s   delay sum +74256851954315.0ns   delay +497296776.0ns   lost:149321   send:458510
+Cw value = 717
+phyMode OfdmRate54Mbps   Thr 17.7387Mbit/s   delay sum +74894285724559.0ns   delay +497193765.0ns   lost:150634   send:458510
+Cw value = 718
+phyMode OfdmRate54Mbps   Thr 17.7086Mbit/s   delay sum +74772674096133.0ns   delay +497228164.0ns   lost:150379   send:458510
+Cw value = 719
+phyMode OfdmRate54Mbps   Thr 15.1952Mbit/s   delay sum +64130474971986.0ns   delay +497000619.0ns   lost:129035   send:458510
+Cw value = 720
+phyMode OfdmRate54Mbps   Thr 15.7318Mbit/s   delay sum +66410033333540.0ns   delay +497110854.0ns   lost:133592   send:458510
+Cw value = 721
+phyMode OfdmRate54Mbps   Thr 17.2855Mbit/s   delay sum +72997435934699.0ns   delay +497305164.0ns   lost:146786   send:458510
+Cw value = 722
+phyMode OfdmRate54Mbps   Thr 16.8562Mbit/s   delay sum +71160359803076.0ns   delay +497138185.0ns   lost:143140   send:458510
+Cw value = 723
+phyMode OfdmRate54Mbps   Thr 16.3136Mbit/s   delay sum +68864347538498.0ns   delay +497097063.0ns   lost:138533   send:458510
+Cw value = 724
+phyMode OfdmRate54Mbps   Thr 17.2193Mbit/s   delay sum +72716640573978.0ns   delay +497296207.0ns   lost:146224   send:458510
+Cw value = 725
+phyMode OfdmRate54Mbps   Thr 16.4838Mbit/s   delay sum +69596898155535.0ns   delay +497198832.0ns   lost:139978   send:458510
+Cw value = 726
+phyMode OfdmRate54Mbps   Thr 17.6921Mbit/s   delay sum +74697937575729.0ns   delay +497194054.0ns   lost:150239   send:458510
+Cw value = 727
+phyMode OfdmRate54Mbps   Thr 17.6459Mbit/s   delay sum +74506749405021.0ns   delay +497222144.0ns   lost:149846   send:458510
+Cw value = 728
+phyMode OfdmRate54Mbps   Thr 16.6478Mbit/s   delay sum +70277121032356.0ns   delay +497111296.0ns   lost:141371   send:458510
+Cw value = 729
+phyMode OfdmRate54Mbps   Thr 17.5008Mbit/s   delay sum +73901318610854.0ns   delay +497270234.0ns   lost:148614   send:458510
+Cw value = 730
+phyMode OfdmRate54Mbps   Thr 16.142Mbit/s   delay sum +68161222446647.0ns   delay +497254951.0ns   lost:137075   send:458510
+Cw value = 731
+phyMode OfdmRate54Mbps   Thr 15.1326Mbit/s   delay sum +63854001639571.0ns   delay +496902832.0ns   lost:128504   send:458510
+Cw value = 732
+phyMode OfdmRate54Mbps   Thr 16.1715Mbit/s   delay sum +68263647841193.0ns   delay +497091940.0ns   lost:137326   send:458510
+Cw value = 733
+phyMode OfdmRate54Mbps   Thr 17.5615Mbit/s   delay sum +74155798973847.0ns   delay +497256078.0ns   lost:149130   send:458510
+Cw value = 734
+phyMode OfdmRate54Mbps   Thr 17.2527Mbit/s   delay sum +72850403459438.0ns   delay +497248619.0ns   lost:146507   send:458510
+Cw value = 735
+phyMode OfdmRate54Mbps   Thr 16.3295Mbit/s   delay sum +68928610164937.0ns   delay +497076543.0ns   lost:138668   send:458510
+Cw value = 736
+phyMode OfdmRate54Mbps   Thr 17.4439Mbit/s   delay sum +73656859207249.0ns   delay +497241355.0ns   lost:148131   send:458510
+Cw value = 737
+phyMode OfdmRate54Mbps   Thr 17.0288Mbit/s   delay sum +71903493240331.0ns   delay +497237273.0ns   lost:144606   send:458510
+Cw value = 738
+phyMode OfdmRate54Mbps   Thr 16.0116Mbit/s   delay sum +67590684629330.0ns   delay +497107294.0ns   lost:135968   send:458510
+Cw value = 739
+phyMode OfdmRate54Mbps   Thr 16.6661Mbit/s   delay sum +70359191006865.0ns   delay +497146750.0ns   lost:141526   send:458510
+Cw value = 740
+phyMode OfdmRate54Mbps   Thr 15.5242Mbit/s   delay sum +65530161346854.0ns   delay +497084566.0ns   lost:131829   send:458510
+Cw value = 741
+phyMode OfdmRate54Mbps   Thr 17.2627Mbit/s   delay sum +72901109732669.0ns   delay +497306194.0ns   lost:146592   send:458510
+Cw value = 742
+phyMode OfdmRate54Mbps   Thr 17.258Mbit/s   delay sum +72873110077978.0ns   delay +497250873.0ns   lost:146552   send:458510
+Cw value = 743
+phyMode OfdmRate54Mbps   Thr 17.2635Mbit/s   delay sum +72901601506058.0ns   delay +497285803.0ns   lost:146599   send:458510
+Cw value = 744
+phyMode OfdmRate54Mbps   Thr 16.3039Mbit/s   delay sum +68818706841064.0ns   delay +497065415.0ns   lost:138450   send:458510
+Cw value = 745
+phyMode OfdmRate54Mbps   Thr 16.867Mbit/s   delay sum +71226653065552.0ns   delay +497281704.0ns   lost:143232   send:458510
+Cw value = 746
+phyMode OfdmRate54Mbps   Thr 16.1608Mbit/s   delay sum +68232096264317.0ns   delay +497191651.0ns   lost:137235   send:458510
+Cw value = 747
+phyMode OfdmRate54Mbps   Thr 15.4387Mbit/s   delay sum +65173039035327.0ns   delay +497113254.0ns   lost:131103   send:458510
+Cw value = 748
+phyMode OfdmRate54Mbps   Thr 16.0115Mbit/s   delay sum +67607509379685.0ns   delay +497234692.0ns   lost:135967   send:458510
+Cw value = 749
+phyMode OfdmRate54Mbps   Thr 17.42Mbit/s   delay sum +73551984926683.0ns   delay +497214759.0ns   lost:147928   send:458510
+Cw value = 750
+phyMode OfdmRate54Mbps   Thr 17.3503Mbit/s   delay sum +73261740484897.0ns   delay +497242632.0ns   lost:147336   send:458510
+Cw value = 751
+phyMode OfdmRate54Mbps   Thr 16.2903Mbit/s   delay sum +68765796045596.0ns   delay +497096150.0ns   lost:138335   send:458510
+Cw value = 752
+phyMode OfdmRate54Mbps   Thr 17.3724Mbit/s   delay sum +73365591076567.0ns   delay +497312919.0ns   lost:147524   send:458510
+Cw value = 753
+phyMode OfdmRate54Mbps   Thr 17.0993Mbit/s   delay sum +72199515929409.0ns   delay +497224723.0ns   lost:145205   send:458510
+Cw value = 754
+phyMode OfdmRate54Mbps   Thr 15.9505Mbit/s   delay sum +67352688412875.0ns   delay +497254969.0ns   lost:135449   send:458510
+Cw value = 755
+phyMode OfdmRate54Mbps   Thr 15.0023Mbit/s   delay sum +63320539417575.0ns   delay +497033206.0ns   lost:127397   send:458510
+Cw value = 756
+phyMode OfdmRate54Mbps   Thr 16.5715Mbit/s   delay sum +69967728552424.0ns   delay +497201797.0ns   lost:140723   send:458510
+Cw value = 757
+phyMode OfdmRate54Mbps   Thr 17.0423Mbit/s   delay sum +71965170236026.0ns   delay +497268331.0ns   lost:144721   send:458510
+Cw value = 758
+phyMode OfdmRate54Mbps   Thr 16.6789Mbit/s   delay sum +70420283088770.0ns   delay +497195489.0ns   lost:141635   send:458510
+Cw value = 759
+phyMode OfdmRate54Mbps   Thr 16.4122Mbit/s   delay sum +69299867578639.0ns   delay +497236618.0ns   lost:139370   send:458510
+Cw value = 760
+phyMode OfdmRate54Mbps   Thr 16.8611Mbit/s   delay sum +71207348696967.0ns   delay +497320533.0ns   lost:143182   send:458510
+Cw value = 761
+phyMode OfdmRate54Mbps   Thr 15.7397Mbit/s   delay sum +66448325545476.0ns   delay +497148157.0ns   lost:133659   send:458510
+Cw value = 762
+phyMode OfdmRate54Mbps   Thr 15.8037Mbit/s   delay sum +66730331954189.0ns   delay +497234279.0ns   lost:134203   send:458510
+Cw value = 763
+phyMode OfdmRate54Mbps   Thr 17.0964Mbit/s   delay sum +72189357124200.0ns   delay +497240371.0ns   lost:145180   send:458510
+Cw value = 764
+phyMode OfdmRate54Mbps   Thr 16.7322Mbit/s   delay sum +70648928083361.0ns   delay +497223025.0ns   lost:142087   send:458510
+Cw value = 765
+phyMode OfdmRate54Mbps   Thr 17.2456Mbit/s   delay sum +72825448344553.0ns   delay +497281940.0ns   lost:146447   send:458510
+Cw value = 766
+phyMode OfdmRate54Mbps   Thr 16.8051Mbit/s   delay sum +70962199341972.0ns   delay +497261498.0ns   lost:142706   send:458510
+Cw value = 767
+phyMode OfdmRate54Mbps   Thr 16.7336Mbit/s   delay sum +70653830025506.0ns   delay +497215533.0ns   lost:142099   send:458510
+Cw value = 768
+phyMode OfdmRate54Mbps   Thr 17.1399Mbit/s   delay sum +72379798533346.0ns   delay +497288188.0ns   lost:145549   send:458510
+Cw value = 769
+phyMode OfdmRate54Mbps   Thr 17.0876Mbit/s   delay sum +72139718688403.0ns   delay +497155292.0ns   lost:145105   send:458510
+Cw value = 770
+phyMode OfdmRate54Mbps   Thr 15.4793Mbit/s   delay sum +65356461762904.0ns   delay +497203926.0ns   lost:131448   send:458510
+Cw value = 771
+phyMode OfdmRate54Mbps   Thr 17.1643Mbit/s   delay sum +72476951122437.0ns   delay +497245079.0ns   lost:145757   send:458510
+Cw value = 772
+phyMode OfdmRate54Mbps   Thr 16.9803Mbit/s   delay sum +71696444455618.0ns   delay +497222106.0ns   lost:144194   send:458510
+Cw value = 773
+phyMode OfdmRate54Mbps   Thr 16.8035Mbit/s   delay sum +70959792339567.0ns   delay +497289932.0ns   lost:142693   send:458510
+Cw value = 774
+phyMode OfdmRate54Mbps   Thr 17.0447Mbit/s   delay sum +71969922753161.0ns   delay +497232454.0ns   lost:144741   send:458510
+Cw value = 775
+phyMode OfdmRate54Mbps   Thr 16.2187Mbit/s   delay sum +68482699447557.0ns   delay +497235106.0ns   lost:137727   send:458510
+Cw value = 776
+phyMode OfdmRate54Mbps   Thr 16.5816Mbit/s   delay sum +70018583387535.0ns   delay +497262821.0ns   lost:140808   send:458510
+Cw value = 777
+phyMode OfdmRate54Mbps   Thr 17.0831Mbit/s   delay sum +72143497517534.0ns   delay +497311569.0ns   lost:145067   send:458510
+Cw value = 778
+phyMode OfdmRate54Mbps   Thr 16.9161Mbit/s   delay sum +71436819736189.0ns   delay +497301197.0ns   lost:143649   send:458510
+Cw value = 779
+phyMode OfdmRate54Mbps   Thr 16.9928Mbit/s   delay sum +71763039112578.0ns   delay +497318358.0ns   lost:144300   send:458510
+Cw value = 780
+phyMode OfdmRate54Mbps   Thr 16.6761Mbit/s   delay sum +70418006708173.0ns   delay +497263678.0ns   lost:141611   send:458510
+Cw value = 781
+phyMode OfdmRate54Mbps   Thr 16.9929Mbit/s   delay sum +71758029695687.0ns   delay +497280196.0ns   lost:144301   send:458510
+Cw value = 782
+phyMode OfdmRate54Mbps   Thr 15.9924Mbit/s   delay sum +67525291558911.0ns   delay +497222425.0ns   lost:135805   send:458510
+Cw value = 783
+phyMode OfdmRate54Mbps   Thr 17.0373Mbit/s   delay sum +71951831239231.0ns   delay +497323927.0ns   lost:144678   send:458510
+Cw value = 784
+phyMode OfdmRate54Mbps   Thr 16.2675Mbit/s   delay sum +68695849149389.0ns   delay +497287909.0ns   lost:138141   send:458510
+Cw value = 785
+phyMode OfdmRate54Mbps   Thr 15.9939Mbit/s   delay sum +67531553168512.0ns   delay +497220936.0ns   lost:135818   send:458510
+Cw value = 786
+phyMode OfdmRate54Mbps   Thr 15.9738Mbit/s   delay sum +67452200872412.0ns   delay +497262754.0ns   lost:135647   send:458510
+Cw value = 787
+phyMode OfdmRate54Mbps   Thr 16.9851Mbit/s   delay sum +71725047819839.0ns   delay +497279078.0ns   lost:144235   send:458510
+Cw value = 788
+phyMode OfdmRate54Mbps   Thr 16.3175Mbit/s   delay sum +68899733771106.0ns   delay +497234052.0ns   lost:138566   send:458510
+Cw value = 789
+phyMode OfdmRate54Mbps   Thr 15.5048Mbit/s   delay sum +65451351405224.0ns   delay +497108939.0ns   lost:131664   send:458510
+Cw value = 790
+phyMode OfdmRate54Mbps   Thr 16.6116Mbit/s   delay sum +70143333101792.0ns   delay +497248272.0ns   lost:141063   send:458510
+Cw value = 791
+phyMode OfdmRate54Mbps   Thr 14.9719Mbit/s   delay sum +63211164458645.0ns   delay +497181545.0ns   lost:127139   send:458510
+Cw value = 792
+phyMode OfdmRate54Mbps   Thr 16.4898Mbit/s   delay sum +69635062173450.0ns   delay +497290291.0ns   lost:140029   send:458510
+Cw value = 793
+phyMode OfdmRate54Mbps   Thr 16.2373Mbit/s   delay sum +68571780608806.0ns   delay +497311387.0ns   lost:137885   send:458510
+Cw value = 794
+phyMode OfdmRate54Mbps   Thr 16.9146Mbit/s   delay sum +71426375210605.0ns   delay +497273491.0ns   lost:143636   send:458510
+Cw value = 795
+phyMode OfdmRate54Mbps   Thr 15.2801Mbit/s   delay sum +64513907343080.0ns   delay +497194020.0ns   lost:129756   send:458510
+Cw value = 796
+phyMode OfdmRate54Mbps   Thr 16.2198Mbit/s   delay sum +68496931165429.0ns   delay +497305941.0ns   lost:137736   send:458510
+Cw value = 797
+phyMode OfdmRate54Mbps   Thr 16.2046Mbit/s   delay sum +68422561226765.0ns   delay +497231690.0ns   lost:137607   send:458510
+Cw value = 798
+phyMode OfdmRate54Mbps   Thr 16.2607Mbit/s   delay sum +68662035428654.0ns   delay +497251909.0ns   lost:138083   send:458510
+Cw value = 799
+phyMode OfdmRate54Mbps   Thr 16.5825Mbit/s   delay sum +70029484590037.0ns   delay +497311985.0ns   lost:140816   send:458510
+Cw value = 800
+phyMode OfdmRate54Mbps   Thr 16.6496Mbit/s   delay sum +70301065570817.0ns   delay +497227912.0ns   lost:141386   send:458510
+Cw value = 801
+phyMode OfdmRate54Mbps   Thr 15.5844Mbit/s   delay sum +65790181699652.0ns   delay +497129981.0ns   lost:132340   send:458510
+Cw value = 802
+phyMode OfdmRate54Mbps   Thr 16.2864Mbit/s   delay sum +68775138527345.0ns   delay +497282313.0ns   lost:138302   send:458510
+Cw value = 803
+phyMode OfdmRate54Mbps   Thr 16.0005Mbit/s   delay sum +67552438107925.0ns   delay +497169716.0ns   lost:135874   send:458510
+Cw value = 804
+phyMode OfdmRate54Mbps   Thr 16.6075Mbit/s   delay sum +70128026325907.0ns   delay +497263141.0ns   lost:141028   send:458510
+Cw value = 805
+phyMode OfdmRate54Mbps   Thr 16.0421Mbit/s   delay sum +67756150188727.0ns   delay +497376806.0ns   lost:136227   send:458510
+Cw value = 806
+phyMode OfdmRate54Mbps   Thr 15.5367Mbit/s   delay sum +65603090623197.0ns   delay +497237962.0ns   lost:131935   send:458510
+Cw value = 807
+phyMode OfdmRate54Mbps   Thr 15.7699Mbit/s   delay sum +66588868720369.0ns   delay +497243561.0ns   lost:133916   send:458510
+Cw value = 808
+phyMode OfdmRate54Mbps   Thr 15.8251Mbit/s   delay sum +66826433913548.0ns   delay +497279690.0ns   lost:134384   send:458510
+Cw value = 809
+phyMode OfdmRate54Mbps   Thr 16.7243Mbit/s   delay sum +70631334676623.0ns   delay +497333718.0ns   lost:142020   send:458510
+Cw value = 810
+phyMode OfdmRate54Mbps   Thr 16.2914Mbit/s   delay sum +68801173426217.0ns   delay +497319532.0ns   lost:138344   send:458510
+Cw value = 811
+phyMode OfdmRate54Mbps   Thr 15.8823Mbit/s   delay sum +67054500864849.0ns   delay +497178771.0ns   lost:134870   send:458510
+Cw value = 812
+phyMode OfdmRate54Mbps   Thr 16.3018Mbit/s   delay sum +68837483844126.0ns   delay +497265688.0ns   lost:138432   send:458510
+Cw value = 813
+phyMode OfdmRate54Mbps   Thr 15.2961Mbit/s   delay sum +64584737293406.0ns   delay +497218745.0ns   lost:129892   send:458510
+Cw value = 814
+phyMode OfdmRate54Mbps   Thr 16.3245Mbit/s   delay sum +68932987739645.0ns   delay +497262310.0ns   lost:138625   send:458510
+Cw value = 815
+phyMode OfdmRate54Mbps   Thr 16.1488Mbit/s   delay sum +68200435497199.0ns   delay +497330587.0ns   lost:137133   send:458510
+Cw value = 816
+phyMode OfdmRate54Mbps   Thr 15.6697Mbit/s   delay sum +66152798875630.0ns   delay +497146498.0ns   lost:133065   send:458510
+Cw value = 817
+phyMode OfdmRate54Mbps   Thr 15.9486Mbit/s   delay sum +67331986584371.0ns   delay +497160858.0ns   lost:135433   send:458510
+Cw value = 818
+phyMode OfdmRate54Mbps   Thr 16.6017Mbit/s   delay sum +70117209622981.0ns   delay +497359249.0ns   lost:140979   send:458510
+Cw value = 819
+phyMode OfdmRate54Mbps   Thr 16.6032Mbit/s   delay sum +70117000549775.0ns   delay +497311908.0ns   lost:140992   send:458510
+Cw value = 820
+phyMode OfdmRate54Mbps   Thr 15.7001Mbit/s   delay sum +66281509641804.0ns   delay +497149851.0ns   lost:133323   send:458510
+Cw value = 821
+phyMode OfdmRate54Mbps   Thr 15.6487Mbit/s   delay sum +66075644068951.0ns   delay +497235555.0ns   lost:132886   send:458510
+Cw value = 822
+phyMode OfdmRate54Mbps   Thr 16.6112Mbit/s   delay sum +70145229988176.0ns   delay +497272295.0ns   lost:141060   send:458510
+Cw value = 823
+phyMode OfdmRate54Mbps   Thr 16.3742Mbit/s   delay sum +69138236063298.0ns   delay +497229253.0ns   lost:139047   send:458510
+Cw value = 824
+phyMode OfdmRate54Mbps   Thr 15.9213Mbit/s   delay sum +67223842672683.0ns   delay +497214093.0ns   lost:135201   send:458510
+Cw value = 825
+phyMode OfdmRate54Mbps   Thr 15.4317Mbit/s   delay sum +65166345397335.0ns   delay +497285990.0ns   lost:131044   send:458510
+Cw value = 826
+phyMode OfdmRate54Mbps   Thr 16.3771Mbit/s   delay sum +69161344275944.0ns   delay +497306030.0ns   lost:139072   send:458510
+Cw value = 827
+phyMode OfdmRate54Mbps   Thr 14.5913Mbit/s   delay sum +61593194193117.0ns   delay +497092127.0ns   lost:123907   send:458510
+Cw value = 828
+phyMode OfdmRate54Mbps   Thr 15.5593Mbit/s   delay sum +65688087605545.0ns   delay +497158700.0ns   lost:132127   send:458510
+Cw value = 829
+phyMode OfdmRate54Mbps   Thr 16.4762Mbit/s   delay sum +69590253505467.0ns   delay +497382326.0ns   lost:139913   send:458510
+Cw value = 830
+phyMode OfdmRate54Mbps   Thr 16.5369Mbit/s   delay sum +69839878446864.0ns   delay +497332306.0ns   lost:140429   send:458510
+Cw value = 831
+phyMode OfdmRate54Mbps   Thr 16.5466Mbit/s   delay sum +69875854215236.0ns   delay +497298106.0ns   lost:140511   send:458510
+Cw value = 832
+phyMode OfdmRate54Mbps   Thr 15.7206Mbit/s   delay sum +66388974207606.0ns   delay +497306862.0ns   lost:133497   send:458510
+Cw value = 833
+phyMode OfdmRate54Mbps   Thr 15.3205Mbit/s   delay sum +64678224615427.0ns   delay +497146208.0ns   lost:130099   send:458510
+Cw value = 834
+phyMode OfdmRate54Mbps   Thr 16.3891Mbit/s   delay sum +69220136045362.0ns   delay +497363990.0ns   lost:139174   send:458510
+Cw value = 835
+phyMode OfdmRate54Mbps   Thr 13.8625Mbit/s   delay sum +58504775644643.0ns   delay +496990907.0ns   lost:117718   send:458510
+Cw value = 836
+phyMode OfdmRate54Mbps   Thr 15.6421Mbit/s   delay sum +66056207657576.0ns   delay +497298860.0ns   lost:132830   send:458510
+Cw value = 837
+phyMode OfdmRate54Mbps   Thr 16.0148Mbit/s   delay sum +67627386447040.0ns   delay +497278476.0ns   lost:135995   send:458510
+Cw value = 838
+phyMode OfdmRate54Mbps   Thr 15.4495Mbit/s   delay sum +65239602601259.0ns   delay +497272019.0ns   lost:131195   send:458510
+Cw value = 839
+phyMode OfdmRate54Mbps   Thr 15.7081Mbit/s   delay sum +66342560467401.0ns   delay +497354097.0ns   lost:133391   send:458510
+Cw value = 840
+phyMode OfdmRate54Mbps   Thr 16.2773Mbit/s   delay sum +68747025227053.0ns   delay +497359541.0ns   lost:138224   send:458510
+Cw value = 841
+phyMode OfdmRate54Mbps   Thr 16.0208Mbit/s   delay sum +67650622429131.0ns   delay +497262855.0ns   lost:136046   send:458510
+Cw value = 842
+phyMode OfdmRate54Mbps   Thr 16.033Mbit/s   delay sum +67719236360150.0ns   delay +497386972.0ns   lost:136150   send:458510
+Cw value = 843
+phyMode OfdmRate54Mbps   Thr 13.8353Mbit/s   delay sum +58409098152856.0ns   delay +497153711.0ns   lost:117487   send:458510
+Cw value = 844
+phyMode OfdmRate54Mbps   Thr 15.4685Mbit/s   delay sum +65317835979444.0ns   delay +497258107.0ns   lost:131356   send:458510
+Cw value = 845
+phyMode OfdmRate54Mbps   Thr 15.5668Mbit/s   delay sum +65735609951382.0ns   delay +497277499.0ns   lost:132191   send:458510
+Cw value = 846
+phyMode OfdmRate54Mbps   Thr 15.1136Mbit/s   delay sum +63817365820647.0ns   delay +497244595.0ns   lost:128342   send:458510
+Cw value = 847
+phyMode OfdmRate54Mbps   Thr 15.5211Mbit/s   delay sum +65535605238193.0ns   delay +497223926.0ns   lost:131803   send:458510
+Cw value = 848
+phyMode OfdmRate54Mbps   Thr 15.0569Mbit/s   delay sum +63575057292661.0ns   delay +497220085.0ns   lost:127861   send:458510
+Cw value = 849
+phyMode OfdmRate54Mbps   Thr 16.0224Mbit/s   delay sum +67675138518103.0ns   delay +497391875.0ns   lost:136060   send:458510
+Cw value = 850
+phyMode OfdmRate54Mbps   Thr 16.3233Mbit/s   delay sum +68926125755185.0ns   delay +497248679.0ns   lost:138615   send:458510
+Cw value = 851
+phyMode OfdmRate54Mbps   Thr 15.6982Mbit/s   delay sum +66296463779388.0ns   delay +497321699.0ns   lost:133307   send:458510
+Cw value = 852
+phyMode OfdmRate54Mbps   Thr 14.1241Mbit/s   delay sum +59636592782995.0ns   delay +497220216.0ns   lost:119940   send:458510
+Cw value = 853
+phyMode OfdmRate54Mbps   Thr 15.5242Mbit/s   delay sum +65553337891106.0ns   delay +497260374.0ns   lost:131829   send:458510
+Cw value = 854
+phyMode OfdmRate54Mbps   Thr 15.7277Mbit/s   delay sum +66415632326771.0ns   delay +497283050.0ns   lost:133557   send:458510
+Cw value = 855
+phyMode OfdmRate54Mbps   Thr 15.9338Mbit/s   delay sum +67285743371673.0ns   delay +497282057.0ns   lost:135307   send:458510
+Cw value = 856
+phyMode OfdmRate54Mbps   Thr 15.5051Mbit/s   delay sum +65473023258892.0ns   delay +497262208.0ns   lost:131667   send:458510
+Cw value = 857
+phyMode OfdmRate54Mbps   Thr 15.3958Mbit/s   delay sum +65019814683867.0ns   delay +497325317.0ns   lost:130739   send:458510
+Cw value = 858
+phyMode OfdmRate54Mbps   Thr 16.2562Mbit/s   delay sum +68649623720650.0ns   delay +497298878.0ns   lost:138045   send:458510
+Cw value = 859
+phyMode OfdmRate54Mbps   Thr 16.2243Mbit/s   delay sum +68511999189380.0ns   delay +497278145.0ns   lost:137774   send:458510
+Cw value = 860
+phyMode OfdmRate54Mbps   Thr 14.2994Mbit/s   delay sum +60366028083905.0ns   delay +497134335.0ns   lost:121428   send:458510
+Cw value = 861
+phyMode OfdmRate54Mbps   Thr 15.2295Mbit/s   delay sum +64298040166724.0ns   delay +497174141.0ns   lost:129327   send:458510
+Cw value = 862
+phyMode OfdmRate54Mbps   Thr 16.151Mbit/s   delay sum +68212420904659.0ns   delay +497349079.0ns   lost:137152   send:458510
+Cw value = 863
+phyMode OfdmRate54Mbps   Thr 15.6164Mbit/s   delay sum +65939529066090.0ns   delay +497236517.0ns   lost:132612   send:458510
+Cw value = 864
+phyMode OfdmRate54Mbps   Thr 15.3385Mbit/s   delay sum +64761103346690.0ns   delay +497198533.0ns   lost:130252   send:458510
+Cw value = 865
+phyMode OfdmRate54Mbps   Thr 15.4027Mbit/s   delay sum +65040069533283.0ns   delay +497259643.0ns   lost:130797   send:458510
+Cw value = 866
+phyMode OfdmRate54Mbps   Thr 16.1622Mbit/s   delay sum +68247831033839.0ns   delay +497262825.0ns   lost:137247   send:458510
+Cw value = 867
+phyMode OfdmRate54Mbps   Thr 15.5084Mbit/s   delay sum +65492642534174.0ns   delay +497305459.0ns   lost:131695   send:458510
+Cw value = 868
+phyMode OfdmRate54Mbps   Thr 15.1562Mbit/s   delay sum +64003259822290.0ns   delay +497290370.0ns   lost:128704   send:458510
+Cw value = 869
+phyMode OfdmRate54Mbps   Thr 15.5885Mbit/s   delay sum +65827809154952.0ns   delay +497282788.0ns   lost:132375   send:458510
+Cw value = 870
+phyMode OfdmRate54Mbps   Thr 14.228Mbit/s   delay sum +60081738598110.0ns   delay +497274822.0ns   lost:120822   send:458510
+Cw value = 871
+phyMode OfdmRate54Mbps   Thr 15.5751Mbit/s   delay sum +65783053570657.0ns   delay +497373024.0ns   lost:132261   send:458510
+Cw value = 872
+phyMode OfdmRate54Mbps   Thr 16.0525Mbit/s   delay sum +67794403050608.0ns   delay +497336338.0ns   lost:136315   send:458510
+Cw value = 873
+phyMode OfdmRate54Mbps   Thr 15.0601Mbit/s   delay sum +63589025150720.0ns   delay +497224330.0ns   lost:127888   send:458510
+Cw value = 874
+phyMode OfdmRate54Mbps   Thr 14.301Mbit/s   delay sum +60367263830941.0ns   delay +497087200.0ns   lost:121442   send:458510
+Cw value = 875
+phyMode OfdmRate54Mbps   Thr 14.7524Mbit/s   delay sum +62301627680351.0ns   delay +497318919.0ns   lost:125275   send:458510
+Cw value = 876
+phyMode OfdmRate54Mbps   Thr 15.8016Mbit/s   delay sum +66733725522148.0ns   delay +497326269.0ns   lost:134185   send:458510
+Cw value = 877
+phyMode OfdmRate54Mbps   Thr 15.8671Mbit/s   delay sum +67010234094352.0ns   delay +497326233.0ns   lost:134741   send:458510
+Cw value = 878
+phyMode OfdmRate54Mbps   Thr 15.7223Mbit/s   delay sum +66395458438303.0ns   delay +497303281.0ns   lost:133511   send:458510
+Cw value = 879
+phyMode OfdmRate54Mbps   Thr 15.2082Mbit/s   delay sum +64227858591628.0ns   delay +497327509.0ns   lost:129146   send:458510
+Cw value = 880
+phyMode OfdmRate54Mbps   Thr 15.1263Mbit/s   delay sum +63875131700440.0ns   delay +497276229.0ns   lost:128450   send:458510
+Cw value = 881
+phyMode OfdmRate54Mbps   Thr 15.7887Mbit/s   delay sum +66682526965291.0ns   delay +497352429.0ns   lost:134075   send:458510
+Cw value = 882
+phyMode OfdmRate54Mbps   Thr 15.0576Mbit/s   delay sum +63586105743851.0ns   delay +497283159.0ns   lost:127867   send:458510
